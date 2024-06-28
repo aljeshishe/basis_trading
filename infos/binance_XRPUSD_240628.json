@@ -1,0 +1,137 @@
+{
+    "id": "XRPUSD_240628",
+    "lowercaseId": "xrpusd_240628",
+    "symbol": "XRP/USD:XRP-240628",
+    "base": "XRP",
+    "quote": "USD",
+    "settle": "XRP",
+    "baseId": "XRP",
+    "quoteId": "USD",
+    "settleId": "XRP",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0001,
+    "contractSize": 10.0,
+    "expiry": 1719561600000,
+    "expiryDatetime": "2024-06-28T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 0,
+        "price": 4,
+        "cost": null,
+        "base": 8,
+        "quote": 8
+    },
+    "limits": {
+        "leverage": {
+            "min": null,
+            "max": null
+        },
+        "amount": {
+            "min": 1.0,
+            "max": 100000.0
+        },
+        "price": {
+            "min": 0.015,
+            "max": 115.0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "market": {
+            "min": 1.0,
+            "max": 2000.0
+        }
+    },
+    "created": 1703836800000,
+    "info": {
+        "symbol": "XRPUSD_240628",
+        "pair": "XRPUSD",
+        "contractType": "CURRENT_QUARTER",
+        "deliveryDate": "1719561600000",
+        "onboardDate": "1703836800000",
+        "contractStatus": "TRADING",
+        "contractSize": "10",
+        "marginAsset": "XRP",
+        "maintMarginPercent": "2.5000",
+        "requiredMarginPercent": "5.0000",
+        "baseAsset": "XRP",
+        "quoteAsset": "USD",
+        "pricePrecision": "4",
+        "quantityPrecision": "0",
+        "baseAssetPrecision": "8",
+        "quotePrecision": "8",
+        "equalQtyPrecision": "4",
+        "maxMoveOrderLimit": "10000",
+        "triggerProtect": "0.0500",
+        "underlyingType": "COIN",
+        "underlyingSubType": [],
+        "filters": [
+            {
+                "minPrice": "0.0150",
+                "maxPrice": "115",
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.0001"
+            },
+            {
+                "stepSize": "1",
+                "filterType": "LOT_SIZE",
+                "maxQty": "100000",
+                "minQty": "1"
+            },
+            {
+                "stepSize": "1",
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "2000",
+                "minQty": "1"
+            },
+            {
+                "limit": "200",
+                "filterType": "MAX_NUM_ORDERS"
+            },
+            {
+                "limit": "20",
+                "filterType": "MAX_NUM_ALGO_ORDERS"
+            },
+            {
+                "multiplierDown": "0.9500",
+                "multiplierUp": "1.0500",
+                "multiplierDecimal": "4",
+                "filterType": "PERCENT_PRICE"
+            }
+        ],
+        "orderTypes": [
+            "LIMIT",
+            "MARKET",
+            "STOP",
+            "STOP_MARKET",
+            "TAKE_PROFIT",
+            "TAKE_PROFIT_MARKET",
+            "TRAILING_STOP_MARKET"
+        ],
+        "timeInForce": [
+            "GTC",
+            "IOC",
+            "FOK",
+            "GTX"
+        ],
+        "liquidationFee": "0.010000",
+        "marketTakeBound": "0.05"
+    },
+    "percentage": true,
+    "feeSide": "get",
+    "tierBased": false
+}

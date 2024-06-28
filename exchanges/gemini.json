@@ -1,0 +1,7867 @@
+{
+    "AAVE/USD": {
+        "id": "aaveusd",
+        "lowercaseId": null,
+        "symbol": "AAVE/USD",
+        "base": "AAVE",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "AAVE",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "AAVEUSD",
+            "4",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ALI/USD": {
+        "id": "aliusd",
+        "lowercaseId": null,
+        "symbol": "ALI/USD",
+        "base": "ALI",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ALI",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 2.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ALIUSD",
+            "6",
+            "6",
+            "2",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "AMP/USD": {
+        "id": "ampusd",
+        "lowercaseId": null,
+        "symbol": "AMP/USD",
+        "base": "AMP",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "AMP",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "AMPUSD",
+            "5",
+            "6",
+            "10",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ANKR/USD": {
+        "id": "ankrusd",
+        "lowercaseId": null,
+        "symbol": "ANKR/USD",
+        "base": "ANKR",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ANKR",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ANKRUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "APE/USD": {
+        "id": "apeusd",
+        "lowercaseId": null,
+        "symbol": "APE/USD",
+        "base": "APE",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "APE",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.02,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "APEUSD",
+            "3",
+            "6",
+            "0.02",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "API3/USD": {
+        "id": "api3usd",
+        "lowercaseId": null,
+        "symbol": "API3/USD",
+        "base": "API3",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "API3",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.03,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "API3USD",
+            "3",
+            "6",
+            "0.03",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ATOM/USD": {
+        "id": "atomusd",
+        "lowercaseId": null,
+        "symbol": "ATOM/USD",
+        "base": "ATOM",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ATOM",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ATOMUSD",
+            "3",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "AVAX/USD": {
+        "id": "avaxusd",
+        "lowercaseId": null,
+        "symbol": "AVAX/USD",
+        "base": "AVAX",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.00499999,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "AVAXUSD",
+            "3",
+            "6",
+            "0.00499999",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "AXS/USD": {
+        "id": "axsusd",
+        "lowercaseId": null,
+        "symbol": "AXS/USD",
+        "base": "AXS",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "AXS",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.003,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "AXSUSD",
+            "4",
+            "6",
+            "0.003",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "BAT/BTC": {
+        "id": "batbtc",
+        "lowercaseId": null,
+        "symbol": "BAT/BTC",
+        "base": "BAT",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "BAT",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BATBTC",
+            "8",
+            "6",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "BAT/ETH": {
+        "id": "bateth",
+        "lowercaseId": null,
+        "symbol": "BAT/ETH",
+        "base": "BAT",
+        "quote": "ETH",
+        "settle": null,
+        "baseId": "BAT",
+        "quoteId": "ETH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-07,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BATETH",
+            "7",
+            "6",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "BAT/USD": {
+        "id": "batusd",
+        "lowercaseId": null,
+        "symbol": "BAT/USD",
+        "base": "BAT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "BAT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BATUSD",
+            "5",
+            "6",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "BCH/BTC": {
+        "id": "bchbtc",
+        "lowercaseId": null,
+        "symbol": "BCH/BTC",
+        "base": "BCH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BCHBTC",
+            "5",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "BCH/ETH": {
+        "id": "bcheth",
+        "lowercaseId": null,
+        "symbol": "BCH/ETH",
+        "base": "BCH",
+        "quote": "ETH",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "ETH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BCHETH",
+            "4",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "BCH/USD": {
+        "id": "bchusd",
+        "lowercaseId": null,
+        "symbol": "BCH/USD",
+        "base": "BCH",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BCHUSD",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "BTC/DAI": {
+        "id": "btcdai",
+        "lowercaseId": null,
+        "symbol": "BTC/DAI",
+        "base": "BTC",
+        "quote": "DAI",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "DAI",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BTCDAI",
+            "2",
+            "8",
+            "0.00001",
+            "10",
+            true
+        ],
+        "percentage": true
+    },
+    "BTC/EUR": {
+        "id": "btceur",
+        "lowercaseId": null,
+        "symbol": "BTC/EUR",
+        "base": "BTC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BTCEUR",
+            "2",
+            "8",
+            "0.00001",
+            "10",
+            true
+        ],
+        "percentage": true
+    },
+    "BTC/GBP": {
+        "id": "btcgbp",
+        "lowercaseId": null,
+        "symbol": "BTC/GBP",
+        "base": "BTC",
+        "quote": "GBP",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "GBP",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BTCGBP",
+            "2",
+            "8",
+            "0.00001",
+            "10",
+            true
+        ],
+        "percentage": true
+    },
+    "BTC/GUSD": {
+        "id": "btcgusd",
+        "lowercaseId": null,
+        "symbol": "BTC/GUSD",
+        "base": "BTC",
+        "quote": "GUSD",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "GUSD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BTCGUSD",
+            "2",
+            "8",
+            "0.00001",
+            "10",
+            true
+        ],
+        "percentage": true
+    },
+    "BTC/SGD": {
+        "id": "btcsgd",
+        "lowercaseId": null,
+        "symbol": "BTC/SGD",
+        "base": "BTC",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "SGD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BTCSGD",
+            "2",
+            "8",
+            "0.00001",
+            "10",
+            true
+        ],
+        "percentage": true
+    },
+    "BTC/USD": {
+        "id": "btcusd",
+        "lowercaseId": null,
+        "symbol": "BTC/USD",
+        "base": "BTC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BTCUSD",
+            "2",
+            "8",
+            "0.00001",
+            "10",
+            true
+        ],
+        "percentage": true
+    },
+    "BTC/USDT": {
+        "id": "btcusdt",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BTCUSDT",
+            "2",
+            "8",
+            "0.00001",
+            "10",
+            true
+        ],
+        "percentage": true
+    },
+    "CHZ/USD": {
+        "id": "chzusd",
+        "lowercaseId": null,
+        "symbol": "CHZ/USD",
+        "base": "CHZ",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "CHZ",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.5,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "CHZUSD",
+            "5",
+            "6",
+            "0.5",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "COMP/USD": {
+        "id": "compusd",
+        "lowercaseId": null,
+        "symbol": "COMP/USD",
+        "base": "COMP",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "COMP",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "COMPUSD",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "CRV/USD": {
+        "id": "crvusd",
+        "lowercaseId": null,
+        "symbol": "CRV/USD",
+        "base": "CRV",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "CRV",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "CRVUSD",
+            "4",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "CTX/USD": {
+        "id": "ctxusd",
+        "lowercaseId": null,
+        "symbol": "CTX/USD",
+        "base": "CTX",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "CTX",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.002,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "CTXUSD",
+            "4",
+            "6",
+            "0.002",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "CUBE/USD": {
+        "id": "cubeusd",
+        "lowercaseId": null,
+        "symbol": "CUBE/USD",
+        "base": "CUBE",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "CUBE",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "CUBEUSD",
+            "4",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "DAI/USD": {
+        "id": "daiusd",
+        "lowercaseId": null,
+        "symbol": "DAI/USD",
+        "base": "DAI",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "DAI",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "DAIUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "DOGE/BTC": {
+        "id": "dogebtc",
+        "lowercaseId": null,
+        "symbol": "DOGE/BTC",
+        "base": "DOGE",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-09,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "DOGEBTC",
+            "9",
+            "8",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "DOGE/ETH": {
+        "id": "dogeeth",
+        "lowercaseId": null,
+        "symbol": "DOGE/ETH",
+        "base": "DOGE",
+        "quote": "ETH",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "ETH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "DOGEETH",
+            "8",
+            "8",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "DOGE/USD": {
+        "id": "dogeusd",
+        "lowercaseId": null,
+        "symbol": "DOGE/USD",
+        "base": "DOGE",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "DOGEUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "DOT/USD": {
+        "id": "dotusd",
+        "lowercaseId": null,
+        "symbol": "DOT/USD",
+        "base": "DOT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "DOT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "DOTUSD",
+            "4",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ELON/USD": {
+        "id": "elonusd",
+        "lowercaseId": null,
+        "symbol": "ELON/USD",
+        "base": "ELON",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ELON",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-09,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 60000.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ELONUSD",
+            "9",
+            "6",
+            "60000",
+            "6",
+            true
+        ],
+        "percentage": true
+    },
+    "ENS/USD": {
+        "id": "ensusd",
+        "lowercaseId": null,
+        "symbol": "ENS/USD",
+        "base": "ENS",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ENS",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.002,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ENSUSD",
+            "3",
+            "6",
+            "0.002",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ERN/USD": {
+        "id": "ernusd",
+        "lowercaseId": null,
+        "symbol": "ERN/USD",
+        "base": "ERN",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ERN",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ERNUSD",
+            "4",
+            "6",
+            "0.05",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/BTC": {
+        "id": "ethbtc",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHBTC",
+            "5",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/DAI": {
+        "id": "ethdai",
+        "lowercaseId": null,
+        "symbol": "ETH/DAI",
+        "base": "ETH",
+        "quote": "DAI",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "DAI",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHDAI",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/EUR": {
+        "id": "etheur",
+        "lowercaseId": null,
+        "symbol": "ETH/EUR",
+        "base": "ETH",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHEUR",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/GBP": {
+        "id": "ethgbp",
+        "lowercaseId": null,
+        "symbol": "ETH/GBP",
+        "base": "ETH",
+        "quote": "GBP",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "GBP",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHGBP",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/GUSD": {
+        "id": "ethgusd",
+        "lowercaseId": null,
+        "symbol": "ETH/GUSD",
+        "base": "ETH",
+        "quote": "GUSD",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "GUSD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHGUSD",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/SGD": {
+        "id": "ethsgd",
+        "lowercaseId": null,
+        "symbol": "ETH/SGD",
+        "base": "ETH",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "SGD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHSGD",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/USD": {
+        "id": "ethusd",
+        "lowercaseId": null,
+        "symbol": "ETH/USD",
+        "base": "ETH",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHUSD",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/USDT": {
+        "id": "ethusdt",
+        "lowercaseId": null,
+        "symbol": "ETH/USDT",
+        "base": "ETH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHUSDT",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "FET/USD": {
+        "id": "fetusd",
+        "lowercaseId": null,
+        "symbol": "FET/USD",
+        "base": "FET",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "FET",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "FETUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "FIL/USD": {
+        "id": "filusd",
+        "lowercaseId": null,
+        "symbol": "FIL/USD",
+        "base": "FIL",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "FIL",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "FILUSD",
+            "4",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "FTM/USD": {
+        "id": "ftmusd",
+        "lowercaseId": null,
+        "symbol": "FTM/USD",
+        "base": "FTM",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "FTM",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.03,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "FTMUSD",
+            "4",
+            "6",
+            "0.03",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "GALA/USD": {
+        "id": "galausd",
+        "lowercaseId": null,
+        "symbol": "GALA/USD",
+        "base": "GALA",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "GALA",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.4,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "GALAUSD",
+            "5",
+            "6",
+            "0.4",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "GAL/USD": {
+        "id": "galusd",
+        "lowercaseId": null,
+        "symbol": "GAL/USD",
+        "base": "GAL",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "GAL",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.04,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "GALUSD",
+            "4",
+            "6",
+            "0.04",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "GMT/USD": {
+        "id": "gmtusd",
+        "lowercaseId": null,
+        "symbol": "GMT/USD",
+        "base": "GMT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "GMT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "GMTUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "GRT/USD": {
+        "id": "grtusd",
+        "lowercaseId": null,
+        "symbol": "GRT/USD",
+        "base": "GRT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "GRT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "GRTUSD",
+            "4",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "GUSD/GBP": {
+        "id": "gusdgbp",
+        "lowercaseId": null,
+        "symbol": "GUSD/GBP",
+        "base": "GUSD",
+        "quote": "GBP",
+        "settle": null,
+        "baseId": "GUSD",
+        "quoteId": "GBP",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "GUSDGBP",
+            "5",
+            "4",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "GUSD/SGD": {
+        "id": "gusdsgd",
+        "lowercaseId": null,
+        "symbol": "GUSD/SGD",
+        "base": "GUSD",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "GUSD",
+        "quoteId": "SGD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "GUSDSGD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "G/USD": {
+        "id": "gusdusd",
+        "lowercaseId": null,
+        "symbol": "G/USD",
+        "base": "G",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "G",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "GUSDUSD",
+            "2",
+            "2",
+            "0.01",
+            "2",
+            true
+        ],
+        "percentage": true
+    },
+    "HNT/USD": {
+        "id": "hntusd",
+        "lowercaseId": null,
+        "symbol": "HNT/USD",
+        "base": "HNT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "HNT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.04,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "HNTUSD",
+            "4",
+            "6",
+            "0.04",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "IMX/USD": {
+        "id": "imxusd",
+        "lowercaseId": null,
+        "symbol": "IMX/USD",
+        "base": "IMX",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "IMX",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "IMXUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "INJ/USD": {
+        "id": "injusd",
+        "lowercaseId": null,
+        "symbol": "INJ/USD",
+        "base": "INJ",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "INJ",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "INJUSD",
+            "4",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "IOTX/USD": {
+        "id": "iotxusd",
+        "lowercaseId": null,
+        "symbol": "IOTX/USD",
+        "base": "IOTX",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "IOTX",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 3.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "IOTXUSD",
+            "6",
+            "6",
+            "3",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "JAM/USD": {
+        "id": "jamusd",
+        "lowercaseId": null,
+        "symbol": "JAM/USD",
+        "base": "JAM",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "JAM",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-07,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "JAMUSD",
+            "7",
+            "6",
+            "10",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "LDO/USD": {
+        "id": "ldousd",
+        "lowercaseId": null,
+        "symbol": "LDO/USD",
+        "base": "LDO",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "LDO",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.02,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LDOUSD",
+            "3",
+            "6",
+            "0.02",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "LINK/BTC": {
+        "id": "linkbtc",
+        "lowercaseId": null,
+        "symbol": "LINK/BTC",
+        "base": "LINK",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LINKBTC",
+            "8",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "LINK/ETH": {
+        "id": "linketh",
+        "lowercaseId": null,
+        "symbol": "LINK/ETH",
+        "base": "LINK",
+        "quote": "ETH",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "ETH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-07,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LINKETH",
+            "7",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "LINK/USD": {
+        "id": "linkusd",
+        "lowercaseId": null,
+        "symbol": "LINK/USD",
+        "base": "LINK",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LINKUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "LPT/USD": {
+        "id": "lptusd",
+        "lowercaseId": null,
+        "symbol": "LPT/USD",
+        "base": "LPT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "LPT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LPTUSD",
+            "4",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "LRC/USD": {
+        "id": "lrcusd",
+        "lowercaseId": null,
+        "symbol": "LRC/USD",
+        "base": "LRC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "LRC",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LRCUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "LTC/BCH": {
+        "id": "ltcbch",
+        "lowercaseId": null,
+        "symbol": "LTC/BCH",
+        "base": "LTC",
+        "quote": "BCH",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "BCH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LTCBCH",
+            "4",
+            "5",
+            "0.01",
+            "7",
+            true
+        ],
+        "percentage": true
+    },
+    "LTC/BTC": {
+        "id": "ltcbtc",
+        "lowercaseId": null,
+        "symbol": "LTC/BTC",
+        "base": "LTC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-07,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LTCBTC",
+            "7",
+            "5",
+            "0.01",
+            "7",
+            true
+        ],
+        "percentage": true
+    },
+    "LTC/ETH": {
+        "id": "ltceth",
+        "lowercaseId": null,
+        "symbol": "LTC/ETH",
+        "base": "LTC",
+        "quote": "ETH",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "ETH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LTCETH",
+            "5",
+            "5",
+            "0.01",
+            "7",
+            true
+        ],
+        "percentage": true
+    },
+    "LTC/USD": {
+        "id": "ltcusd",
+        "lowercaseId": null,
+        "symbol": "LTC/USD",
+        "base": "LTC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LTCUSD",
+            "2",
+            "5",
+            "0.01",
+            "7",
+            true
+        ],
+        "percentage": true
+    },
+    "LUNA/USD": {
+        "id": "lunausd",
+        "lowercaseId": null,
+        "symbol": "LUNA/USD",
+        "base": "LUNA",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "LUNA",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LUNAUSD",
+            "8",
+            "6",
+            "1",
+            "6",
+            true
+        ],
+        "percentage": true
+    },
+    "MANA/USD": {
+        "id": "manausd",
+        "lowercaseId": null,
+        "symbol": "MANA/USD",
+        "base": "MANA",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "MANA",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "MANAUSD",
+            "5",
+            "6",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "MASK/USD": {
+        "id": "maskusd",
+        "lowercaseId": null,
+        "symbol": "MASK/USD",
+        "base": "MASK",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "MASK",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "MASKUSD",
+            "3",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "MATIC/USD": {
+        "id": "maticusd",
+        "lowercaseId": null,
+        "symbol": "MATIC/USD",
+        "base": "MATIC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "MATICUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "MKR/USD": {
+        "id": "mkrusd",
+        "lowercaseId": null,
+        "symbol": "MKR/USD",
+        "base": "MKR",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "MKR",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "MKRUSD",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "OXT/BTC": {
+        "id": "oxtbtc",
+        "lowercaseId": null,
+        "symbol": "OXT/BTC",
+        "base": "OXT",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "OXT",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "OXTBTC",
+            "8",
+            "6",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "OXT/ETH": {
+        "id": "oxteth",
+        "lowercaseId": null,
+        "symbol": "OXT/ETH",
+        "base": "OXT",
+        "quote": "ETH",
+        "settle": null,
+        "baseId": "OXT",
+        "quoteId": "ETH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-07,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "OXTETH",
+            "7",
+            "6",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "OXT/USD": {
+        "id": "oxtusd",
+        "lowercaseId": null,
+        "symbol": "OXT/USD",
+        "base": "OXT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "OXT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "OXTUSD",
+            "5",
+            "6",
+            "1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "PAX/GUSD": {
+        "id": "paxgusd",
+        "lowercaseId": null,
+        "symbol": "PAX/GUSD",
+        "base": "PAX",
+        "quote": "GUSD",
+        "settle": null,
+        "baseId": "PAX",
+        "quoteId": "GUSD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "PAXGUSD",
+            "2",
+            "8",
+            "0.0001",
+            "10",
+            true
+        ],
+        "percentage": true
+    },
+    "PEPE/USD": {
+        "id": "pepeusd",
+        "lowercaseId": null,
+        "symbol": "PEPE/USD",
+        "base": "PEPE",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "PEPE",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-09,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1000.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "PEPEUSD",
+            "9",
+            "6",
+            "1000",
+            "6",
+            true
+        ],
+        "percentage": true
+    },
+    "QNT/USD": {
+        "id": "qntusd",
+        "lowercaseId": null,
+        "symbol": "QNT/USD",
+        "base": "QNT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "QNT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0004,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "QNTUSD",
+            "2",
+            "6",
+            "0.0004",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "QRDO/USD": {
+        "id": "qrdousd",
+        "lowercaseId": null,
+        "symbol": "QRDO/USD",
+        "base": "QRDO",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "QRDO",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.04,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "QRDOUSD",
+            "5",
+            "6",
+            "0.04",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "RARE/USD": {
+        "id": "rareusd",
+        "lowercaseId": null,
+        "symbol": "RARE/USD",
+        "base": "RARE",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "RARE",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "RAREUSD",
+            "3",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "REN/USD": {
+        "id": "renusd",
+        "lowercaseId": null,
+        "symbol": "REN/USD",
+        "base": "REN",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "REN",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "RENUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "RNDR/USD": {
+        "id": "rndrusd",
+        "lowercaseId": null,
+        "symbol": "RNDR/USD",
+        "base": "RNDR",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "RNDR",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.02,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "RNDRUSD",
+            "3",
+            "6",
+            "0.02",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "SAMO/USD": {
+        "id": "samousd",
+        "lowercaseId": null,
+        "symbol": "SAMO/USD",
+        "base": "SAMO",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "SAMO",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-07,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SAMOUSD",
+            "7",
+            "6",
+            "10",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "SAND/USD": {
+        "id": "sandusd",
+        "lowercaseId": null,
+        "symbol": "SAND/USD",
+        "base": "SAND",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "SAND",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SANDUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "SHIB/USD": {
+        "id": "shibusd",
+        "lowercaseId": null,
+        "symbol": "SHIB/USD",
+        "base": "SHIB",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "SHIB",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-09,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1000.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SHIBUSD",
+            "9",
+            "6",
+            "1000",
+            "6",
+            true
+        ],
+        "percentage": true
+    },
+    "SKL/USD": {
+        "id": "sklusd",
+        "lowercaseId": null,
+        "symbol": "SKL/USD",
+        "base": "SKL",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "SKL",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SKLUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "SNX/USD": {
+        "id": "snxusd",
+        "lowercaseId": null,
+        "symbol": "SNX/USD",
+        "base": "SNX",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "SNX",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SNXUSD",
+            "4",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "SOL/BTC": {
+        "id": "solbtc",
+        "lowercaseId": null,
+        "symbol": "SOL/BTC",
+        "base": "SOL",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-07,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SOLBTC",
+            "7",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "SOL/ETH": {
+        "id": "soleth",
+        "lowercaseId": null,
+        "symbol": "SOL/ETH",
+        "base": "SOL",
+        "quote": "ETH",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "ETH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SOLETH",
+            "6",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "SOL/USD": {
+        "id": "solusd",
+        "lowercaseId": null,
+        "symbol": "SOL/USD",
+        "base": "SOL",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SOLUSD",
+            "3",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "STORJ/USD": {
+        "id": "storjusd",
+        "lowercaseId": null,
+        "symbol": "STORJ/USD",
+        "base": "STORJ",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "STORJ",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "STORJUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "SUSHI/USD": {
+        "id": "sushiusd",
+        "lowercaseId": null,
+        "symbol": "SUSHI/USD",
+        "base": "SUSHI",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "SUSHI",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SUSHIUSD",
+            "4",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "UMA/USD": {
+        "id": "umausd",
+        "lowercaseId": null,
+        "symbol": "UMA/USD",
+        "base": "UMA",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "UMA",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "UMAUSD",
+            "4",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "UNI/USD": {
+        "id": "uniusd",
+        "lowercaseId": null,
+        "symbol": "UNI/USD",
+        "base": "UNI",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "UNI",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "UNIUSD",
+            "4",
+            "6",
+            "0.01",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "C/USD": {
+        "id": "usdcusd",
+        "lowercaseId": null,
+        "symbol": "C/USD",
+        "base": "C",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "C",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "USDCUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "T/USD": {
+        "id": "usdtusd",
+        "lowercaseId": null,
+        "symbol": "T/USD",
+        "base": "T",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "T",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "USDTUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "XRP/USD": {
+        "id": "xrpusd",
+        "lowercaseId": null,
+        "symbol": "XRP/USD",
+        "base": "XRP",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "XRPUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "XTZ/USD": {
+        "id": "xtzusd",
+        "lowercaseId": null,
+        "symbol": "XTZ/USD",
+        "base": "XTZ",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "XTZ",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.02,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "XTZUSD",
+            "4",
+            "6",
+            "0.02",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "YFI/USD": {
+        "id": "yfiusd",
+        "lowercaseId": null,
+        "symbol": "YFI/USD",
+        "base": "YFI",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "YFI",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "YFIUSD",
+            "2",
+            "6",
+            "0.00001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ZBC/USD": {
+        "id": "zbcusd",
+        "lowercaseId": null,
+        "symbol": "ZBC/USD",
+        "base": "ZBC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ZBC",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 3.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ZBCUSD",
+            "5",
+            "6",
+            "3",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ZEC/BCH": {
+        "id": "zecbch",
+        "lowercaseId": null,
+        "symbol": "ZEC/BCH",
+        "base": "ZEC",
+        "quote": "BCH",
+        "settle": null,
+        "baseId": "ZEC",
+        "quoteId": "BCH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ZECBCH",
+            "4",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ZEC/BTC": {
+        "id": "zecbtc",
+        "lowercaseId": null,
+        "symbol": "ZEC/BTC",
+        "base": "ZEC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ZEC",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-07,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ZECBTC",
+            "7",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ZEC/ETH": {
+        "id": "zeceth",
+        "lowercaseId": null,
+        "symbol": "ZEC/ETH",
+        "base": "ZEC",
+        "quote": "ETH",
+        "settle": null,
+        "baseId": "ZEC",
+        "quoteId": "ETH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ZECETH",
+            "5",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ZEC/LTC": {
+        "id": "zecltc",
+        "lowercaseId": null,
+        "symbol": "ZEC/LTC",
+        "base": "ZEC",
+        "quote": "LTC",
+        "settle": null,
+        "baseId": "ZEC",
+        "quoteId": "LTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ZECLTC",
+            "3",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ZEC/USD": {
+        "id": "zecusd",
+        "lowercaseId": null,
+        "symbol": "ZEC/USD",
+        "base": "ZEC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ZEC",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ZECUSD",
+            "2",
+            "6",
+            "0.001",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "ZRX/USD": {
+        "id": "zrxusd",
+        "lowercaseId": null,
+        "symbol": "ZRX/USD",
+        "base": "ZRX",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "ZRX",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ZRXUSD",
+            "5",
+            "6",
+            "0.1",
+            "8",
+            true
+        ],
+        "percentage": true
+    },
+    "AVAX/GUSD:GUSD": {
+        "id": "avaxgusdperp",
+        "lowercaseId": null,
+        "symbol": "AVAX/GUSD:GUSD",
+        "base": "AVAX",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "AVAX",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.001,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "AVAXGUSDPERP",
+            "3",
+            "1",
+            "0.1",
+            "5",
+            true
+        ],
+        "percentage": true
+    },
+    "BNB/GUSD:GUSD": {
+        "id": "bnbgusdperp",
+        "lowercaseId": null,
+        "symbol": "BNB/GUSD:GUSD",
+        "base": "BNB",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "BNB",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.01,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BNBGUSDPERP",
+            "2",
+            "2",
+            "0.01",
+            "6",
+            true
+        ],
+        "percentage": true
+    },
+    "BTC/GUSD:GUSD": {
+        "id": "btcgusdperp",
+        "lowercaseId": null,
+        "symbol": "BTC/GUSD:GUSD",
+        "base": "BTC",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "BTC",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "BTCGUSDPERP",
+            "1",
+            "4",
+            "0.0001",
+            "4",
+            true
+        ],
+        "percentage": true
+    },
+    "DOGE/GUSD:GUSD": {
+        "id": "dogegusdperp",
+        "lowercaseId": null,
+        "symbol": "DOGE/GUSD:GUSD",
+        "base": "DOGE",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "DOGE",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1e-05,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "DOGEGUSDPERP",
+            "5",
+            "0",
+            "1",
+            "4",
+            true
+        ],
+        "percentage": true
+    },
+    "DOT/GUSD:GUSD": {
+        "id": "dotgusdperp",
+        "lowercaseId": null,
+        "symbol": "DOT/GUSD:GUSD",
+        "base": "DOT",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "DOT",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.001,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "DOTGUSDPERP",
+            "3",
+            "0",
+            "1",
+            "4",
+            true
+        ],
+        "percentage": true
+    },
+    "ETH/GUSD:GUSD": {
+        "id": "ethgusdperp",
+        "lowercaseId": null,
+        "symbol": "ETH/GUSD:GUSD",
+        "base": "ETH",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "ETH",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.01,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "ETHGUSDPERP",
+            "2",
+            "3",
+            "0.001",
+            "3",
+            true
+        ],
+        "percentage": true
+    },
+    "INJ/GUSD:GUSD": {
+        "id": "injgusdperp",
+        "lowercaseId": null,
+        "symbol": "INJ/GUSD:GUSD",
+        "base": "INJ",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "INJ",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.001,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "INJGUSDPERP",
+            "3",
+            "1",
+            "0.1",
+            "5",
+            true
+        ],
+        "percentage": true
+    },
+    "LINK/GUSD:GUSD": {
+        "id": "linkgusdperp",
+        "lowercaseId": null,
+        "symbol": "LINK/GUSD:GUSD",
+        "base": "LINK",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "LINK",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.001,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LINKGUSDPERP",
+            "3",
+            "1",
+            "0.1",
+            "5",
+            true
+        ],
+        "percentage": true
+    },
+    "LTC/GUSD:GUSD": {
+        "id": "ltcgusdperp",
+        "lowercaseId": null,
+        "symbol": "LTC/GUSD:GUSD",
+        "base": "LTC",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "LTC",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.01,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "LTCGUSDPERP",
+            "2",
+            "1",
+            "0.1",
+            "5",
+            true
+        ],
+        "percentage": true
+    },
+    "MATIC/GUSD:GUSD": {
+        "id": "maticgusdperp",
+        "lowercaseId": null,
+        "symbol": "MATIC/GUSD:GUSD",
+        "base": "MATIC",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "MATIC",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.0001,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "MATICGUSDPERP",
+            "4",
+            "0",
+            "1",
+            "3",
+            true
+        ],
+        "percentage": true
+    },
+    "PEPE/GUSD:GUSD": {
+        "id": "pepegusdperp",
+        "lowercaseId": null,
+        "symbol": "PEPE/GUSD:GUSD",
+        "base": "PEPE",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "PEPE",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1e-09,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-09,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "PEPEGUSDPERP",
+            "9",
+            "0",
+            "1",
+            "1",
+            true
+        ],
+        "percentage": true
+    },
+    "SOL/GUSD:GUSD": {
+        "id": "solgusdperp",
+        "lowercaseId": null,
+        "symbol": "SOL/GUSD:GUSD",
+        "base": "SOL",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "SOL",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.001,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "SOLGUSDPERP",
+            "3",
+            "1",
+            "0.1",
+            "3",
+            true
+        ],
+        "percentage": true
+    },
+    "WIF/GUSD:GUSD": {
+        "id": "wifgusdperp",
+        "lowercaseId": null,
+        "symbol": "WIF/GUSD:GUSD",
+        "base": "WIF",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "WIF",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1e-05,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "WIFGUSDPERP",
+            "5",
+            "0",
+            "1",
+            "4",
+            true
+        ],
+        "percentage": true
+    },
+    "XRP/GUSD:GUSD": {
+        "id": "xrpgusdperp",
+        "lowercaseId": null,
+        "symbol": "XRP/GUSD:GUSD",
+        "base": "XRP",
+        "quote": "GUSD",
+        "settle": "GUSD",
+        "baseId": "XRP",
+        "quoteId": "GUSD",
+        "settleId": "GUSD",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 0.0001,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": [
+            "XRPGUSDPERP",
+            "4",
+            "0",
+            "1",
+            "3",
+            true
+        ],
+        "percentage": true
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "BTC/EUR": {
+        "id": "eur",
+        "lowercaseId": null,
+        "symbol": "BTC/EUR",
+        "base": "BTC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "btc",
+        "quoteId": "eur",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true
+    }
+}

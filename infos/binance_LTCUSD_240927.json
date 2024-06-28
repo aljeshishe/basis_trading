@@ -1,0 +1,137 @@
+{
+    "id": "LTCUSD_240927",
+    "lowercaseId": "ltcusd_240927",
+    "symbol": "LTC/USD:LTC-240927",
+    "base": "LTC",
+    "quote": "USD",
+    "settle": "LTC",
+    "baseId": "LTC",
+    "quoteId": "USD",
+    "settleId": "LTC",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0001,
+    "contractSize": 10.0,
+    "expiry": 1727424000000,
+    "expiryDatetime": "2024-09-27T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 0,
+        "price": 2,
+        "cost": null,
+        "base": 8,
+        "quote": 8
+    },
+    "limits": {
+        "leverage": {
+            "min": null,
+            "max": null
+        },
+        "amount": {
+            "min": 1.0,
+            "max": 1000000.0
+        },
+        "price": {
+            "min": 3.8,
+            "max": 17562.0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "market": {
+            "min": 1.0,
+            "max": 1500.0
+        }
+    },
+    "created": 1711699200000,
+    "info": {
+        "symbol": "LTCUSD_240927",
+        "pair": "LTCUSD",
+        "contractType": "CURRENT_QUARTER",
+        "deliveryDate": "1727424000000",
+        "onboardDate": "1711699200000",
+        "contractStatus": "TRADING",
+        "contractSize": "10",
+        "marginAsset": "LTC",
+        "maintMarginPercent": "2.5000",
+        "requiredMarginPercent": "5.0000",
+        "baseAsset": "LTC",
+        "quoteAsset": "USD",
+        "pricePrecision": "2",
+        "quantityPrecision": "0",
+        "baseAssetPrecision": "8",
+        "quotePrecision": "8",
+        "equalQtyPrecision": "4",
+        "maxMoveOrderLimit": "10000",
+        "triggerProtect": "0.0500",
+        "underlyingType": "COIN",
+        "underlyingSubType": [],
+        "filters": [
+            {
+                "minPrice": "3.80",
+                "maxPrice": "17562",
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.01"
+            },
+            {
+                "stepSize": "1",
+                "filterType": "LOT_SIZE",
+                "maxQty": "1000000",
+                "minQty": "1"
+            },
+            {
+                "stepSize": "1",
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "1500",
+                "minQty": "1"
+            },
+            {
+                "limit": "200",
+                "filterType": "MAX_NUM_ORDERS"
+            },
+            {
+                "limit": "20",
+                "filterType": "MAX_NUM_ALGO_ORDERS"
+            },
+            {
+                "multiplierDown": "0.9500",
+                "multiplierUp": "1.0500",
+                "multiplierDecimal": "4",
+                "filterType": "PERCENT_PRICE"
+            }
+        ],
+        "orderTypes": [
+            "LIMIT",
+            "MARKET",
+            "STOP",
+            "STOP_MARKET",
+            "TAKE_PROFIT",
+            "TAKE_PROFIT_MARKET",
+            "TRAILING_STOP_MARKET"
+        ],
+        "timeInForce": [
+            "GTC",
+            "IOC",
+            "FOK",
+            "GTX"
+        ],
+        "liquidationFee": "0.010000",
+        "marketTakeBound": "0.05"
+    },
+    "percentage": true,
+    "feeSide": "get",
+    "tierBased": false
+}

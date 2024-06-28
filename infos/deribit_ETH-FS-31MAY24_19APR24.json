@@ -1,0 +1,79 @@
+{
+    "id": "ETH-FS-31MAY24_19APR24",
+    "lowercaseId": null,
+    "symbol": "ETH-FS-31MAY24_19APR24",
+    "base": "ETH",
+    "quote": "USD",
+    "settle": "ETH",
+    "baseId": "ETH",
+    "quoteId": "USD",
+    "settleId": "ETH",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0,
+    "maker": 0.0,
+    "contractSize": 1.0,
+    "expiry": 1713513600000,
+    "expiryDatetime": "2024-04-19T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.05,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": null,
+            "max": null
+        },
+        "amount": {
+            "min": 1.0,
+            "max": null
+        },
+        "price": {
+            "min": 0.05,
+            "max": null
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        }
+    },
+    "created": 1712306944000,
+    "info": {
+        "tick_size_steps": [],
+        "quote_currency": "USD",
+        "min_trade_amount": "1",
+        "counter_currency": "USD",
+        "settlement_period": "week",
+        "settlement_currency": "ETH",
+        "creation_timestamp": "1712306944000",
+        "instrument_id": "312697",
+        "base_currency": "ETH",
+        "tick_size": "0.05",
+        "contract_size": "1",
+        "is_active": true,
+        "expiration_timestamp": "1713513600000",
+        "instrument_type": "reversed",
+        "instrument_name": "ETH-FS-31MAY24_19APR24",
+        "taker_commission": "0.0",
+        "maker_commission": "0.0",
+        "kind": "future_combo",
+        "rfq": false,
+        "price_index": "eth_usd"
+    },
+    "percentage": true
+}

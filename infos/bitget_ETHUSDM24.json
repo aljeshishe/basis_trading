@@ -1,0 +1,98 @@
+{
+    "id": "ETHUSDM24",
+    "lowercaseId": null,
+    "symbol": "ETH/USD:ETH-240628",
+    "base": "ETH",
+    "quote": "USD",
+    "settle": "ETH",
+    "baseId": "ETH",
+    "quoteId": "USD",
+    "settleId": "ETH",
+    "type": "future",
+    "spot": false,
+    "margin": null,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0006,
+    "maker": 0.0002,
+    "contractSize": 1,
+    "expiry": 1719561600000,
+    "expiryDatetime": "2024-06-28T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 0.01,
+        "price": 0.01,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": 1.0,
+            "max": 50.0
+        },
+        "amount": {
+            "min": 0.01,
+            "max": null
+        },
+        "price": {
+            "min": null,
+            "max": null
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        }
+    },
+    "created": null,
+    "info": {
+        "symbol": "ETHUSDM24",
+        "baseCoin": "ETH",
+        "quoteCoin": "USD",
+        "buyLimitPriceRatio": "0.02",
+        "sellLimitPriceRatio": "0.02",
+        "feeRateUpRatio": "0.005",
+        "makerFeeRate": "0.0002",
+        "takerFeeRate": "0.0006",
+        "openCostUpRatio": "0.01",
+        "supportMarginCoins": [
+            "ETH",
+            "BTC",
+            "USDC",
+            "XRP",
+            "BGB",
+            "STETH"
+        ],
+        "minTradeNum": "0.01",
+        "priceEndStep": "1",
+        "volumePlace": "2",
+        "pricePlace": "2",
+        "sizeMultiplier": "0.01",
+        "symbolType": "delivery",
+        "minTradeUSDT": "5",
+        "maxSymbolOrderNum": "200",
+        "maxProductOrderNum": "400",
+        "maxPositionNum": "150",
+        "symbolStatus": "normal",
+        "offTime": "-1",
+        "limitOpenTime": "-1",
+        "deliveryTime": "1719561600000",
+        "deliveryStartTime": "1703836804519",
+        "deliveryPeriod": "this_quarter",
+        "launchTime": "",
+        "fundInterval": "",
+        "minLever": "1",
+        "maxLever": "50",
+        "posLimit": "0.05",
+        "maintainTime": ""
+    },
+    "percentage": true
+}

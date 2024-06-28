@@ -1,0 +1,89 @@
+{
+    "id": "LTC-USD-240412",
+    "lowercaseId": null,
+    "symbol": "LTC/USD:LTC-240412",
+    "base": "LTC",
+    "quote": "USD",
+    "settle": "LTC",
+    "baseId": "LTC",
+    "quoteId": "USD",
+    "settleId": "LTC",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0002,
+    "contractSize": 10.0,
+    "expiry": 1712908800000,
+    "expiryDatetime": "2024-04-12T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.01,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": 1.0,
+            "max": 50.0
+        },
+        "amount": {
+            "min": 1.0,
+            "max": null
+        },
+        "price": {
+            "min": null,
+            "max": null
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        }
+    },
+    "created": 1711699800477,
+    "info": {
+        "alias": "this_week",
+        "baseCcy": "",
+        "category": "1",
+        "ctMult": "1",
+        "ctType": "inverse",
+        "ctVal": "10",
+        "ctValCcy": "USD",
+        "expTime": "1712908800000",
+        "instFamily": "LTC-USD",
+        "instId": "LTC-USD-240412",
+        "instType": "FUTURES",
+        "lever": "50",
+        "listTime": "1711699800477",
+        "lotSz": "1",
+        "maxIcebergSz": "1000000.0000000000000000",
+        "maxLmtAmt": "20000000",
+        "maxLmtSz": "1000000",
+        "maxMktAmt": "",
+        "maxMktSz": "60000",
+        "maxStopSz": "60000",
+        "maxTriggerSz": "1000000.0000000000000000",
+        "maxTwapSz": "1000000.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "",
+        "settleCcy": "LTC",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.01",
+        "uly": "LTC-USD"
+    },
+    "percentage": true
+}

@@ -1,0 +1,6846 @@
+{
+    "BTC/AUD": {
+        "id": "Xbt/Aud",
+        "lowercaseId": null,
+        "symbol": "BTC/AUD",
+        "base": "BTC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Xbt",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xbt/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BTC/USD": {
+        "id": "Xbt/Usd",
+        "lowercaseId": null,
+        "symbol": "BTC/USD",
+        "base": "BTC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Xbt",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xbt/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BTC/NZD": {
+        "id": "Xbt/Nzd",
+        "lowercaseId": null,
+        "symbol": "BTC/NZD",
+        "base": "BTC",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Xbt",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xbt/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BTC/SGD": {
+        "id": "Xbt/Sgd",
+        "lowercaseId": null,
+        "symbol": "BTC/SGD",
+        "base": "BTC",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Xbt",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xbt/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETH/AUD": {
+        "id": "Eth/Aud",
+        "lowercaseId": null,
+        "symbol": "ETH/AUD",
+        "base": "ETH",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Eth",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Eth/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETH/USD": {
+        "id": "Eth/Usd",
+        "lowercaseId": null,
+        "symbol": "ETH/USD",
+        "base": "ETH",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Eth",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Eth/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETH/NZD": {
+        "id": "Eth/Nzd",
+        "lowercaseId": null,
+        "symbol": "ETH/NZD",
+        "base": "ETH",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Eth",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Eth/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETH/SGD": {
+        "id": "Eth/Sgd",
+        "lowercaseId": null,
+        "symbol": "ETH/SGD",
+        "base": "ETH",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Eth",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Eth/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SOL/AUD": {
+        "id": "Sol/Aud",
+        "lowercaseId": null,
+        "symbol": "SOL/AUD",
+        "base": "SOL",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Sol",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Sol/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SOL/USD": {
+        "id": "Sol/Usd",
+        "lowercaseId": null,
+        "symbol": "SOL/USD",
+        "base": "SOL",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Sol",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Sol/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SOL/NZD": {
+        "id": "Sol/Nzd",
+        "lowercaseId": null,
+        "symbol": "SOL/NZD",
+        "base": "SOL",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Sol",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Sol/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SOL/SGD": {
+        "id": "Sol/Sgd",
+        "lowercaseId": null,
+        "symbol": "SOL/SGD",
+        "base": "SOL",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Sol",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Sol/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "XRP/AUD": {
+        "id": "Xrp/Aud",
+        "lowercaseId": null,
+        "symbol": "XRP/AUD",
+        "base": "XRP",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Xrp",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xrp/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "XRP/USD": {
+        "id": "Xrp/Usd",
+        "lowercaseId": null,
+        "symbol": "XRP/USD",
+        "base": "XRP",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Xrp",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xrp/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "XRP/NZD": {
+        "id": "Xrp/Nzd",
+        "lowercaseId": null,
+        "symbol": "XRP/NZD",
+        "base": "XRP",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Xrp",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xrp/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "XRP/SGD": {
+        "id": "Xrp/Sgd",
+        "lowercaseId": null,
+        "symbol": "XRP/SGD",
+        "base": "XRP",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Xrp",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xrp/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDC/AUD": {
+        "id": "Usdc/Aud",
+        "lowercaseId": null,
+        "symbol": "USDC/AUD",
+        "base": "USDC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Usdc",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Usdc/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDC/USD": {
+        "id": "Usdc/Usd",
+        "lowercaseId": null,
+        "symbol": "USDC/USD",
+        "base": "USDC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Usdc",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Usdc/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDC/NZD": {
+        "id": "Usdc/Nzd",
+        "lowercaseId": null,
+        "symbol": "USDC/NZD",
+        "base": "USDC",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Usdc",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Usdc/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDC/SGD": {
+        "id": "Usdc/Sgd",
+        "lowercaseId": null,
+        "symbol": "USDC/SGD",
+        "base": "USDC",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Usdc",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Usdc/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDT/AUD": {
+        "id": "Usdt/Aud",
+        "lowercaseId": null,
+        "symbol": "USDT/AUD",
+        "base": "USDT",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Usdt",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Usdt/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDT/USD": {
+        "id": "Usdt/Usd",
+        "lowercaseId": null,
+        "symbol": "USDT/USD",
+        "base": "USDT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Usdt",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Usdt/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDT/NZD": {
+        "id": "Usdt/Nzd",
+        "lowercaseId": null,
+        "symbol": "USDT/NZD",
+        "base": "USDT",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Usdt",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Usdt/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDT/SGD": {
+        "id": "Usdt/Sgd",
+        "lowercaseId": null,
+        "symbol": "USDT/SGD",
+        "base": "USDT",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Usdt",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Usdt/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "AAVE/AUD": {
+        "id": "Aave/Aud",
+        "lowercaseId": null,
+        "symbol": "AAVE/AUD",
+        "base": "AAVE",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Aave",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Aave/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "AAVE/USD": {
+        "id": "Aave/Usd",
+        "lowercaseId": null,
+        "symbol": "AAVE/USD",
+        "base": "AAVE",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Aave",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Aave/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "AAVE/NZD": {
+        "id": "Aave/Nzd",
+        "lowercaseId": null,
+        "symbol": "AAVE/NZD",
+        "base": "AAVE",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Aave",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Aave/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "AAVE/SGD": {
+        "id": "Aave/Sgd",
+        "lowercaseId": null,
+        "symbol": "AAVE/SGD",
+        "base": "AAVE",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Aave",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Aave/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ADA/AUD": {
+        "id": "Ada/Aud",
+        "lowercaseId": null,
+        "symbol": "ADA/AUD",
+        "base": "ADA",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Ada",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Ada/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ADA/USD": {
+        "id": "Ada/Usd",
+        "lowercaseId": null,
+        "symbol": "ADA/USD",
+        "base": "ADA",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Ada",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Ada/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ADA/NZD": {
+        "id": "Ada/Nzd",
+        "lowercaseId": null,
+        "symbol": "ADA/NZD",
+        "base": "ADA",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Ada",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Ada/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ADA/SGD": {
+        "id": "Ada/Sgd",
+        "lowercaseId": null,
+        "symbol": "ADA/SGD",
+        "base": "ADA",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Ada",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Ada/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BAT/AUD": {
+        "id": "Bat/Aud",
+        "lowercaseId": null,
+        "symbol": "BAT/AUD",
+        "base": "BAT",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Bat",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Bat/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BAT/USD": {
+        "id": "Bat/Usd",
+        "lowercaseId": null,
+        "symbol": "BAT/USD",
+        "base": "BAT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Bat",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Bat/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BAT/NZD": {
+        "id": "Bat/Nzd",
+        "lowercaseId": null,
+        "symbol": "BAT/NZD",
+        "base": "BAT",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Bat",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Bat/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BAT/SGD": {
+        "id": "Bat/Sgd",
+        "lowercaseId": null,
+        "symbol": "BAT/SGD",
+        "base": "BAT",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Bat",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Bat/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BCH/AUD": {
+        "id": "Bch/Aud",
+        "lowercaseId": null,
+        "symbol": "BCH/AUD",
+        "base": "BCH",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Bch",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Bch/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BCH/USD": {
+        "id": "Bch/Usd",
+        "lowercaseId": null,
+        "symbol": "BCH/USD",
+        "base": "BCH",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Bch",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Bch/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BCH/NZD": {
+        "id": "Bch/Nzd",
+        "lowercaseId": null,
+        "symbol": "BCH/NZD",
+        "base": "BCH",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Bch",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Bch/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "BCH/SGD": {
+        "id": "Bch/Sgd",
+        "lowercaseId": null,
+        "symbol": "BCH/SGD",
+        "base": "BCH",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Bch",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Bch/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "COMP/AUD": {
+        "id": "Comp/Aud",
+        "lowercaseId": null,
+        "symbol": "COMP/AUD",
+        "base": "COMP",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Comp",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Comp/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "COMP/USD": {
+        "id": "Comp/Usd",
+        "lowercaseId": null,
+        "symbol": "COMP/USD",
+        "base": "COMP",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Comp",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Comp/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "COMP/NZD": {
+        "id": "Comp/Nzd",
+        "lowercaseId": null,
+        "symbol": "COMP/NZD",
+        "base": "COMP",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Comp",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Comp/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "COMP/SGD": {
+        "id": "Comp/Sgd",
+        "lowercaseId": null,
+        "symbol": "COMP/SGD",
+        "base": "COMP",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Comp",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Comp/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DAI/AUD": {
+        "id": "Dai/Aud",
+        "lowercaseId": null,
+        "symbol": "DAI/AUD",
+        "base": "DAI",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Dai",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Dai/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DAI/USD": {
+        "id": "Dai/Usd",
+        "lowercaseId": null,
+        "symbol": "DAI/USD",
+        "base": "DAI",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Dai",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Dai/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DAI/NZD": {
+        "id": "Dai/Nzd",
+        "lowercaseId": null,
+        "symbol": "DAI/NZD",
+        "base": "DAI",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Dai",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Dai/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DAI/SGD": {
+        "id": "Dai/Sgd",
+        "lowercaseId": null,
+        "symbol": "DAI/SGD",
+        "base": "DAI",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Dai",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Dai/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOGE/AUD": {
+        "id": "Doge/Aud",
+        "lowercaseId": null,
+        "symbol": "DOGE/AUD",
+        "base": "DOGE",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Doge",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Doge/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOGE/USD": {
+        "id": "Doge/Usd",
+        "lowercaseId": null,
+        "symbol": "DOGE/USD",
+        "base": "DOGE",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Doge",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Doge/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOGE/NZD": {
+        "id": "Doge/Nzd",
+        "lowercaseId": null,
+        "symbol": "DOGE/NZD",
+        "base": "DOGE",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Doge",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Doge/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOGE/SGD": {
+        "id": "Doge/Sgd",
+        "lowercaseId": null,
+        "symbol": "DOGE/SGD",
+        "base": "DOGE",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Doge",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Doge/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOT/AUD": {
+        "id": "Dot/Aud",
+        "lowercaseId": null,
+        "symbol": "DOT/AUD",
+        "base": "DOT",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Dot",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Dot/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOT/USD": {
+        "id": "Dot/Usd",
+        "lowercaseId": null,
+        "symbol": "DOT/USD",
+        "base": "DOT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Dot",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Dot/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOT/NZD": {
+        "id": "Dot/Nzd",
+        "lowercaseId": null,
+        "symbol": "DOT/NZD",
+        "base": "DOT",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Dot",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Dot/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOT/SGD": {
+        "id": "Dot/Sgd",
+        "lowercaseId": null,
+        "symbol": "DOT/SGD",
+        "base": "DOT",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Dot",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Dot/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "EOS/AUD": {
+        "id": "Eos/Aud",
+        "lowercaseId": null,
+        "symbol": "EOS/AUD",
+        "base": "EOS",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Eos",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Eos/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "EOS/USD": {
+        "id": "Eos/Usd",
+        "lowercaseId": null,
+        "symbol": "EOS/USD",
+        "base": "EOS",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Eos",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Eos/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "EOS/NZD": {
+        "id": "Eos/Nzd",
+        "lowercaseId": null,
+        "symbol": "EOS/NZD",
+        "base": "EOS",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Eos",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Eos/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "EOS/SGD": {
+        "id": "Eos/Sgd",
+        "lowercaseId": null,
+        "symbol": "EOS/SGD",
+        "base": "EOS",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Eos",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Eos/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETC/AUD": {
+        "id": "Etc/Aud",
+        "lowercaseId": null,
+        "symbol": "ETC/AUD",
+        "base": "ETC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Etc",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Etc/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETC/USD": {
+        "id": "Etc/Usd",
+        "lowercaseId": null,
+        "symbol": "ETC/USD",
+        "base": "ETC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Etc",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Etc/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETC/NZD": {
+        "id": "Etc/Nzd",
+        "lowercaseId": null,
+        "symbol": "ETC/NZD",
+        "base": "ETC",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Etc",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Etc/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETC/SGD": {
+        "id": "Etc/Sgd",
+        "lowercaseId": null,
+        "symbol": "ETC/SGD",
+        "base": "ETC",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Etc",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Etc/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "GRT/AUD": {
+        "id": "Grt/Aud",
+        "lowercaseId": null,
+        "symbol": "GRT/AUD",
+        "base": "GRT",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Grt",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Grt/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "GRT/USD": {
+        "id": "Grt/Usd",
+        "lowercaseId": null,
+        "symbol": "GRT/USD",
+        "base": "GRT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Grt",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Grt/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "GRT/NZD": {
+        "id": "Grt/Nzd",
+        "lowercaseId": null,
+        "symbol": "GRT/NZD",
+        "base": "GRT",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Grt",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Grt/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "GRT/SGD": {
+        "id": "Grt/Sgd",
+        "lowercaseId": null,
+        "symbol": "GRT/SGD",
+        "base": "GRT",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Grt",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Grt/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "LINK/AUD": {
+        "id": "Link/Aud",
+        "lowercaseId": null,
+        "symbol": "LINK/AUD",
+        "base": "LINK",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Link",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Link/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "LINK/USD": {
+        "id": "Link/Usd",
+        "lowercaseId": null,
+        "symbol": "LINK/USD",
+        "base": "LINK",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Link",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Link/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "LINK/NZD": {
+        "id": "Link/Nzd",
+        "lowercaseId": null,
+        "symbol": "LINK/NZD",
+        "base": "LINK",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Link",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Link/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "LINK/SGD": {
+        "id": "Link/Sgd",
+        "lowercaseId": null,
+        "symbol": "LINK/SGD",
+        "base": "LINK",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Link",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Link/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "LTC/AUD": {
+        "id": "Ltc/Aud",
+        "lowercaseId": null,
+        "symbol": "LTC/AUD",
+        "base": "LTC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Ltc",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Ltc/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "LTC/USD": {
+        "id": "Ltc/Usd",
+        "lowercaseId": null,
+        "symbol": "LTC/USD",
+        "base": "LTC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Ltc",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Ltc/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "LTC/NZD": {
+        "id": "Ltc/Nzd",
+        "lowercaseId": null,
+        "symbol": "LTC/NZD",
+        "base": "LTC",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Ltc",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Ltc/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "LTC/SGD": {
+        "id": "Ltc/Sgd",
+        "lowercaseId": null,
+        "symbol": "LTC/SGD",
+        "base": "LTC",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Ltc",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Ltc/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MANA/AUD": {
+        "id": "Mana/Aud",
+        "lowercaseId": null,
+        "symbol": "MANA/AUD",
+        "base": "MANA",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Mana",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Mana/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MANA/USD": {
+        "id": "Mana/Usd",
+        "lowercaseId": null,
+        "symbol": "MANA/USD",
+        "base": "MANA",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Mana",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Mana/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MANA/NZD": {
+        "id": "Mana/Nzd",
+        "lowercaseId": null,
+        "symbol": "MANA/NZD",
+        "base": "MANA",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Mana",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Mana/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MANA/SGD": {
+        "id": "Mana/Sgd",
+        "lowercaseId": null,
+        "symbol": "MANA/SGD",
+        "base": "MANA",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Mana",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Mana/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MATIC/AUD": {
+        "id": "Matic/Aud",
+        "lowercaseId": null,
+        "symbol": "MATIC/AUD",
+        "base": "MATIC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Matic",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Matic/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MATIC/USD": {
+        "id": "Matic/Usd",
+        "lowercaseId": null,
+        "symbol": "MATIC/USD",
+        "base": "MATIC",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Matic",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Matic/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MATIC/NZD": {
+        "id": "Matic/Nzd",
+        "lowercaseId": null,
+        "symbol": "MATIC/NZD",
+        "base": "MATIC",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Matic",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Matic/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MATIC/SGD": {
+        "id": "Matic/Sgd",
+        "lowercaseId": null,
+        "symbol": "MATIC/SGD",
+        "base": "MATIC",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Matic",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Matic/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MKR/AUD": {
+        "id": "Mkr/Aud",
+        "lowercaseId": null,
+        "symbol": "MKR/AUD",
+        "base": "MKR",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Mkr",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Mkr/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MKR/USD": {
+        "id": "Mkr/Usd",
+        "lowercaseId": null,
+        "symbol": "MKR/USD",
+        "base": "MKR",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Mkr",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Mkr/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MKR/NZD": {
+        "id": "Mkr/Nzd",
+        "lowercaseId": null,
+        "symbol": "MKR/NZD",
+        "base": "MKR",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Mkr",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Mkr/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "MKR/SGD": {
+        "id": "Mkr/Sgd",
+        "lowercaseId": null,
+        "symbol": "MKR/SGD",
+        "base": "MKR",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Mkr",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Mkr/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SAND/AUD": {
+        "id": "Sand/Aud",
+        "lowercaseId": null,
+        "symbol": "SAND/AUD",
+        "base": "SAND",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Sand",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Sand/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SAND/USD": {
+        "id": "Sand/Usd",
+        "lowercaseId": null,
+        "symbol": "SAND/USD",
+        "base": "SAND",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Sand",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Sand/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SAND/NZD": {
+        "id": "Sand/Nzd",
+        "lowercaseId": null,
+        "symbol": "SAND/NZD",
+        "base": "SAND",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Sand",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Sand/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SAND/SGD": {
+        "id": "Sand/Sgd",
+        "lowercaseId": null,
+        "symbol": "SAND/SGD",
+        "base": "SAND",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Sand",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Sand/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SHIB/AUD": {
+        "id": "Shib/Aud",
+        "lowercaseId": null,
+        "symbol": "SHIB/AUD",
+        "base": "SHIB",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Shib",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10000.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Shib/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SHIB/USD": {
+        "id": "Shib/Usd",
+        "lowercaseId": null,
+        "symbol": "SHIB/USD",
+        "base": "SHIB",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Shib",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10000.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Shib/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SHIB/NZD": {
+        "id": "Shib/Nzd",
+        "lowercaseId": null,
+        "symbol": "SHIB/NZD",
+        "base": "SHIB",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Shib",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10000.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Shib/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SHIB/SGD": {
+        "id": "Shib/Sgd",
+        "lowercaseId": null,
+        "symbol": "SHIB/SGD",
+        "base": "SHIB",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Shib",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10000.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Shib/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SNX/AUD": {
+        "id": "Snx/Aud",
+        "lowercaseId": null,
+        "symbol": "SNX/AUD",
+        "base": "SNX",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Snx",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Snx/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SNX/USD": {
+        "id": "Snx/Usd",
+        "lowercaseId": null,
+        "symbol": "SNX/USD",
+        "base": "SNX",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Snx",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Snx/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SNX/NZD": {
+        "id": "Snx/Nzd",
+        "lowercaseId": null,
+        "symbol": "SNX/NZD",
+        "base": "SNX",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Snx",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Snx/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "SNX/SGD": {
+        "id": "Snx/Sgd",
+        "lowercaseId": null,
+        "symbol": "SNX/SGD",
+        "base": "SNX",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Snx",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Snx/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "UNI/AUD": {
+        "id": "Uni/Aud",
+        "lowercaseId": null,
+        "symbol": "UNI/AUD",
+        "base": "UNI",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Uni",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Uni/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "UNI/USD": {
+        "id": "Uni/Usd",
+        "lowercaseId": null,
+        "symbol": "UNI/USD",
+        "base": "UNI",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Uni",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Uni/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "UNI/NZD": {
+        "id": "Uni/Nzd",
+        "lowercaseId": null,
+        "symbol": "UNI/NZD",
+        "base": "UNI",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Uni",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Uni/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "UNI/SGD": {
+        "id": "Uni/Sgd",
+        "lowercaseId": null,
+        "symbol": "UNI/SGD",
+        "base": "UNI",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Uni",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Uni/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "XLM/AUD": {
+        "id": "Xlm/Aud",
+        "lowercaseId": null,
+        "symbol": "XLM/AUD",
+        "base": "XLM",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Xlm",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xlm/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "XLM/USD": {
+        "id": "Xlm/Usd",
+        "lowercaseId": null,
+        "symbol": "XLM/USD",
+        "base": "XLM",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Xlm",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xlm/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "XLM/NZD": {
+        "id": "Xlm/Nzd",
+        "lowercaseId": null,
+        "symbol": "XLM/NZD",
+        "base": "XLM",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Xlm",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xlm/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "XLM/SGD": {
+        "id": "Xlm/Sgd",
+        "lowercaseId": null,
+        "symbol": "XLM/SGD",
+        "base": "XLM",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Xlm",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Xlm/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "YFI/AUD": {
+        "id": "Yfi/Aud",
+        "lowercaseId": null,
+        "symbol": "YFI/AUD",
+        "base": "YFI",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Yfi",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Yfi/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "YFI/USD": {
+        "id": "Yfi/Usd",
+        "lowercaseId": null,
+        "symbol": "YFI/USD",
+        "base": "YFI",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Yfi",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Yfi/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "YFI/NZD": {
+        "id": "Yfi/Nzd",
+        "lowercaseId": null,
+        "symbol": "YFI/NZD",
+        "base": "YFI",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Yfi",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Yfi/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "YFI/SGD": {
+        "id": "Yfi/Sgd",
+        "lowercaseId": null,
+        "symbol": "YFI/SGD",
+        "base": "YFI",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Yfi",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Yfi/Sgd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ZRX/AUD": {
+        "id": "Zrx/Aud",
+        "lowercaseId": null,
+        "symbol": "ZRX/AUD",
+        "base": "ZRX",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "Zrx",
+        "quoteId": "Aud",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Zrx/Aud",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ZRX/USD": {
+        "id": "Zrx/Usd",
+        "lowercaseId": null,
+        "symbol": "ZRX/USD",
+        "base": "ZRX",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "Zrx",
+        "quoteId": "Usd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Zrx/Usd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ZRX/NZD": {
+        "id": "Zrx/Nzd",
+        "lowercaseId": null,
+        "symbol": "ZRX/NZD",
+        "base": "ZRX",
+        "quote": "NZD",
+        "settle": null,
+        "baseId": "Zrx",
+        "quoteId": "Nzd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Zrx/Nzd",
+        "percentage": true,
+        "tierBased": false
+    },
+    "ZRX/SGD": {
+        "id": "Zrx/Sgd",
+        "lowercaseId": null,
+        "symbol": "ZRX/SGD",
+        "base": "ZRX",
+        "quote": "SGD",
+        "settle": null,
+        "baseId": "Zrx",
+        "quoteId": "Sgd",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.005,
+        "maker": 0.005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": "Zrx/Sgd",
+        "percentage": true,
+        "tierBased": false
+    }
+}

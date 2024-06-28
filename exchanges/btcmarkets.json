@@ -1,0 +1,2749 @@
+{
+    "AAVE/AUD": {
+        "id": "AAVE-AUD",
+        "lowercaseId": null,
+        "symbol": "AAVE/AUD",
+        "base": "AAVE",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "AAVE",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.005,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "AAVE-AUD",
+            "baseAssetName": "AAVE",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.005",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "ADA/AUD": {
+        "id": "ADA-AUD",
+        "lowercaseId": null,
+        "symbol": "ADA/AUD",
+        "base": "ADA",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.14,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "ADA-AUD",
+            "baseAssetName": "ADA",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.14",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "ALGO/AUD": {
+        "id": "ALGO-AUD",
+        "lowercaseId": null,
+        "symbol": "ALGO/AUD",
+        "base": "ALGO",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "ALGO",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "ALGO-AUD",
+            "baseAssetName": "ALGO",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "AUDF/AUD": {
+        "id": "AUDF-AUD",
+        "lowercaseId": null,
+        "symbol": "AUDF/AUD",
+        "base": "AUDF",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "AUDF",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "AUDF-AUD",
+            "baseAssetName": "AUDF",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.0001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "AUDF/USDT": {
+        "id": "AUDF-USDT",
+        "lowercaseId": null,
+        "symbol": "AUDF/USDT",
+        "base": "AUDF",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "AUDF",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": -0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "AUDF-USDT",
+            "baseAssetName": "AUDF",
+            "quoteAssetName": "USDT",
+            "minOrderAmount": "0.0001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "AVAX/AUD": {
+        "id": "AVAX-AUD",
+        "lowercaseId": null,
+        "symbol": "AVAX/AUD",
+        "base": "AVAX",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0009,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "AVAX-AUD",
+            "baseAssetName": "AVAX",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.0009",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "AXS/AUD": {
+        "id": "AXS-AUD",
+        "lowercaseId": null,
+        "symbol": "AXS/AUD",
+        "base": "AXS",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "AXS",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "AXS-AUD",
+            "baseAssetName": "AXS",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.01",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "BAT/AUD": {
+        "id": "BAT-AUD",
+        "lowercaseId": null,
+        "symbol": "BAT/AUD",
+        "base": "BAT",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "BAT",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.06,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "BAT-AUD",
+            "baseAssetName": "BAT",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.06",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "BCH/AUD": {
+        "id": "BCH-AUD",
+        "lowercaseId": null,
+        "symbol": "BCH/AUD",
+        "base": "BCH",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "BCH-AUD",
+            "baseAssetName": "BCH",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "BSV/AUD": {
+        "id": "BSV-AUD",
+        "lowercaseId": null,
+        "symbol": "BSV/AUD",
+        "base": "BSV",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "BSV",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "BSV-AUD",
+            "baseAssetName": "BSV",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "BTC/AUD": {
+        "id": "BTC-AUD",
+        "lowercaseId": null,
+        "symbol": "BTC/AUD",
+        "base": "BTC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "BTC-AUD",
+            "baseAssetName": "BTC",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.0001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "BTC/USDT": {
+        "id": "BTC-USDT",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": -0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "BTC-USDT",
+            "baseAssetName": "BTC",
+            "quoteAssetName": "USDT",
+            "minOrderAmount": "0.0001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "COMP/AUD": {
+        "id": "COMP-AUD",
+        "lowercaseId": null,
+        "symbol": "COMP/AUD",
+        "base": "COMP",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "COMP",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 7e-05,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "COMP-AUD",
+            "baseAssetName": "COMP",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.00007",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "DOT/AUD": {
+        "id": "DOT-AUD",
+        "lowercaseId": null,
+        "symbol": "DOT/AUD",
+        "base": "DOT",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "DOT",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.009,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "DOT-AUD",
+            "baseAssetName": "DOT",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.009",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "ENJ/AUD": {
+        "id": "ENJ-AUD",
+        "lowercaseId": null,
+        "symbol": "ENJ/AUD",
+        "base": "ENJ",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "ENJ",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.5,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "ENJ-AUD",
+            "baseAssetName": "ENJ",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.5",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "ETC/AUD": {
+        "id": "ETC-AUD",
+        "lowercaseId": null,
+        "symbol": "ETC/AUD",
+        "base": "ETC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "ETC",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "ETC-AUD",
+            "baseAssetName": "ETC",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "ETH/AUD": {
+        "id": "ETH-AUD",
+        "lowercaseId": null,
+        "symbol": "ETH/AUD",
+        "base": "ETH",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "ETH-AUD",
+            "baseAssetName": "ETH",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "ETH/BTC": {
+        "id": "ETH-BTC",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": -0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "ETH-BTC",
+            "baseAssetName": "ETH",
+            "quoteAssetName": "BTC",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "8",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "ETH/USDT": {
+        "id": "ETH-USDT",
+        "lowercaseId": null,
+        "symbol": "ETH/USDT",
+        "base": "ETH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": -0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "ETH-USDT",
+            "baseAssetName": "ETH",
+            "quoteAssetName": "USDT",
+            "minOrderAmount": "0.0001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "FLR/AUD": {
+        "id": "FLR-AUD",
+        "lowercaseId": null,
+        "symbol": "FLR/AUD",
+        "base": "FLR",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "FLR",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "FLR-AUD",
+            "baseAssetName": "FLR",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "1",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "GNT/AUD": {
+        "id": "GNT-AUD",
+        "lowercaseId": null,
+        "symbol": "GNT/AUD",
+        "base": "GNT",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "GNT",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.15,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "GNT-AUD",
+            "baseAssetName": "GNT",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.15",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "HBAR/AUD": {
+        "id": "HBAR-AUD",
+        "lowercaseId": null,
+        "symbol": "HBAR/AUD",
+        "base": "HBAR",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "HBAR",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "HBAR-AUD",
+            "baseAssetName": "HBAR",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.01",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "IMX/AUD": {
+        "id": "IMX-AUD",
+        "lowercaseId": null,
+        "symbol": "IMX/AUD",
+        "base": "IMX",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "IMX",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "IMX-AUD",
+            "baseAssetName": "IMX",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.01",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "LINK/AUD": {
+        "id": "LINK-AUD",
+        "lowercaseId": null,
+        "symbol": "LINK/AUD",
+        "base": "LINK",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.02,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "LINK-AUD",
+            "baseAssetName": "LINK",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.02",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "LTC/AUD": {
+        "id": "LTC-AUD",
+        "lowercaseId": null,
+        "symbol": "LTC/AUD",
+        "base": "LTC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "LTC-AUD",
+            "baseAssetName": "LTC",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "LTC/BTC": {
+        "id": "LTC-BTC",
+        "lowercaseId": null,
+        "symbol": "LTC/BTC",
+        "base": "LTC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": -0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "LTC-BTC",
+            "baseAssetName": "LTC",
+            "quoteAssetName": "BTC",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "8",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "MANA/AUD": {
+        "id": "MANA-AUD",
+        "lowercaseId": null,
+        "symbol": "MANA/AUD",
+        "base": "MANA",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "MANA",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.3,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "MANA-AUD",
+            "baseAssetName": "MANA",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.3",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "MCAU/AUD": {
+        "id": "MCAU-AUD",
+        "lowercaseId": null,
+        "symbol": "MCAU/AUD",
+        "base": "MCAU",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "MCAU",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "MCAU-AUD",
+            "baseAssetName": "MCAU",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.01",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "NEAR/AUD": {
+        "id": "NEAR-AUD",
+        "lowercaseId": null,
+        "symbol": "NEAR/AUD",
+        "base": "NEAR",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "NEAR",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "NEAR-AUD",
+            "baseAssetName": "NEAR",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.01",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "OMG/AUD": {
+        "id": "OMG-AUD",
+        "lowercaseId": null,
+        "symbol": "OMG/AUD",
+        "base": "OMG",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "OMG",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "OMG-AUD",
+            "baseAssetName": "OMG",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "POWR/AUD": {
+        "id": "POWR-AUD",
+        "lowercaseId": null,
+        "symbol": "POWR/AUD",
+        "base": "POWR",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "POWR",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "POWR-AUD",
+            "baseAssetName": "POWR",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "SAND/AUD": {
+        "id": "SAND-AUD",
+        "lowercaseId": null,
+        "symbol": "SAND/AUD",
+        "base": "SAND",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "SAND",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.2,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "SAND-AUD",
+            "baseAssetName": "SAND",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.2",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "SOL/AUD": {
+        "id": "SOL-AUD",
+        "lowercaseId": null,
+        "symbol": "SOL/AUD",
+        "base": "SOL",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.002,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "SOL-AUD",
+            "baseAssetName": "SOL",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.002",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "SUI/AUD": {
+        "id": "SUI-AUD",
+        "lowercaseId": null,
+        "symbol": "SUI/AUD",
+        "base": "SUI",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "SUI",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "SUI-AUD",
+            "baseAssetName": "SUI",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.1",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "UNI/AUD": {
+        "id": "UNI-AUD",
+        "lowercaseId": null,
+        "symbol": "UNI/AUD",
+        "base": "UNI",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "UNI",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.002,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "UNI-AUD",
+            "baseAssetName": "UNI",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.002",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "2",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "USDC/AUD": {
+        "id": "USDC-AUD",
+        "lowercaseId": null,
+        "symbol": "USDC/AUD",
+        "base": "USDC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "USDC-AUD",
+            "baseAssetName": "USDC",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "1",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "USDT/AUD": {
+        "id": "USDT-AUD",
+        "lowercaseId": null,
+        "symbol": "USDT/AUD",
+        "base": "USDT",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.138,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "USDT-AUD",
+            "baseAssetName": "USDT",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.138",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "XLM/AUD": {
+        "id": "XLM-AUD",
+        "lowercaseId": null,
+        "symbol": "XLM/AUD",
+        "base": "XLM",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "XLM",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "XLM-AUD",
+            "baseAssetName": "XLM",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.1",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "XRP/AUD": {
+        "id": "XRP-AUD",
+        "lowercaseId": null,
+        "symbol": "XRP/AUD",
+        "base": "XRP",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0085,
+        "maker": 0.0085,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "XRP-AUD",
+            "baseAssetName": "XRP",
+            "quoteAssetName": "AUD",
+            "minOrderAmount": "0.001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "XRP/BTC": {
+        "id": "XRP-BTC",
+        "lowercaseId": null,
+        "symbol": "XRP/BTC",
+        "base": "XRP",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": -0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "XRP-BTC",
+            "baseAssetName": "XRP",
+            "quoteAssetName": "BTC",
+            "minOrderAmount": "0.01",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "8",
+            "status": "Online"
+        },
+        "percentage": true
+    },
+    "XRP/USDT": {
+        "id": "XRP-USDT",
+        "lowercaseId": null,
+        "symbol": "XRP/USDT",
+        "base": "XRP",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": -0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "marketId": "XRP-USDT",
+            "baseAssetName": "XRP",
+            "quoteAssetName": "USDT",
+            "minOrderAmount": "0.0001",
+            "maxOrderAmount": "1000000",
+            "amountDecimals": "8",
+            "priceDecimals": "4",
+            "status": "Online"
+        },
+        "percentage": true
+    }
+}

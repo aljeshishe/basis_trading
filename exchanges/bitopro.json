@@ -1,0 +1,5034 @@
+{
+    "TRX/TWD": {
+        "id": "trx_twd",
+        "lowercaseId": null,
+        "symbol": "TRX/TWD",
+        "base": "TRX",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "TRX",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "trx_twd",
+            "base": "trx",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "10",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "50",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "TRX_TWD"
+    },
+    "SHIB/TWD": {
+        "id": "shib_twd",
+        "lowercaseId": null,
+        "symbol": "SHIB/TWD",
+        "base": "SHIB",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "SHIB",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 100000.0,
+                "max": 5500000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "shib_twd",
+            "base": "shib",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "6",
+            "minLimitBaseAmount": "100000",
+            "maxLimitBaseAmount": "5500000000",
+            "minMarketBuyQuoteAmount": "70",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "6",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "0"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "SHIB_TWD"
+    },
+    "MATIC/TWD": {
+        "id": "matic_twd",
+        "lowercaseId": null,
+        "symbol": "MATIC/TWD",
+        "base": "MATIC",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "matic_twd",
+            "base": "matic",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "45",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "3",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "MATIC_TWD"
+    },
+    "APE/USDT": {
+        "id": "ape_usdt",
+        "lowercaseId": null,
+        "symbol": "APE/USDT",
+        "base": "APE",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "APE",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ape_usdt",
+            "base": "ape",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "10000000",
+            "minMarketBuyQuoteAmount": "5",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "APE_USDT"
+    },
+    "TON/USDT": {
+        "id": "ton_usdt",
+        "lowercaseId": null,
+        "symbol": "TON/USDT",
+        "base": "TON",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "TON",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 480286.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ton_usdt",
+            "base": "ton",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "480286",
+            "minMarketBuyQuoteAmount": "1.3",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "TON_USDT"
+    },
+    "MV/TWD": {
+        "id": "mv_twd",
+        "lowercaseId": null,
+        "symbol": "MV/TWD",
+        "base": "MV",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "MV",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "mv_twd",
+            "base": "mv",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "100000",
+            "minMarketBuyQuoteAmount": "3",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "3",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "2"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "MV_TWD"
+    },
+    "BCH/TWD": {
+        "id": "bch_twd",
+        "lowercaseId": null,
+        "symbol": "BCH/TWD",
+        "base": "BCH",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "bch_twd",
+            "base": "bch",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "1",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "15",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "1",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "BCH_TWD"
+    },
+    "ETH/BTC": {
+        "id": "eth_btc",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "eth_btc",
+            "base": "eth",
+            "quote": "btc",
+            "basePrecision": "8",
+            "quotePrecision": "6",
+            "minLimitBaseAmount": "0.0001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "0.001",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "6",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "ETH_BTC"
+    },
+    "ETH/USDT": {
+        "id": "eth_usdt",
+        "lowercaseId": null,
+        "symbol": "ETH/USDT",
+        "base": "ETH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "eth_usdt",
+            "base": "eth",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.0001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "0.5",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "ETH_USDT"
+    },
+    "SHIB/USDT": {
+        "id": "shib_usdt",
+        "lowercaseId": null,
+        "symbol": "SHIB/USDT",
+        "base": "SHIB",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SHIB",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 100000.0,
+                "max": 5500000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "shib_usdt",
+            "base": "shib",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "8",
+            "minLimitBaseAmount": "100000",
+            "maxLimitBaseAmount": "5500000000",
+            "minMarketBuyQuoteAmount": "3",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "8",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "0"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "SHIB_USDT"
+    },
+    "BITO/TWD": {
+        "id": "bito_twd",
+        "lowercaseId": null,
+        "symbol": "BITO/TWD",
+        "base": "BITO",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "BITO",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 155.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "bito_twd",
+            "base": "bito",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "155",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "350",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "3",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "BITO_TWD"
+    },
+    "DOGE/TWD": {
+        "id": "doge_twd",
+        "lowercaseId": null,
+        "symbol": "DOGE/TWD",
+        "base": "DOGE",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "doge_twd",
+            "base": "doge",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "5",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "DOGE_TWD"
+    },
+    "ETH/TWD": {
+        "id": "eth_twd",
+        "lowercaseId": null,
+        "symbol": "ETH/TWD",
+        "base": "ETH",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "eth_twd",
+            "base": "eth",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "0",
+            "minLimitBaseAmount": "0.0001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "15",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "0",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "ETH_TWD"
+    },
+    "SOL/TWD": {
+        "id": "sol_twd",
+        "lowercaseId": null,
+        "symbol": "SOL/TWD",
+        "base": "SOL",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "sol_twd",
+            "base": "sol",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "20",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "SOL_TWD"
+    },
+    "BNB/TWD": {
+        "id": "bnb_twd",
+        "lowercaseId": null,
+        "symbol": "BNB/TWD",
+        "base": "BNB",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "BNB",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "bnb_twd",
+            "base": "bnb",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "1",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "155",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "1",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "BNB_TWD"
+    },
+    "ADA/TWD": {
+        "id": "ada_twd",
+        "lowercaseId": null,
+        "symbol": "ADA/TWD",
+        "base": "ADA",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ada_twd",
+            "base": "ada",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "0.1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "5",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "ADA_TWD"
+    },
+    "XRP/TWD": {
+        "id": "xrp_twd",
+        "lowercaseId": null,
+        "symbol": "XRP/TWD",
+        "base": "XRP",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "xrp_twd",
+            "base": "xrp",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "40",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "3",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "XRP_TWD"
+    },
+    "DOGE/USDT": {
+        "id": "doge_usdt",
+        "lowercaseId": null,
+        "symbol": "DOGE/USDT",
+        "base": "DOGE",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "doge_usdt",
+            "base": "doge",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "0.2",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "DOGE_USDT"
+    },
+    "SOL/USDT": {
+        "id": "sol_usdt",
+        "lowercaseId": null,
+        "symbol": "SOL/USDT",
+        "base": "SOL",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "sol_usdt",
+            "base": "sol",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "1",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "SOL_USDT"
+    },
+    "USDT/TWD": {
+        "id": "usdt_twd",
+        "lowercaseId": null,
+        "symbol": "USDT/TWD",
+        "base": "USDT",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "usdt_twd",
+            "base": "usdt",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "35",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "3",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "USDT_TWD"
+    },
+    "LTC/TWD": {
+        "id": "ltc_twd",
+        "lowercaseId": null,
+        "symbol": "LTC/TWD",
+        "base": "LTC",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ltc_twd",
+            "base": "ltc",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "1",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "5",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "1",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "LTC_TWD"
+    },
+    "TON/TWD": {
+        "id": "ton_twd",
+        "lowercaseId": null,
+        "symbol": "TON/TWD",
+        "base": "TON",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "TON",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 480286.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ton_twd",
+            "base": "ton",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "480286",
+            "minMarketBuyQuoteAmount": "38",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "TON_TWD"
+    },
+    "APE/TWD": {
+        "id": "ape_twd",
+        "lowercaseId": null,
+        "symbol": "APE/TWD",
+        "base": "APE",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "APE",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ape_twd",
+            "base": "ape",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "10000000",
+            "minMarketBuyQuoteAmount": "130",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "2",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "APE_TWD"
+    },
+    "USDC/TWD": {
+        "id": "usdc_twd",
+        "lowercaseId": null,
+        "symbol": "USDC/TWD",
+        "base": "USDC",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "usdc_twd",
+            "base": "usdc",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "1",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "3",
+            "orderBookQuoteScaleLevel": "2",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "USDC_TWD"
+    },
+    "LTC/USDT": {
+        "id": "ltc_usdt",
+        "lowercaseId": null,
+        "symbol": "LTC/USDT",
+        "base": "LTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ltc_usdt",
+            "base": "ltc",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "0.2",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "LTC_USDT"
+    },
+    "YFI/USDT": {
+        "id": "yfi_usdt",
+        "lowercaseId": null,
+        "symbol": "YFI/USDT",
+        "base": "YFI",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "YFI",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "yfi_usdt",
+            "base": "yfi",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.0001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "2",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "YFI_USDT"
+    },
+    "BTC/TWD": {
+        "id": "btc_twd",
+        "lowercaseId": null,
+        "symbol": "BTC/TWD",
+        "base": "BTC",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "btc_twd",
+            "base": "btc",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "0",
+            "minLimitBaseAmount": "0.0001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "190",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "0",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "BTC_TWD"
+    },
+    "USDC/USDT": {
+        "id": "usdc_usdt",
+        "lowercaseId": null,
+        "symbol": "USDC/USDT",
+        "base": "USDC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "usdc_usdt",
+            "base": "usdc",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "0.02",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "USDC_USDT"
+    },
+    "BITO/USDT": {
+        "id": "bito_usdt",
+        "lowercaseId": null,
+        "symbol": "BITO/USDT",
+        "base": "BITO",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BITO",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 155.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "bito_usdt",
+            "base": "bito",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "155",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "12",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "7",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "BITO_USDT"
+    },
+    "MATIC/USDT": {
+        "id": "matic_usdt",
+        "lowercaseId": null,
+        "symbol": "MATIC/USDT",
+        "base": "MATIC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "matic_usdt",
+            "base": "matic",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "2",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "MATIC_USDT"
+    },
+    "YFI/TWD": {
+        "id": "yfi_twd",
+        "lowercaseId": null,
+        "symbol": "YFI/TWD",
+        "base": "YFI",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "YFI",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "yfi_twd",
+            "base": "yfi",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "0",
+            "minLimitBaseAmount": "0.0001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "40",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "0",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "YFI_TWD"
+    },
+    "EOS/TWD": {
+        "id": "eos_twd",
+        "lowercaseId": null,
+        "symbol": "EOS/TWD",
+        "base": "EOS",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "EOS",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "eos_twd",
+            "base": "eos",
+            "quote": "twd",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "50",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "EOS_TWD"
+    },
+    "BTC/USDT": {
+        "id": "btc_usdt",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "btc_usdt",
+            "base": "btc",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.0001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "7",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "BTC_USDT"
+    },
+    "ADA/USDT": {
+        "id": "ada_usdt",
+        "lowercaseId": null,
+        "symbol": "ADA/USDT",
+        "base": "ADA",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ada_usdt",
+            "base": "ada",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "0.2",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "4",
+            "orderBookQuoteScaleLevel": "4",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "ADA_USDT"
+    },
+    "EOS/USDT": {
+        "id": "eos_usdt",
+        "lowercaseId": null,
+        "symbol": "EOS/USDT",
+        "base": "EOS",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "EOS",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "eos_usdt",
+            "base": "eos",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "2",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "3",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "EOS_USDT"
+    },
+    "BCH/USDT": {
+        "id": "bch_usdt",
+        "lowercaseId": null,
+        "symbol": "BCH/USDT",
+        "base": "BCH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "bch_usdt",
+            "base": "bch",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "100000000",
+            "minMarketBuyQuoteAmount": "0.5",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "2",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "4"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "BCH_USDT"
+    },
+    "MV/USDT": {
+        "id": "mv_usdt",
+        "lowercaseId": null,
+        "symbol": "MV/USDT",
+        "base": "MV",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "MV",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "mv_usdt",
+            "base": "mv",
+            "quote": "usdt",
+            "basePrecision": "8",
+            "quotePrecision": "5",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "100000",
+            "minMarketBuyQuoteAmount": "0.01",
+            "orderOpenLimit": "200",
+            "maintain": false,
+            "orderBookQuotePrecision": "5",
+            "orderBookQuoteScaleLevel": "5",
+            "amountPrecision": "2"
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    3000000.0,
+                    0.00194
+                ],
+                [
+                    5000000.0,
+                    0.0015
+                ],
+                [
+                    30000000.0,
+                    0.0014
+                ],
+                [
+                    300000000.0,
+                    0.0013
+                ],
+                [
+                    550000000.0,
+                    0.0012
+                ],
+                [
+                    1300000000.0,
+                    0.0011
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.001
+                ],
+                [
+                    3000000.0,
+                    0.00097
+                ],
+                [
+                    5000000.0,
+                    0.0007
+                ],
+                [
+                    30000000.0,
+                    0.0006
+                ],
+                [
+                    300000000.0,
+                    0.0005
+                ],
+                [
+                    550000000.0,
+                    0.0004
+                ],
+                [
+                    1300000000.0,
+                    0.0003
+                ]
+            ]
+        },
+        "uppercaseId": "MV_USDT"
+    }
+}

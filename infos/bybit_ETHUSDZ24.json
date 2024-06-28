@@ -1,0 +1,96 @@
+{
+    "id": "ETHUSDZ24",
+    "lowercaseId": null,
+    "symbol": "ETH/USD:ETH-241227",
+    "base": "ETH",
+    "quote": "USD",
+    "settle": "ETH",
+    "baseId": "ETH",
+    "quoteId": "USD",
+    "settleId": "ETH",
+    "type": "future",
+    "spot": false,
+    "margin": null,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0006,
+    "maker": 0.0001,
+    "contractSize": 1.0,
+    "expiry": 1735286400000,
+    "expiryDatetime": "2024-12-27T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.05,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": 1.0,
+            "max": 50.0
+        },
+        "amount": {
+            "min": 1.0,
+            "max": 5000000.0
+        },
+        "price": {
+            "min": 0.05,
+            "max": 99999.9
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        }
+    },
+    "created": 1718352000000,
+    "info": {
+        "symbol": "ETHUSDZ24",
+        "contractType": "InverseFutures",
+        "status": "Trading",
+        "baseCoin": "ETH",
+        "quoteCoin": "USD",
+        "launchTime": "1718352000000",
+        "deliveryTime": "1735286400000",
+        "deliveryFeeRate": "0.0005",
+        "priceScale": "2",
+        "leverageFilter": {
+            "minLeverage": "1",
+            "maxLeverage": "50.00",
+            "leverageStep": "0.01"
+        },
+        "priceFilter": {
+            "minPrice": "0.05",
+            "maxPrice": "99999.90",
+            "tickSize": "0.05"
+        },
+        "lotSizeFilter": {
+            "maxOrderQty": "5000000",
+            "minOrderQty": "1",
+            "qtyStep": "1",
+            "postOnlyMaxOrderQty": "5000000",
+            "maxMktOrderQty": "1000000",
+            "minNotionalValue": ""
+        },
+        "unifiedMarginTrade": false,
+        "fundingInterval": "480",
+        "settleCoin": "ETH",
+        "copyTrading": "none",
+        "upperFundingRate": "0",
+        "lowerFundingRate": "0",
+        "isPreListing": false,
+        "preListingInfo": null
+    },
+    "percentage": true,
+    "feeSide": "get",
+    "tierBased": true
+}

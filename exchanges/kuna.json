@@ -1,0 +1,3082 @@
+{
+    "BCH/UAH": {
+        "id": "BCH_UAH",
+        "lowercaseId": null,
+        "symbol": "BCH/UAH",
+        "base": "BCH",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "BCH_UAH",
+            "baseAsset": {
+                "code": "BCH",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "0"
+            },
+            "tickerPriceChange": "-0.10558162988247159"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "BCH/USDT": {
+        "id": "BCH_USDT",
+        "lowercaseId": null,
+        "symbol": "BCH/USDT",
+        "base": "BCH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "BCH_USDT",
+            "baseAsset": {
+                "code": "BCH",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.06901117210395559"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "BTC/EUR": {
+        "id": "BTC_EUR",
+        "lowercaseId": null,
+        "symbol": "BTC/EUR",
+        "base": "BTC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "BTC_EUR",
+            "baseAsset": {
+                "code": "BTC",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "EUR",
+                "precision": "2"
+            },
+            "tickerPriceChange": "0.006171685732667201"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "BTC/UAH": {
+        "id": "BTC_UAH",
+        "lowercaseId": null,
+        "symbol": "BTC/UAH",
+        "base": "BTC",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "BTC_UAH",
+            "baseAsset": {
+                "code": "BTC",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "0"
+            },
+            "tickerPriceChange": "0.01643111491692736"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "BTC/USDC": {
+        "id": "BTC_USDC",
+        "lowercaseId": null,
+        "symbol": "BTC/USDC",
+        "base": "BTC",
+        "quote": "USDC",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "BTC_USDC",
+            "baseAsset": {
+                "code": "BTC",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDC",
+                "precision": "2"
+            },
+            "tickerPriceChange": "0.015590187878301125"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "BTC/USDT": {
+        "id": "BTC_USDT",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "BTC_USDT",
+            "baseAsset": {
+                "code": "BTC",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "2"
+            },
+            "tickerPriceChange": "0.012638112890652226"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "DAI/UAH": {
+        "id": "DAI_UAH",
+        "lowercaseId": null,
+        "symbol": "DAI/UAH",
+        "base": "DAI",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "DAI",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "DAI_UAH",
+            "baseAsset": {
+                "code": "DAI",
+                "precision": "2"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "2"
+            },
+            "tickerPriceChange": "0.03188327479059713"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "DASH/UAH": {
+        "id": "DASH_UAH",
+        "lowercaseId": null,
+        "symbol": "DASH/UAH",
+        "base": "DASH",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "DASH",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "DASH_UAH",
+            "baseAsset": {
+                "code": "DASH",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "0"
+            },
+            "tickerPriceChange": "-0.027738264580369845"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "DASH/USDT": {
+        "id": "DASH_USDT",
+        "lowercaseId": null,
+        "symbol": "DASH/USDT",
+        "base": "DASH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "DASH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "DASH_USDT",
+            "baseAsset": {
+                "code": "DASH",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.078416149068323"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOGE/EUR": {
+        "id": "DOGE_EUR",
+        "lowercaseId": null,
+        "symbol": "DOGE/EUR",
+        "base": "DOGE",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "DOGE_EUR",
+            "baseAsset": {
+                "code": "DOGE",
+                "precision": "2"
+            },
+            "quoteAsset": {
+                "code": "EUR",
+                "precision": "5"
+            },
+            "tickerPriceChange": "0.06035320340629831"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOGE/UAH": {
+        "id": "DOGE_UAH",
+        "lowercaseId": null,
+        "symbol": "DOGE/UAH",
+        "base": "DOGE",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "DOGE_UAH",
+            "baseAsset": {
+                "code": "DOGE",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "4"
+            },
+            "tickerPriceChange": "0.044056001534288625"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "DOGE/USDT": {
+        "id": "DOGE_USDT",
+        "lowercaseId": null,
+        "symbol": "DOGE/USDT",
+        "base": "DOGE",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "DOGE_USDT",
+            "baseAsset": {
+                "code": "DOGE",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "5"
+            },
+            "tickerPriceChange": "0.04891361393933045"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "EOS/UAH": {
+        "id": "EOS_UAH",
+        "lowercaseId": null,
+        "symbol": "EOS/UAH",
+        "base": "EOS",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "EOS",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "EOS_UAH",
+            "baseAsset": {
+                "code": "EOS",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.022482893450635425"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "EOS/USDT": {
+        "id": "EOS_USDT",
+        "lowercaseId": null,
+        "symbol": "EOS/USDT",
+        "base": "EOS",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "EOS",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "EOS_USDT",
+            "baseAsset": {
+                "code": "EOS",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "4"
+            },
+            "tickerPriceChange": "-0.04339847692448859"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETH/BTC": {
+        "id": "ETH_BTC",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ETH_BTC",
+            "baseAsset": {
+                "code": "ETH",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "BTC",
+                "precision": "6"
+            },
+            "tickerPriceChange": "-0.00990099009900991"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETH/EUR": {
+        "id": "ETH_EUR",
+        "lowercaseId": null,
+        "symbol": "ETH/EUR",
+        "base": "ETH",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ETH_EUR",
+            "baseAsset": {
+                "code": "ETH",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "EUR",
+                "precision": "2"
+            },
+            "tickerPriceChange": "0.011081953479203634"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETH/UAH": {
+        "id": "ETH_UAH",
+        "lowercaseId": null,
+        "symbol": "ETH/UAH",
+        "base": "ETH",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ETH_UAH",
+            "baseAsset": {
+                "code": "ETH",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "0"
+            },
+            "tickerPriceChange": "0.008684863523573201"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETH/USDT": {
+        "id": "ETH_USDT",
+        "lowercaseId": null,
+        "symbol": "ETH/USDT",
+        "base": "ETH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ETH_USDT",
+            "baseAsset": {
+                "code": "ETH",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "2"
+            },
+            "tickerPriceChange": "0.0010994193247803692"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETHW/UAH": {
+        "id": "ETHW_UAH",
+        "lowercaseId": null,
+        "symbol": "ETHW/UAH",
+        "base": "ETHW",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "ETHW",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ETHW_UAH",
+            "baseAsset": {
+                "code": "ETHW",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.005049999999999955"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETHW/USDT": {
+        "id": "ETHW_USDT",
+        "lowercaseId": null,
+        "symbol": "ETHW/USDT",
+        "base": "ETHW",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ETHW",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ETHW_USDT",
+            "baseAsset": {
+                "code": "ETHW",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "3"
+            },
+            "tickerPriceChange": "0.06242038216560501"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "EVER/USDT": {
+        "id": "EVER_USDT",
+        "lowercaseId": null,
+        "symbol": "EVER/USDT",
+        "base": "EVER",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "EVER",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "EVER_USDT",
+            "baseAsset": {
+                "code": "EVER",
+                "precision": "5"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "5"
+            },
+            "tickerPriceChange": "-0.0026455026455027212"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "KUN/USDT": {
+        "id": "KUN_USDT",
+        "lowercaseId": null,
+        "symbol": "KUN/USDT",
+        "base": "KUN",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "KUN",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "KUN_USDT",
+            "baseAsset": {
+                "code": "KUN",
+                "precision": "2"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.003690036900368925"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "LINK/UAH": {
+        "id": "LINK_UAH",
+        "lowercaseId": null,
+        "symbol": "LINK/UAH",
+        "base": "LINK",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "LINK_UAH",
+            "baseAsset": {
+                "code": "LINK",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.050954048452797794"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "LINK/USDT": {
+        "id": "LINK_USDT",
+        "lowercaseId": null,
+        "symbol": "LINK/USDT",
+        "base": "LINK",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "LINK_USDT",
+            "baseAsset": {
+                "code": "LINK",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "3"
+            },
+            "tickerPriceChange": "-0.01049131456744825"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "LTC/EUR": {
+        "id": "LTC_EUR",
+        "lowercaseId": null,
+        "symbol": "LTC/EUR",
+        "base": "LTC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "LTC_EUR",
+            "baseAsset": {
+                "code": "LTC",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "EUR",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.012898247161283074"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "LTC/UAH": {
+        "id": "LTC_UAH",
+        "lowercaseId": null,
+        "symbol": "LTC/UAH",
+        "base": "LTC",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "LTC_UAH",
+            "baseAsset": {
+                "code": "LTC",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "0"
+            },
+            "tickerPriceChange": "-0.014686248331108143"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "LTC/USDT": {
+        "id": "LTC_USDT",
+        "lowercaseId": null,
+        "symbol": "LTC/USDT",
+        "base": "LTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "LTC_USDT",
+            "baseAsset": {
+                "code": "LTC",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.049314528059966466"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "SHIB/UAH": {
+        "id": "SHIB_UAH",
+        "lowercaseId": null,
+        "symbol": "SHIB/UAH",
+        "base": "SHIB",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "SHIB",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "SHIB_UAH",
+            "baseAsset": {
+                "code": "SHIB",
+                "precision": "0"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "7"
+            },
+            "tickerPriceChange": "0.009349360809005832"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "SHIB/USDT": {
+        "id": "SHIB_USDT",
+        "lowercaseId": null,
+        "symbol": "SHIB/USDT",
+        "base": "SHIB",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SHIB",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "SHIB_USDT",
+            "baseAsset": {
+                "code": "SHIB",
+                "precision": "0"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "8"
+            },
+            "tickerPriceChange": "-0.022393282015395404"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "TRX/UAH": {
+        "id": "TRX_UAH",
+        "lowercaseId": null,
+        "symbol": "TRX/UAH",
+        "base": "TRX",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "TRX",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "TRX_UAH",
+            "baseAsset": {
+                "code": "TRX",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "3"
+            },
+            "tickerPriceChange": "-0.018370434406743023"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "TRX/USDT": {
+        "id": "TRX_USDT",
+        "lowercaseId": null,
+        "symbol": "TRX/USDT",
+        "base": "TRX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "TRX",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "TRX_USDT",
+            "baseAsset": {
+                "code": "TRX",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "5"
+            },
+            "tickerPriceChange": "-0.024224010510757055"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "UNI/UAH": {
+        "id": "UNI_UAH",
+        "lowercaseId": null,
+        "symbol": "UNI/UAH",
+        "base": "UNI",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "UNI",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "UNI_UAH",
+            "baseAsset": {
+                "code": "UNI",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.10238207547169817"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "UNI/USDT": {
+        "id": "UNI_USDT",
+        "lowercaseId": null,
+        "symbol": "UNI/USDT",
+        "base": "UNI",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "UNI",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "UNI_USDT",
+            "baseAsset": {
+                "code": "UNI",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "3"
+            },
+            "tickerPriceChange": "-0.1403811330516513"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDC/UAH": {
+        "id": "USDC_UAH",
+        "lowercaseId": null,
+        "symbol": "USDC/UAH",
+        "base": "USDC",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "USDC_UAH",
+            "baseAsset": {
+                "code": "USDC",
+                "precision": "2"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "2"
+            },
+            "tickerPriceChange": "0"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDT/EUR": {
+        "id": "USDT_EUR",
+        "lowercaseId": null,
+        "symbol": "USDT/EUR",
+        "base": "USDT",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "USDT_EUR",
+            "baseAsset": {
+                "code": "USDT",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "EUR",
+                "precision": "5"
+            },
+            "tickerPriceChange": "0.010164411528353968"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDT/UAH": {
+        "id": "USDT_UAH",
+        "lowercaseId": null,
+        "symbol": "USDT/UAH",
+        "base": "USDT",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "USDT_UAH",
+            "baseAsset": {
+                "code": "USDT",
+                "precision": "2"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "2"
+            },
+            "tickerPriceChange": "0.007673987827467562"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "USDT/USDC": {
+        "id": "USDT_USDC",
+        "lowercaseId": null,
+        "symbol": "USDT/USDC",
+        "base": "USDT",
+        "quote": "USDC",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "USDC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "USDT_USDC",
+            "baseAsset": {
+                "code": "USDT",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "USDC",
+                "precision": "4"
+            },
+            "tickerPriceChange": "0.0008909126905564472"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "XLM/UAH": {
+        "id": "XLM_UAH",
+        "lowercaseId": null,
+        "symbol": "XLM/UAH",
+        "base": "XLM",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "XLM",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "XLM_UAH",
+            "baseAsset": {
+                "code": "XLM",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "3"
+            },
+            "tickerPriceChange": "-0.08225268618006669"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "XLM/USDT": {
+        "id": "XLM_USDT",
+        "lowercaseId": null,
+        "symbol": "XLM/USDT",
+        "base": "XLM",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "XLM",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "XLM_USDT",
+            "baseAsset": {
+                "code": "XLM",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "5"
+            },
+            "tickerPriceChange": "-0.03763601132806677"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "XRP/EUR": {
+        "id": "XRP_EUR",
+        "lowercaseId": null,
+        "symbol": "XRP/EUR",
+        "base": "XRP",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "XRP_EUR",
+            "baseAsset": {
+                "code": "XRP",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "EUR",
+                "precision": "5"
+            },
+            "tickerPriceChange": "-0.0013204072413912627"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "XRP/UAH": {
+        "id": "XRP_UAH",
+        "lowercaseId": null,
+        "symbol": "XRP/UAH",
+        "base": "XRP",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "XRP_UAH",
+            "baseAsset": {
+                "code": "XRP",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "3"
+            },
+            "tickerPriceChange": "-0.0008068283154273367"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "XRP/USDT": {
+        "id": "XRP_USDT",
+        "lowercaseId": null,
+        "symbol": "XRP/USDT",
+        "base": "XRP",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "XRP_USDT",
+            "baseAsset": {
+                "code": "XRP",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "5"
+            },
+            "tickerPriceChange": "-0.009025328630971503"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "ZEC/UAH": {
+        "id": "ZEC_UAH",
+        "lowercaseId": null,
+        "symbol": "ZEC/UAH",
+        "base": "ZEC",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "ZEC",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ZEC_UAH",
+            "baseAsset": {
+                "code": "ZEC",
+                "precision": "4"
+            },
+            "quoteAsset": {
+                "code": "UAH",
+                "precision": "0"
+            },
+            "tickerPriceChange": "-0.0019047619047619048"
+        },
+        "percentage": true,
+        "tierBased": false
+    },
+    "ZEC/USDT": {
+        "id": "ZEC_USDT",
+        "lowercaseId": null,
+        "symbol": "ZEC/USDT",
+        "base": "ZEC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ZEC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0025,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "pair": "ZEC_USDT",
+            "baseAsset": {
+                "code": "ZEC",
+                "precision": "6"
+            },
+            "quoteAsset": {
+                "code": "USDT",
+                "precision": "2"
+            },
+            "tickerPriceChange": "-0.04679625629949606"
+        },
+        "percentage": true,
+        "tierBased": false
+    }
+}

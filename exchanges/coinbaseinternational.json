@@ -1,0 +1,5300 @@
+{
+    "ETH/USDC": {
+        "id": "ETH-USDC",
+        "lowercaseId": "eth-usdc",
+        "symbol": "ETH/USDC",
+        "base": "ETH",
+        "quote": "USDC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 1.0
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "257671623446888448",
+            "instrument_uuid": "63d76b4a-3363-4d3a-9dfe-af43ef3c3df4",
+            "symbol": "ETH-USDC",
+            "type": "SPOT",
+            "base_asset_id": "118059611793145856",
+            "base_asset_uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+            "base_asset_name": "ETH",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.0001",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "2104.9199",
+            "notional_24hr": "7366265.042055",
+            "avg_daily_qty": "15006.0253",
+            "avg_daily_notional": "52615637.546456",
+            "previous_day_qty": "1682.0155",
+            "open_interest": "0",
+            "position_limit_qty": "0",
+            "position_limit_adq_pct": "0.0",
+            "replacement_cost": "0.24",
+            "base_imf": "1.0",
+            "min_notional_value": "10",
+            "funding_interval": "0",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "3520.16",
+                "best_bid_size": "1.0902",
+                "best_ask_price": "3520.24",
+                "best_ask_size": "1.0902",
+                "trade_price": "3524.57",
+                "trade_qty": "0.0284",
+                "index_price": "3520.18",
+                "mark_price": "3520.24",
+                "settlement_price": "3523.18",
+                "limit_up": "3696.22",
+                "limit_down": "3344.2",
+                "timestamp": "2024-04-10T20:28:54.569Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "BTC/USDC": {
+        "id": "BTC-USDC",
+        "lowercaseId": "btc-usdc",
+        "symbol": "BTC/USDC",
+        "base": "BTC",
+        "quote": "USDC",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 1.0
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "257679283722387456",
+            "instrument_uuid": "cf8dee38-6d4e-4658-a5ff-70c19201c485",
+            "symbol": "BTC-USDC",
+            "type": "SPOT",
+            "base_asset_id": "118059611751202816",
+            "base_asset_uuid": "5b71fc48-3dd3-540c-809b-f8c94d0e68b5",
+            "base_asset_name": "BTC",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.00001",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "78.74591",
+            "notional_24hr": "5432508.3144817",
+            "avg_daily_qty": "528.35827",
+            "avg_daily_notional": "35865715.0343425",
+            "previous_day_qty": "70.11903",
+            "open_interest": "0",
+            "position_limit_qty": "0",
+            "position_limit_adq_pct": "0.0",
+            "replacement_cost": "0.19",
+            "base_imf": "1.0",
+            "min_notional_value": "10",
+            "funding_interval": "0",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "69967.4",
+                "best_bid_size": "0.05485",
+                "best_ask_price": "69967.41",
+                "best_ask_size": "0.06009",
+                "trade_price": "69999.11",
+                "trade_qty": "0.05626",
+                "index_price": "69966.2",
+                "mark_price": "69967.41",
+                "settlement_price": "69967.14",
+                "limit_up": "73465.08",
+                "limit_down": "66468.42",
+                "timestamp": "2024-04-10T20:28:55.083Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "COSMOSDYDX/USDC": {
+        "id": "COSMOSDYDX-USDC",
+        "lowercaseId": "cosmosdydx-usdc",
+        "symbol": "COSMOSDYDX/USDC",
+        "base": "COSMOSDYDX",
+        "quote": "USDC",
+        "settle": null,
+        "baseId": "COSMOSDYDX",
+        "quoteId": "USDC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "295633754792132608",
+            "instrument_uuid": "9abc33ae-69b6-45db-82cf-052011831e48",
+            "symbol": "COSMOSDYDX-USDC",
+            "type": "SPOT",
+            "base_asset_id": "291280765822435328",
+            "base_asset_uuid": "942a3c9c-be76-4a0b-9578-3af110b89426",
+            "base_asset_name": "COSMOSDYDX",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.01",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "0",
+            "notional_24hr": "0",
+            "avg_daily_qty": "5046.89",
+            "avg_daily_notional": "15669.37588",
+            "previous_day_qty": "0",
+            "open_interest": "0",
+            "position_limit_qty": "1000000000",
+            "position_limit_adq_pct": "0.01",
+            "replacement_cost": "0",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "-9223372036854775808",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "3.04",
+                "best_bid_size": "13",
+                "best_ask_price": "3.05",
+                "best_ask_size": "10",
+                "trade_price": "2.902",
+                "trade_qty": "98.38",
+                "mark_price": "3.04",
+                "settlement_price": "3.043",
+                "timestamp": "2024-04-10T20:28:30Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ETH/USDC:USDC": {
+        "id": "ETH-PERP",
+        "lowercaseId": "eth-perp",
+        "symbol": "ETH/USDC:USDC",
+        "base": "ETH",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "ETH",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 4334.6467
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "149264164756389888",
+            "instrument_uuid": "e9360798-6a10-45d6-af05-67c30eb91e2d",
+            "symbol": "ETH-PERP",
+            "type": "PERP",
+            "base_asset_id": "118059611793145856",
+            "base_asset_uuid": "d85dce9b-5b73-5c3c-8978-522ce1d1c1b4",
+            "base_asset_name": "ETH",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.0001",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "113327.7092",
+            "notional_24hr": "396031627.253815",
+            "avg_daily_qty": "5831363.2105",
+            "avg_daily_notional": "20285313606.90217",
+            "previous_day_qty": "132494.7472",
+            "open_interest": "1172.8126",
+            "position_limit_qty": "4334.6467",
+            "position_limit_adq_pct": "0.0223",
+            "replacement_cost": "0.23",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "3521.97",
+                "best_bid_size": "1.4826",
+                "best_ask_price": "3521.98",
+                "best_ask_size": "8.4322",
+                "trade_price": "3522.12",
+                "trade_qty": "0.3312",
+                "index_price": "3520.18",
+                "mark_price": "3521.98",
+                "settlement_price": "3524.98",
+                "limit_up": "3697.76",
+                "limit_down": "3345.6",
+                "predicted_funding": "0.00002",
+                "timestamp": "2024-04-10T20:28:54.569Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "BTC/USDC:USDC": {
+        "id": "BTC-PERP",
+        "lowercaseId": "btc-perp",
+        "symbol": "BTC/USDC:USDC",
+        "base": "BTC",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "BTC",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.1,
+            "cost": 0.1,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 292.0224
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "149264167780483072",
+            "instrument_uuid": "b3469e0b-222c-4f8a-9f68-1f9e44d7e5e0",
+            "symbol": "BTC-PERP",
+            "type": "PERP",
+            "base_asset_id": "118059611751202816",
+            "base_asset_uuid": "5b71fc48-3dd3-540c-809b-f8c94d0e68b5",
+            "base_asset_name": "BTC",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.0001",
+            "quote_increment": "0.1",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "4337.3398",
+            "notional_24hr": "298551858.11915",
+            "avg_daily_qty": "316269.7358",
+            "avg_daily_notional": "21239125240.79376",
+            "previous_day_qty": "4958.9795",
+            "open_interest": "106.2677",
+            "position_limit_qty": "292.0224",
+            "position_limit_adq_pct": "0.0277",
+            "replacement_cost": "0.19",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "69998.4",
+                "best_bid_size": "0.351",
+                "best_ask_price": "69998.5",
+                "best_ask_size": "0.1443",
+                "trade_price": "69990.6",
+                "trade_qty": "0.0229",
+                "index_price": "69966.2",
+                "mark_price": "69998.4",
+                "settlement_price": "70013",
+                "limit_up": "73499.2",
+                "limit_down": "66499.4",
+                "predicted_funding": "0.000018",
+                "timestamp": "2024-04-10T20:28:54.569Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "LTC/USDC:USDC": {
+        "id": "LTC-PERP",
+        "lowercaseId": "ltc-perp",
+        "symbol": "LTC/USDC:USDC",
+        "base": "LTC",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "LTC",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 6055.2
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "207597624121884672",
+            "instrument_uuid": "7edd0aab-9e3b-4456-a0e6-fb06c3b6a211",
+            "symbol": "LTC-PERP",
+            "type": "PERP",
+            "base_asset_id": "207597618027560960",
+            "base_asset_uuid": "c9c24c6e-c045-5fde-98a2-00ea7f520437",
+            "base_asset_name": "LTC",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.01",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "121427.95",
+            "notional_24hr": "11697139.9461",
+            "avg_daily_qty": "2212223.34",
+            "avg_daily_notional": "209326185.0497",
+            "previous_day_qty": "134924.03",
+            "open_interest": "2186",
+            "position_limit_qty": "6055.2",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.568",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "96.11",
+                "best_bid_size": "7.34",
+                "best_ask_price": "96.12",
+                "best_ask_size": "19.92",
+                "trade_price": "96.13",
+                "trade_qty": "4.08",
+                "index_price": "96.09",
+                "mark_price": "96.12",
+                "settlement_price": "96.28",
+                "limit_up": "100.92",
+                "limit_down": "91.32",
+                "predicted_funding": "0.000019",
+                "timestamp": "2024-04-10T20:28:54.569Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "XRP/USDC:USDC": {
+        "id": "XRP-PERP",
+        "lowercaseId": "xrp-perp",
+        "symbol": "XRP/USDC:USDC",
+        "base": "XRP",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "XRP",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": 0.0001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 5227808.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "207597758503190528",
+            "instrument_uuid": "873c20c8-5268-44f6-af95-00df2a524a77",
+            "symbol": "XRP-PERP",
+            "type": "PERP",
+            "base_asset_id": "207597752345952256",
+            "base_asset_uuid": "e17a44c8-6ea1-564f-a02c-2a9ca1d8eec4",
+            "base_asset_name": "XRP",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "1",
+            "quote_increment": "0.0001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "130867475",
+            "notional_24hr": "79674521.5697",
+            "avg_daily_qty": "3485205408",
+            "avg_daily_notional": "2168516556.3075",
+            "previous_day_qty": "150441956",
+            "open_interest": "572932",
+            "position_limit_qty": "5227808",
+            "position_limit_adq_pct": "0.045",
+            "replacement_cost": "0.628",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.6181",
+                "best_bid_size": "12412",
+                "best_ask_price": "0.6182",
+                "best_ask_size": "4510",
+                "trade_price": "0.6182",
+                "trade_qty": "1140",
+                "index_price": "0.6179",
+                "mark_price": "0.6182",
+                "settlement_price": "0.6185",
+                "limit_up": "0.649",
+                "limit_down": "0.5872",
+                "predicted_funding": "0.000018",
+                "timestamp": "2024-04-10T20:28:54.569Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "SOL/USDC:USDC": {
+        "id": "SOL-PERP",
+        "lowercaseId": "sol-perp",
+        "symbol": "SOL/USDC:USDC",
+        "base": "SOL",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "SOL",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 41557.767
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "240589739374149632",
+            "instrument_uuid": "c6d08758-4834-4dab-b8b5-0e86e3f64fb6",
+            "symbol": "SOL-PERP",
+            "type": "PERP",
+            "base_asset_id": "240528042118610944",
+            "base_asset_uuid": "4f039497-3af8-5bb3-951c-6df9afa9be1c",
+            "base_asset_name": "SOL",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.001",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "826333.97",
+            "notional_24hr": "140075705.382254",
+            "avg_daily_qty": "62336650.417",
+            "avg_daily_notional": "11277459202.9149",
+            "previous_day_qty": "646560.21",
+            "open_interest": "11363.066",
+            "position_limit_qty": "41557.767",
+            "position_limit_adq_pct": "0.02",
+            "replacement_cost": "0.49",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "171.623",
+                "best_bid_size": "13.466",
+                "best_ask_price": "171.624",
+                "best_ask_size": "6",
+                "trade_price": "171.599",
+                "trade_qty": "5.345",
+                "index_price": "171.525",
+                "mark_price": "171.623",
+                "settlement_price": "171.791",
+                "limit_up": "180.208",
+                "limit_down": "163.046",
+                "predicted_funding": "0.00003",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "AVAX/USDC:USDC": {
+        "id": "AVAX-PERP",
+        "lowercaseId": "avax-perp",
+        "symbol": "AVAX/USDC:USDC",
+        "base": "AVAX",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "AVAX",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 27868.05
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "240640203117559808",
+            "instrument_uuid": "92ce5b7a-d39b-42a3-9bb6-47bf21553274",
+            "symbol": "AVAX-PERP",
+            "type": "PERP",
+            "base_asset_id": "240528327834599424",
+            "base_asset_uuid": "9d06e463-b3ba-5abf-9082-8761846b28ab",
+            "base_asset_name": "AVAX",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.001",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "249655.166",
+            "notional_24hr": "11711058.467333",
+            "avg_daily_qty": "4208552.946",
+            "avg_daily_notional": "219752476.830867",
+            "previous_day_qty": "209447.169",
+            "open_interest": "4889.724",
+            "position_limit_qty": "27868.05",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.44",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "47.373",
+                "best_bid_size": "10.4",
+                "best_ask_price": "47.376",
+                "best_ask_size": "23.154",
+                "trade_price": "47.369",
+                "trade_qty": "8",
+                "index_price": "47.356",
+                "mark_price": "47.373",
+                "settlement_price": "47.387",
+                "limit_up": "49.741",
+                "limit_down": "45.005",
+                "predicted_funding": "0.000025",
+                "timestamp": "2024-04-10T20:28:55.236Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "DOGE/USDC:USDC": {
+        "id": "DOGE-PERP",
+        "lowercaseId": "doge-perp",
+        "symbol": "DOGE/USDC:USDC",
+        "base": "DOGE",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "DOGE",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-05,
+            "cost": 1e-05,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 4813864.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "252858534771818496",
+            "instrument_uuid": "2fae25be-8d70-11ee-b9d1-0242ac120002",
+            "symbol": "DOGE-PERP",
+            "type": "PERP",
+            "base_asset_id": "252856602632126464",
+            "base_asset_uuid": "d9a3edfa-1be7-589c-bd20-c034f3830b60",
+            "base_asset_name": "DOGE",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "1",
+            "quote_increment": "0.00001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "356295163",
+            "notional_24hr": "67604983.19817",
+            "avg_daily_qty": "7489875512",
+            "avg_daily_notional": "1352179717.22005",
+            "previous_day_qty": "336973421",
+            "open_interest": "1891647",
+            "position_limit_qty": "4813864",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "1.5",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.19982",
+                "best_bid_size": "10062",
+                "best_ask_price": "0.19983",
+                "best_ask_size": "9759",
+                "trade_price": "0.19982",
+                "trade_qty": "6000",
+                "index_price": "0.19972",
+                "mark_price": "0.19982",
+                "settlement_price": "0.20085",
+                "limit_up": "0.20981",
+                "limit_down": "0.18983",
+                "predicted_funding": "0.00003",
+                "timestamp": "2024-04-10T20:28:55.143Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "LINK/USDC:USDC": {
+        "id": "LINK-PERP",
+        "lowercaseId": "link-perp",
+        "symbol": "LINK/USDC:USDC",
+        "base": "LINK",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "LINK",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 26315.77
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "252858968550932480",
+            "instrument_uuid": "fd805746-85f7-444b-811a-5f8e3bf81064",
+            "symbol": "LINK-PERP",
+            "type": "PERP",
+            "base_asset_id": "252856824380784640",
+            "base_asset_uuid": "ea3107c6-416b-5b02-b99f-ded31a0cbdfe",
+            "base_asset_name": "LINK",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.01",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "14167.29",
+            "notional_24hr": "244162.3414",
+            "avg_daily_qty": "1005800.48",
+            "avg_daily_notional": "18786664.7448",
+            "previous_day_qty": "16115.36",
+            "open_interest": "10991.64",
+            "position_limit_qty": "26315.77",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.5",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "17.33",
+                "best_bid_size": "346.64",
+                "best_ask_price": "17.34",
+                "best_ask_size": "18.42",
+                "trade_price": "17.35",
+                "trade_qty": "17.44",
+                "index_price": "17.33",
+                "mark_price": "17.34",
+                "settlement_price": "17.35",
+                "limit_up": "18.19",
+                "limit_down": "16.47",
+                "predicted_funding": "0.000018",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "XLM/USDC:USDC": {
+        "id": "XLM-PERP",
+        "lowercaseId": "xlm-perp",
+        "symbol": "XLM/USDC:USDC",
+        "base": "XLM",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "XLM",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-05,
+            "cost": 1e-05,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 3196931.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "252859196465217536",
+            "instrument_uuid": "2308ae78-8e1b-11ee-b9d1-0242ac120002",
+            "symbol": "XLM-PERP",
+            "type": "PERP",
+            "base_asset_id": "252857009521557504",
+            "base_asset_uuid": "13b83335-5ede-595b-821e-5bcdfa80560f",
+            "base_asset_name": "XLM",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "1",
+            "quote_increment": "0.00001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "19781896",
+            "notional_24hr": "2557847.30574",
+            "avg_daily_qty": "1148378045",
+            "avg_daily_notional": "155108909.88216",
+            "previous_day_qty": "26104565",
+            "open_interest": "851145",
+            "position_limit_qty": "3196931",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.83",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.12926",
+                "best_bid_size": "3886",
+                "best_ask_price": "0.12927",
+                "best_ask_size": "2000",
+                "trade_price": "0.12931",
+                "trade_qty": "2555",
+                "index_price": "0.12918",
+                "mark_price": "0.12927",
+                "settlement_price": "0.12933",
+                "limit_up": "0.13572",
+                "limit_down": "0.1228",
+                "predicted_funding": "0.000025",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ADA/USDC:USDC": {
+        "id": "ADA-PERP",
+        "lowercaseId": "ada-perp",
+        "symbol": "ADA/USDC:USDC",
+        "base": "ADA",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "ADA",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": 0.0001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 1010509.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "252859427479093248",
+            "instrument_uuid": "cd34c18b-3665-4ed8-9305-3db277c49fc5",
+            "symbol": "ADA-PERP",
+            "type": "PERP",
+            "base_asset_id": "252857260189941760",
+            "base_asset_uuid": "63062039-7afb-56ff-8e19-5e3215dc404a",
+            "base_asset_name": "ADA",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "1",
+            "quote_increment": "0.0001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "1411374",
+            "notional_24hr": "817398.9346",
+            "avg_daily_qty": "32226151",
+            "avg_daily_notional": "21003736.946",
+            "previous_day_qty": "1182914",
+            "open_interest": "216881",
+            "position_limit_qty": "1010509",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.66",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.5841",
+                "best_bid_size": "1492",
+                "best_ask_price": "0.5844",
+                "best_ask_size": "881",
+                "trade_price": "0.5846",
+                "trade_qty": "1795",
+                "index_price": "0.5839",
+                "mark_price": "0.5844",
+                "settlement_price": "0.5846",
+                "limit_up": "0.6135",
+                "limit_down": "0.5551",
+                "predicted_funding": "0.000029",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "BCH/USDC:USDC": {
+        "id": "BCH-PERP",
+        "lowercaseId": "bch-perp",
+        "symbol": "BCH/USDC:USDC",
+        "base": "BCH",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "BCH",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 1538.835
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "255405639818280960",
+            "instrument_uuid": "12d9adf8-c6b3-495b-8a28-763976ce1b8f",
+            "symbol": "BCH-PERP",
+            "type": "PERP",
+            "base_asset_id": "255405347580149765",
+            "base_asset_uuid": "45f99e13-b522-57d7-8058-c57bf92fe7a3",
+            "base_asset_name": "BCH",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.001",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "9087.679",
+            "notional_24hr": "5736679.65286",
+            "avg_daily_qty": "447442.855",
+            "avg_daily_notional": "223904468.40813",
+            "previous_day_qty": "13348.741",
+            "open_interest": "545.479",
+            "position_limit_qty": "1538.835",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.52",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "622.48",
+                "best_bid_size": "0.963",
+                "best_ask_price": "622.74",
+                "best_ask_size": "0.963",
+                "trade_price": "622.53",
+                "trade_qty": "0.415",
+                "index_price": "623.22",
+                "mark_price": "622.53",
+                "settlement_price": "622.14",
+                "limit_up": "653.61",
+                "limit_down": "591.37",
+                "predicted_funding": "-0.000052",
+                "timestamp": "2024-04-10T20:28:54.569Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "MATIC/USDC:USDC": {
+        "id": "MATIC-PERP",
+        "lowercaseId": "matic-perp",
+        "symbol": "MATIC/USDC:USDC",
+        "base": "MATIC",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "MATIC",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": 0.0001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 474684.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "255405988201365504",
+            "instrument_uuid": "0acafe9f-b1a3-4f63-be90-158a4fc1c5ad",
+            "symbol": "MATIC-PERP",
+            "type": "PERP",
+            "base_asset_id": "255405814024503296",
+            "base_asset_uuid": "026bcc1e-9163-591c-a709-34dd18b2e7a1",
+            "base_asset_name": "MATIC",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "1",
+            "quote_increment": "0.0001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "5737832",
+            "notional_24hr": "5051687.9956",
+            "avg_daily_qty": "94225647",
+            "avg_daily_notional": "95862504.8263",
+            "previous_day_qty": "7527910",
+            "open_interest": "135605",
+            "position_limit_qty": "474684",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.5",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.886",
+                "best_bid_size": "325",
+                "best_ask_price": "0.8861",
+                "best_ask_size": "980",
+                "trade_price": "0.8862",
+                "trade_qty": "250",
+                "index_price": "0.8857",
+                "mark_price": "0.8861",
+                "settlement_price": "0.8868",
+                "limit_up": "0.9304",
+                "limit_down": "0.8418",
+                "predicted_funding": "0.000031",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ETC/USDC:USDC": {
+        "id": "ETC-PERP",
+        "lowercaseId": "etc-perp",
+        "symbol": "ETC/USDC:USDC",
+        "base": "ETC",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "ETC",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 23779.34
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "257665196896550912",
+            "instrument_uuid": "52bf4bb6-041b-4b14-99c9-ae18488d2aa1",
+            "symbol": "ETC-PERP",
+            "type": "PERP",
+            "base_asset_id": "257664568862441472",
+            "base_asset_uuid": "c16df856-0345-5358-8a70-2a78c804e61f",
+            "base_asset_name": "ETC",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.01",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "120873.56",
+            "notional_24hr": "3937768.8621",
+            "avg_daily_qty": "1636110.53",
+            "avg_daily_notional": "52857125.5587",
+            "previous_day_qty": "177660.36",
+            "open_interest": "6109.27",
+            "position_limit_qty": "23779.34",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.58",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "33.21",
+                "best_bid_size": "45.27",
+                "best_ask_price": "33.22",
+                "best_ask_size": "54.7",
+                "trade_price": "33.22",
+                "trade_qty": "0.88",
+                "index_price": "33.21",
+                "mark_price": "33.22",
+                "settlement_price": "33.24",
+                "limit_up": "34.88",
+                "limit_down": "31.56",
+                "predicted_funding": "0.000018",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "OP/USDC:USDC": {
+        "id": "OP-PERP",
+        "lowercaseId": "op-perp",
+        "symbol": "OP/USDC:USDC",
+        "base": "OP",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "OP",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 214285.7
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "257670352694411265",
+            "instrument_uuid": "bb8d0a01-bb2a-4c9b-a43c-6cca8488f0d9",
+            "symbol": "OP-PERP",
+            "type": "PERP",
+            "base_asset_id": "257669064879505408",
+            "base_asset_uuid": "627b8bbb-9908-41be-87a8-1c9c87b6c5e7",
+            "base_asset_name": "OP",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "123124.5",
+            "notional_24hr": "370764.0768",
+            "avg_daily_qty": "8186104.1",
+            "avg_daily_notional": "29378612.5964",
+            "previous_day_qty": "189932.6",
+            "open_interest": "62321.4",
+            "position_limit_qty": "214285.7",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.6",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "3.02",
+                "best_bid_size": "1049.3",
+                "best_ask_price": "3.022",
+                "best_ask_size": "238.6",
+                "trade_price": "3.02",
+                "trade_qty": "166.7",
+                "index_price": "3.019",
+                "mark_price": "3.02",
+                "settlement_price": "3.028",
+                "limit_up": "3.171",
+                "limit_down": "2.869",
+                "predicted_funding": "0.000029",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ARB/USDC:USDC": {
+        "id": "ARB-PERP",
+        "lowercaseId": "arb-perp",
+        "symbol": "ARB/USDC:USDC",
+        "base": "ARB",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "ARB",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 347222.2
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "257673693000368129",
+            "instrument_uuid": "f2bbda6f-f241-4463-8a10-c7b19688c916",
+            "symbol": "ARB-PERP",
+            "type": "PERP",
+            "base_asset_id": "257673123338387459",
+            "base_asset_uuid": "c2102278-2bbe-49e1-a115-5e83bffbcead",
+            "base_asset_name": "ARB",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "436733.1",
+            "notional_24hr": "639041.3592",
+            "avg_daily_qty": "19200676",
+            "avg_daily_notional": "31918261.2921",
+            "previous_day_qty": "659157.2",
+            "open_interest": "88670.4",
+            "position_limit_qty": "347222.2",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "0.6",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "1.461",
+                "best_bid_size": "4734.6",
+                "best_ask_price": "1.462",
+                "best_ask_size": "330.2",
+                "trade_price": "1.468",
+                "trade_qty": "138.4",
+                "index_price": "1.461",
+                "mark_price": "1.462",
+                "settlement_price": "1.465",
+                "limit_up": "1.534",
+                "limit_down": "1.388",
+                "predicted_funding": "0.000036",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "SEI/USDC:USDC": {
+        "id": "SEI-PERP",
+        "lowercaseId": "sei-perp",
+        "symbol": "SEI/USDC:USDC",
+        "base": "SEI",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "SEI",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": 0.0001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 232326.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "273143632154853376",
+            "instrument_uuid": "8e1e5330-2253-48f9-a491-4c1afbda3495",
+            "symbol": "SEI-PERP",
+            "type": "PERP",
+            "base_asset_id": "273142186239852544",
+            "base_asset_uuid": "64e81cab-1cee-4950-b1fd-773efa4acfa9",
+            "base_asset_name": "SEI",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "1",
+            "quote_increment": "0.0001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "5838919",
+            "notional_24hr": "3900047.3261",
+            "avg_daily_qty": "29263352",
+            "avg_daily_notional": "22637593.1045",
+            "previous_day_qty": "6433959",
+            "open_interest": "41593",
+            "position_limit_qty": "232326",
+            "position_limit_adq_pct": "0.01",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.6731",
+                "best_bid_size": "2383",
+                "best_ask_price": "0.6732",
+                "best_ask_size": "2358",
+                "trade_price": "0.6738",
+                "trade_qty": "409",
+                "index_price": "0.6723",
+                "mark_price": "0.6732",
+                "settlement_price": "0.6744",
+                "limit_up": "0.7066",
+                "limit_down": "0.6394",
+                "predicted_funding": "0.000048",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "INJ/USDC:USDC": {
+        "id": "INJ-PERP",
+        "lowercaseId": "inj-perp",
+        "symbol": "INJ/USDC:USDC",
+        "base": "INJ",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "INJ",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 7610.5
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "273144966602031104",
+            "instrument_uuid": "31e87d9b-a8c2-4ab4-9199-3f065eb50a40",
+            "symbol": "INJ-PERP",
+            "type": "PERP",
+            "base_asset_id": "273144137505570816",
+            "base_asset_uuid": "0d150a7d-821e-5ca4-a17e-17f206668ecd",
+            "base_asset_name": "INJ",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "13953.4",
+            "notional_24hr": "456668.929",
+            "avg_daily_qty": "866846.2",
+            "avg_daily_notional": "33567050.751",
+            "previous_day_qty": "38642.1",
+            "open_interest": "1234.5",
+            "position_limit_qty": "7610.5",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "33.17",
+                "best_bid_size": "26.6",
+                "best_ask_price": "33.19",
+                "best_ask_size": "15.1",
+                "trade_price": "33.18",
+                "trade_qty": "6.1",
+                "index_price": "33.17",
+                "mark_price": "33.18",
+                "settlement_price": "33.24",
+                "limit_up": "34.84",
+                "limit_down": "31.54",
+                "predicted_funding": "0.000023",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "TIA/USDC:USDC": {
+        "id": "TIA-PERP",
+        "lowercaseId": "tia-perp",
+        "symbol": "TIA/USDC:USDC",
+        "base": "TIA",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "TIA",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 16285.23
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "273161915608334336",
+            "instrument_uuid": "22db4302-e43f-4b55-93fb-351998ce38ab",
+            "symbol": "TIA-PERP",
+            "type": "PERP",
+            "base_asset_id": "273159254586687488",
+            "base_asset_uuid": "72ed7be3-3583-48df-b756-e6f1b4c940a2",
+            "base_asset_name": "TIA",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.01",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "31863.88",
+            "notional_24hr": "362879.9085",
+            "avg_daily_qty": "3742521.06",
+            "avg_daily_notional": "54798589.9868",
+            "previous_day_qty": "102545.05",
+            "open_interest": "14530.84",
+            "position_limit_qty": "16285.23",
+            "position_limit_adq_pct": "0.015",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "11.38",
+                "best_bid_size": "357.18",
+                "best_ask_price": "11.39",
+                "best_ask_size": "61.51",
+                "trade_price": "11.39",
+                "trade_qty": "44.13",
+                "index_price": "11.38",
+                "mark_price": "11.39",
+                "settlement_price": "11.39",
+                "limit_up": "11.95",
+                "limit_down": "10.83",
+                "predicted_funding": "0.000036",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "FIL/USDC:USDC": {
+        "id": "FIL-PERP",
+        "lowercaseId": "fil-perp",
+        "symbol": "FIL/USDC:USDC",
+        "base": "FIL",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "FIL",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 37523.5
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "277823829613477914",
+            "instrument_uuid": "a53a2aa0-17ea-433a-b4c9-566e9ddfe781",
+            "symbol": "FIL-PERP",
+            "type": "PERP",
+            "base_asset_id": "277823132364963840",
+            "base_asset_uuid": "0a5b73d1-a976-5966-b3ff-86be8f9b65d5",
+            "base_asset_name": "FIL",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "1473874.1",
+            "notional_24hr": "12492460.077",
+            "avg_daily_qty": "20906396.6",
+            "avg_daily_notional": "187985635.2341",
+            "previous_day_qty": "2377264.7",
+            "open_interest": "11574.3",
+            "position_limit_qty": "37523.5",
+            "position_limit_adq_pct": "0.01",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "8.474",
+                "best_bid_size": "60",
+                "best_ask_price": "8.475",
+                "best_ask_size": "126.7",
+                "trade_price": "8.473",
+                "trade_qty": "40",
+                "index_price": "8.471",
+                "mark_price": "8.474",
+                "settlement_price": "8.495",
+                "limit_up": "8.897",
+                "limit_down": "8.051",
+                "predicted_funding": "0.000028",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "APT/USDC:USDC": {
+        "id": "APT-PERP",
+        "lowercaseId": "apt-perp",
+        "symbol": "APT/USDC:USDC",
+        "base": "APT",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "APT",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 21299.3
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "277825255433568256",
+            "instrument_uuid": "0672c49d-6385-4660-a183-3b3ba46649e3",
+            "symbol": "APT-PERP",
+            "type": "PERP",
+            "base_asset_id": "277824677198430208",
+            "base_asset_uuid": "976e5f1e-e419-4eac-990e-76caf525c6af",
+            "base_asset_name": "APT",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "581399.2",
+            "notional_24hr": "7173483.3061",
+            "avg_daily_qty": "8806621.8",
+            "avg_daily_notional": "129180103.9989",
+            "previous_day_qty": "789012",
+            "open_interest": "5129.7",
+            "position_limit_qty": "21299.3",
+            "position_limit_adq_pct": "0.01",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "12.286",
+                "best_bid_size": "39",
+                "best_ask_price": "12.287",
+                "best_ask_size": "30",
+                "trade_price": "12.288",
+                "trade_qty": "39",
+                "index_price": "12.277",
+                "mark_price": "12.287",
+                "settlement_price": "12.302",
+                "limit_up": "12.901",
+                "limit_down": "11.673",
+                "predicted_funding": "0.000037",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "SUI/USDC:USDC": {
+        "id": "SUI-PERP",
+        "lowercaseId": "sui-perp",
+        "symbol": "SUI/USDC:USDC",
+        "base": "SUI",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "SUI",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": 0.0001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 129032.3
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "277826864968368128",
+            "instrument_uuid": "8daa6be7-ac38-4b7f-9b2d-986b31148e9a",
+            "symbol": "SUI-PERP",
+            "type": "PERP",
+            "base_asset_id": "277826056721793024",
+            "base_asset_uuid": "26417fbc-f542-417a-9596-5a6065b76b78",
+            "base_asset_name": "SUI",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.0001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "15490363.2",
+            "notional_24hr": "23635622.83144",
+            "avg_daily_qty": "187317351.3",
+            "avg_daily_notional": "325434228.89362",
+            "previous_day_qty": "12426466",
+            "open_interest": "80281.3",
+            "position_limit_qty": "129032.3",
+            "position_limit_adq_pct": "0.01",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "1.5242",
+                "best_bid_size": "1541.4",
+                "best_ask_price": "1.5243",
+                "best_ask_size": "1012.3",
+                "trade_price": "1.5245",
+                "trade_qty": "300",
+                "index_price": "1.5228",
+                "mark_price": "1.5243",
+                "settlement_price": "1.525",
+                "limit_up": "1.6004",
+                "limit_down": "1.448",
+                "predicted_funding": "0.000036",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "NEAR/USDC:USDC": {
+        "id": "NEAR-PERP",
+        "lowercaseId": "near-perp",
+        "symbol": "NEAR/USDC:USDC",
+        "base": "NEAR",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "NEAR",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 35070.3
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "283223825653432324",
+            "instrument_uuid": "6e923b6b-063a-4ad3-83c8-55040111f41f",
+            "symbol": "NEAR-PERP",
+            "type": "PERP",
+            "base_asset_id": "283222181406572545",
+            "base_asset_uuid": "979a75c9-9466-5e6b-9545-930a89a3db8f",
+            "base_asset_name": "NEAR",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "1195650.4",
+            "notional_24hr": "8336056.7879",
+            "avg_daily_qty": "44702114.8",
+            "avg_daily_notional": "310253409.5976",
+            "previous_day_qty": "2081093.8",
+            "open_interest": "24394",
+            "position_limit_qty": "35070.3",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "6.995",
+                "best_bid_size": "85.7",
+                "best_ask_price": "6.997",
+                "best_ask_size": "184.9",
+                "trade_price": "6.996",
+                "trade_qty": "85.7",
+                "index_price": "6.99",
+                "mark_price": "6.996",
+                "settlement_price": "7.017",
+                "limit_up": "7.345",
+                "limit_down": "6.647",
+                "predicted_funding": "0.000037",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ICP/USDC:USDC": {
+        "id": "ICP-PERP",
+        "lowercaseId": "icp-perp",
+        "symbol": "ICP/USDC:USDC",
+        "base": "ICP",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "ICP",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 8635.58
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "283225422013923328",
+            "instrument_uuid": "544dd7fb-797c-4f3d-9815-66d601ea0eb9",
+            "symbol": "ICP-PERP",
+            "type": "PERP",
+            "base_asset_id": "283224163001303042",
+            "base_asset_uuid": "8f0fb5e8-9924-50bd-b95c-1d4b88fd20cc",
+            "base_asset_name": "ICP",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.01",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "60481.07",
+            "notional_24hr": "949478.5297",
+            "avg_daily_qty": "4274545.04",
+            "avg_daily_notional": "64250824.2154",
+            "previous_day_qty": "45702.68",
+            "open_interest": "3399.93",
+            "position_limit_qty": "8635.58",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "15.84",
+                "best_bid_size": "158.65",
+                "best_ask_price": "15.85",
+                "best_ask_size": "42.82",
+                "trade_price": "15.85",
+                "trade_qty": "10",
+                "index_price": "15.84",
+                "mark_price": "15.85",
+                "settlement_price": "15.85",
+                "limit_up": "16.63",
+                "limit_down": "15.05",
+                "predicted_funding": "0.000044",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "DOT/USDC:USDC": {
+        "id": "DOT-PERP",
+        "lowercaseId": "dot-perp",
+        "symbol": "DOT/USDC:USDC",
+        "base": "DOT",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "DOT",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 14756.6
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "283235244151144450",
+            "instrument_uuid": "c4df83e8-2e25-49d5-b499-8a283ff4473f",
+            "symbol": "DOT-PERP",
+            "type": "PERP",
+            "base_asset_id": "283233899176263680",
+            "base_asset_uuid": "ebea861a-c0ae-5323-bbe0-46893a119a39",
+            "base_asset_name": "DOT",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "150043.2",
+            "notional_24hr": "1265497.5602",
+            "avg_daily_qty": "13376591",
+            "avg_daily_notional": "125793942.578",
+            "previous_day_qty": "312818.4",
+            "open_interest": "9351.8",
+            "position_limit_qty": "14756.6",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "0.48",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "8.391",
+                "best_bid_size": "45.1",
+                "best_ask_price": "8.392",
+                "best_ask_size": "81.5",
+                "trade_price": "8.387",
+                "trade_qty": "35",
+                "index_price": "8.384",
+                "mark_price": "8.391",
+                "settlement_price": "8.398",
+                "limit_up": "8.809",
+                "limit_down": "7.971",
+                "predicted_funding": "0.000047",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "UNI/USDC:USDC": {
+        "id": "UNI-PERP",
+        "lowercaseId": "uni-perp",
+        "symbol": "UNI/USDC:USDC",
+        "base": "UNI",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "UNI",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": 0.01,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 11094.22
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "290537537460502528",
+            "instrument_uuid": "0e41c5bc-35b5-44bc-af04-5de2760f8691",
+            "symbol": "UNI-PERP",
+            "type": "PERP",
+            "base_asset_id": "290536915201949696",
+            "base_asset_uuid": "412832ad-59dd-5af8-8d36-99ebda3afb80",
+            "base_asset_name": "UNI",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.01",
+            "quote_increment": "0.01",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "61931.91",
+            "notional_24hr": "668494.7253",
+            "avg_daily_qty": "2363904.38",
+            "avg_daily_notional": "28199565.7906",
+            "previous_day_qty": "51582.78",
+            "open_interest": "5660.34",
+            "position_limit_qty": "11094.22",
+            "position_limit_adq_pct": "0.0075",
+            "replacement_cost": "0.36",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "9.96",
+                "best_bid_size": "309.59",
+                "best_ask_price": "9.97",
+                "best_ask_size": "10",
+                "trade_price": "9.98",
+                "trade_qty": "10",
+                "index_price": "9.96",
+                "mark_price": "9.97",
+                "settlement_price": "9.93",
+                "limit_up": "10.46",
+                "limit_down": "9.48",
+                "predicted_funding": "0.000008",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "BLUR/USDC:USDC": {
+        "id": "BLUR-PERP",
+        "lowercaseId": "blur-perp",
+        "symbol": "BLUR/USDC:USDC",
+        "base": "BLUR",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "BLUR",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": 0.0001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 146468.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "290538826474979328",
+            "instrument_uuid": "c9d33554-c533-424c-8a71-f8ca64e54f39",
+            "symbol": "BLUR-PERP",
+            "type": "PERP",
+            "base_asset_id": "290538225343135744",
+            "base_asset_uuid": "29bb92f9-0020-49f6-af54-9e69f5ead9bb",
+            "base_asset_name": "BLUR",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "1",
+            "quote_increment": "0.0001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "2566002",
+            "notional_24hr": "1344410.6566",
+            "avg_daily_qty": "57968702",
+            "avg_daily_notional": "33800100.6468",
+            "previous_day_qty": "5969215",
+            "open_interest": "71718",
+            "position_limit_qty": "146468",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.522",
+                "best_bid_size": "1280",
+                "best_ask_price": "0.5222",
+                "best_ask_size": "3040",
+                "trade_price": "0.5228",
+                "trade_qty": "62",
+                "index_price": "0.5219",
+                "mark_price": "0.5222",
+                "settlement_price": "0.523",
+                "limit_up": "0.5482",
+                "limit_down": "0.496",
+                "predicted_funding": "0.000027",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "STX/USDC:USDC": {
+        "id": "STX-PERP",
+        "lowercaseId": "stx-perp",
+        "symbol": "STX/USDC:USDC",
+        "base": "STX",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "STX",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 33110.2
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "292979959939465216",
+            "instrument_uuid": "51c9d143-2720-4bc8-ba01-1c77700a65ba",
+            "symbol": "STX-PERP",
+            "type": "PERP",
+            "base_asset_id": "292979100040036352",
+            "base_asset_uuid": "25c25663-7d03-5fd5-b8fb-31aa596d5a0d",
+            "base_asset_name": "STX",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "175889.4",
+            "notional_24hr": "549801.1858",
+            "avg_daily_qty": "5647111.6",
+            "avg_daily_notional": "19543835.199",
+            "previous_day_qty": "206532.1",
+            "open_interest": "7704.7",
+            "position_limit_qty": "33110.2",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "3.093",
+                "best_bid_size": "513.4",
+                "best_ask_price": "3.096",
+                "best_ask_size": "622.4",
+                "trade_price": "3.091",
+                "trade_qty": "513.7",
+                "index_price": "3.091",
+                "mark_price": "3.093",
+                "settlement_price": "3.094",
+                "limit_up": "3.247",
+                "limit_down": "2.939",
+                "predicted_funding": "0.000043",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "STRK/USDC:USDC": {
+        "id": "STRK-PERP",
+        "lowercaseId": "strk-perp",
+        "symbol": "STRK/USDC:USDC",
+        "base": "STRK",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "STRK",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 41101.9
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "292981531075411968",
+            "instrument_uuid": "9151f209-ab9d-4642-be3f-a339d6147955",
+            "symbol": "STRK-PERP",
+            "type": "PERP",
+            "base_asset_id": "292980793951649793",
+            "base_asset_uuid": "9e813e60-2d0f-4e60-a57e-327cecab767f",
+            "base_asset_name": "STRK",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "455869.5",
+            "notional_24hr": "841194.7817",
+            "avg_daily_qty": "12595357.2",
+            "avg_daily_notional": "26238246.4621",
+            "previous_day_qty": "948410.4",
+            "open_interest": "20805.7",
+            "position_limit_qty": "41101.9",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "1.867",
+                "best_bid_size": "1267.6",
+                "best_ask_price": "1.868",
+                "best_ask_size": "129.4",
+                "trade_price": "1.87",
+                "trade_qty": "245.7",
+                "index_price": "1.866",
+                "mark_price": "1.868",
+                "settlement_price": "1.87",
+                "limit_up": "1.96",
+                "limit_down": "1.774",
+                "predicted_funding": "0.000042",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "FTM/USDC:USDC": {
+        "id": "FTM-PERP",
+        "lowercaseId": "ftm-perp",
+        "symbol": "FTM/USDC:USDC",
+        "base": "FTM",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "FTM",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": 0.0001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 95111.4
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "295904611531751424",
+            "instrument_uuid": "d3bc024e-9395-4e6b-a03c-054040d40919",
+            "symbol": "FTM-PERP",
+            "type": "PERP",
+            "base_asset_id": "295902775668113409",
+            "base_asset_uuid": "79ed996e-1f19-5ecd-8ccd-666b361e320b",
+            "base_asset_name": "FTM",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.0001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "3914209.8",
+            "notional_24hr": "3878239.54998",
+            "avg_daily_qty": "6731377.6",
+            "avg_daily_notional": "6150808.5834",
+            "previous_day_qty": "2559909.6",
+            "open_interest": "31118.4",
+            "position_limit_qty": "95111.4",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.9824",
+                "best_bid_size": "1616.4",
+                "best_ask_price": "0.9833",
+                "best_ask_size": "1614.9",
+                "trade_price": "0.9825",
+                "trade_qty": "1065.9",
+                "index_price": "0.9823",
+                "mark_price": "0.9825",
+                "settlement_price": "0.992",
+                "limit_up": "1.0319",
+                "limit_down": "0.9337",
+                "predicted_funding": "0.000038",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "RUNE/USDC:USDC": {
+        "id": "RUNE-PERP",
+        "lowercaseId": "rune-perp",
+        "symbol": "RUNE/USDC:USDC",
+        "base": "RUNE",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "RUNE",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.001,
+            "cost": 0.001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 12332.4
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "295905690810056705",
+            "instrument_uuid": "50394bab-65d5-406c-86dc-40fceebac2ce",
+            "symbol": "RUNE-PERP",
+            "type": "PERP",
+            "base_asset_id": "295905041351442434",
+            "base_asset_uuid": "f52c67dd-0b56-5ae7-88f7-dc99c91be824",
+            "base_asset_name": "RUNE",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "52257.7",
+            "notional_24hr": "377383.5763",
+            "avg_daily_qty": "550182.9",
+            "avg_daily_notional": "4195639.7571",
+            "previous_day_qty": "55862.8",
+            "open_interest": "2035.6",
+            "position_limit_qty": "12332.4",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "7.435",
+                "best_bid_size": "213.5",
+                "best_ask_price": "7.437",
+                "best_ask_size": "86.6",
+                "trade_price": "7.425",
+                "trade_qty": "40",
+                "index_price": "7.43",
+                "mark_price": "7.435",
+                "settlement_price": "7.453",
+                "limit_up": "7.805",
+                "limit_down": "7.063",
+                "predicted_funding": "0.000036",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "W/USDC:USDC": {
+        "id": "W-PERP",
+        "lowercaseId": "w-perp",
+        "symbol": "W/USDC:USDC",
+        "base": "W",
+        "quote": "USDC",
+        "settle": "USDC",
+        "baseId": "W",
+        "quoteId": "USDC",
+        "settleId": "USDC",
+        "type": "swap",
+        "spot": false,
+        "margin": false,
+        "swap": true,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": true,
+        "linear": true,
+        "inverse": false,
+        "subType": "linear",
+        "taker": 0.004,
+        "maker": 0.002,
+        "contractSize": 1,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": 0.0001,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": 0.1
+            },
+            "amount": {
+                "min": null,
+                "max": 58823.5
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": 10.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "instrument_id": "298511456733757444",
+            "instrument_uuid": "1cd50905-0e6f-4574-a359-c7a9ba7cd4a8",
+            "symbol": "W-PERP",
+            "type": "PERP",
+            "base_asset_id": "298510553872072704",
+            "base_asset_uuid": "043cdf9c-cf77-47d8-b62f-64a07398de4c",
+            "base_asset_name": "W",
+            "quote_asset_id": "1",
+            "quote_asset_uuid": "2b92315d-eab7-5bef-84fa-089a131333f5",
+            "quote_asset_name": "USDC",
+            "base_increment": "0.1",
+            "quote_increment": "0.0001",
+            "price_band_percent": "0.02",
+            "market_order_percent": "0.0075",
+            "qty_24hr": "499685.2",
+            "notional_24hr": "417469.9133",
+            "avg_daily_qty": "3619965.6",
+            "avg_daily_notional": "3660118.52093",
+            "previous_day_qty": "518787.5",
+            "open_interest": "38445.4",
+            "position_limit_qty": "58823.5",
+            "position_limit_adq_pct": "0.005",
+            "replacement_cost": "1",
+            "base_imf": "0.1",
+            "min_notional_value": "10",
+            "funding_interval": "3600000000000",
+            "trading_state": "TRADING",
+            "quote": {
+                "best_bid_price": "0.8228",
+                "best_bid_size": "130",
+                "best_ask_price": "0.8239",
+                "best_ask_size": "299.5",
+                "trade_price": "0.8234",
+                "trade_qty": "24.3",
+                "index_price": "0.8232",
+                "mark_price": "0.8234",
+                "settlement_price": "0.8249",
+                "limit_up": "0.8646",
+                "limit_down": "0.7824",
+                "predicted_funding": "0.000027",
+                "timestamp": "2024-04-10T20:28:54.570Z"
+            }
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.004
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    5000000.0,
+                    0.0035
+                ],
+                [
+                    10000000.0,
+                    0.0035
+                ],
+                [
+                    50000000.0,
+                    0.003
+                ],
+                [
+                    250000000.0,
+                    0.0025
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.002
+                ],
+                [
+                    1000000.0,
+                    0.0016
+                ],
+                [
+                    5000000.0,
+                    0.001
+                ],
+                [
+                    10000000.0,
+                    0.0008
+                ],
+                [
+                    50000000.0,
+                    0.0005
+                ],
+                [
+                    250000000.0,
+                    0.0
+                ]
+            ]
+        }
+    }
+}

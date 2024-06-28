@@ -1,0 +1,89 @@
+{
+    "id": "EOS-USD-240628",
+    "lowercaseId": null,
+    "symbol": "EOS/USD:EOS-240628",
+    "base": "EOS",
+    "quote": "USD",
+    "settle": "EOS",
+    "baseId": "EOS",
+    "quoteId": "USD",
+    "settleId": "EOS",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0002,
+    "contractSize": 10.0,
+    "expiry": 1719561600000,
+    "expiryDatetime": "2024-06-28T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.0001,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": 1.0,
+            "max": 20.0
+        },
+        "amount": {
+            "min": 1.0,
+            "max": null
+        },
+        "price": {
+            "min": null,
+            "max": null
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        }
+    },
+    "created": 1702627800802,
+    "info": {
+        "alias": "this_week",
+        "baseCcy": "",
+        "category": "1",
+        "ctMult": "1",
+        "ctType": "inverse",
+        "ctVal": "10",
+        "ctValCcy": "USD",
+        "expTime": "1719561600000",
+        "instFamily": "EOS-USD",
+        "instId": "EOS-USD-240628",
+        "instType": "FUTURES",
+        "lever": "20",
+        "listTime": "1702627800802",
+        "lotSz": "1",
+        "maxIcebergSz": "1000000.0000000000000000",
+        "maxLmtAmt": "20000000",
+        "maxLmtSz": "1000000",
+        "maxMktAmt": "",
+        "maxMktSz": "40000",
+        "maxStopSz": "40000",
+        "maxTriggerSz": "1000000.0000000000000000",
+        "maxTwapSz": "1000000.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "",
+        "settleCcy": "EOS",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.0001",
+        "uly": "EOS-USD"
+    },
+    "percentage": true
+}

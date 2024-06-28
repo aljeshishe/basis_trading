@@ -1,0 +1,89 @@
+{
+    "id": "BTC-USD-240419",
+    "lowercaseId": null,
+    "symbol": "BTC/USD:BTC-240419",
+    "base": "BTC",
+    "quote": "USD",
+    "settle": "BTC",
+    "baseId": "BTC",
+    "quoteId": "USD",
+    "settleId": "BTC",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0002,
+    "contractSize": 100.0,
+    "expiry": 1713513600000,
+    "expiryDatetime": "2024-04-19T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.1,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": 1.0,
+            "max": 50.0
+        },
+        "amount": {
+            "min": 1.0,
+            "max": null
+        },
+        "price": {
+            "min": null,
+            "max": null
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        }
+    },
+    "created": 1712304600267,
+    "info": {
+        "alias": "this_week",
+        "baseCcy": "",
+        "category": "1",
+        "ctMult": "1",
+        "ctType": "inverse",
+        "ctVal": "100",
+        "ctValCcy": "USD",
+        "expTime": "1713513600000",
+        "instFamily": "BTC-USD",
+        "instId": "BTC-USD-240419",
+        "instType": "FUTURES",
+        "lever": "50",
+        "listTime": "1712304600267",
+        "lotSz": "1",
+        "maxIcebergSz": "1000000.0000000000000000",
+        "maxLmtAmt": "20000000",
+        "maxLmtSz": "1000000",
+        "maxMktAmt": "",
+        "maxMktSz": "10000",
+        "maxStopSz": "10000",
+        "maxTriggerSz": "1000000.0000000000000000",
+        "maxTwapSz": "1000000.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "",
+        "settleCcy": "BTC",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.1",
+        "uly": "BTC-USD"
+    },
+    "percentage": true
+}

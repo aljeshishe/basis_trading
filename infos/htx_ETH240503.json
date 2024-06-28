@@ -1,0 +1,72 @@
+{
+    "id": "ETH240503",
+    "lowercaseId": "eth240503",
+    "symbol": "ETH/USD:ETH-240503",
+    "base": "ETH",
+    "quote": "USD",
+    "settle": "ETH",
+    "baseId": "eth",
+    "quoteId": "USD",
+    "settleId": "eth",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0002,
+    "contractSize": 10.0,
+    "expiry": 1714723200000,
+    "expiryDatetime": "2024-05-03T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.001,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": 1.0,
+            "max": 1.0,
+            "superMax": 1.0
+        },
+        "amount": {
+            "min": null,
+            "max": null
+        },
+        "price": {
+            "min": null,
+            "max": null
+        },
+        "cost": {
+            "min": 10.0,
+            "max": null
+        }
+    },
+    "created": 1713484800000,
+    "info": {
+        "symbol": "ETH",
+        "contract_code": "ETH240503",
+        "contract_type": "next_week",
+        "contract_size": "10.000000000000000000",
+        "price_tick": "0.001000000000000000",
+        "delivery_date": "20240503",
+        "delivery_time": "1714723200000",
+        "create_date": "20240419",
+        "contract_status": "1",
+        "settlement_time": "1713945600000"
+    },
+    "percentage": true,
+    "feeSide": "get",
+    "tierBased": false
+}

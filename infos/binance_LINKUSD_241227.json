@@ -1,0 +1,137 @@
+{
+    "id": "LINKUSD_241227",
+    "lowercaseId": "linkusd_241227",
+    "symbol": "LINK/USD:LINK-241227",
+    "base": "LINK",
+    "quote": "USD",
+    "settle": "LINK",
+    "baseId": "LINK",
+    "quoteId": "USD",
+    "settleId": "LINK",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0001,
+    "contractSize": 10.0,
+    "expiry": 1735286400000,
+    "expiryDatetime": "2024-12-27T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 0,
+        "price": 3,
+        "cost": null,
+        "base": 8,
+        "quote": 8
+    },
+    "limits": {
+        "leverage": {
+            "min": null,
+            "max": null
+        },
+        "amount": {
+            "min": 1.0,
+            "max": 1000000.0
+        },
+        "price": {
+            "min": 0.5,
+            "max": 2737.0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "market": {
+            "min": 1.0,
+            "max": 2500.0
+        }
+    },
+    "created": 1719561600000,
+    "info": {
+        "symbol": "LINKUSD_241227",
+        "pair": "LINKUSD",
+        "contractType": "NEXT_QUARTER",
+        "deliveryDate": "1735286400000",
+        "onboardDate": "1719561600000",
+        "contractStatus": "TRADING",
+        "contractSize": "10",
+        "marginAsset": "LINK",
+        "maintMarginPercent": "2.5000",
+        "requiredMarginPercent": "5.0000",
+        "baseAsset": "LINK",
+        "quoteAsset": "USD",
+        "pricePrecision": "3",
+        "quantityPrecision": "0",
+        "baseAssetPrecision": "8",
+        "quotePrecision": "8",
+        "equalQtyPrecision": "4",
+        "maxMoveOrderLimit": "10000",
+        "triggerProtect": "0.0500",
+        "underlyingType": "COIN",
+        "underlyingSubType": [],
+        "filters": [
+            {
+                "minPrice": "0.500",
+                "maxPrice": "2737",
+                "filterType": "PRICE_FILTER",
+                "tickSize": "0.001"
+            },
+            {
+                "stepSize": "1",
+                "filterType": "LOT_SIZE",
+                "maxQty": "1000000",
+                "minQty": "1"
+            },
+            {
+                "stepSize": "1",
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "2500",
+                "minQty": "1"
+            },
+            {
+                "limit": "200",
+                "filterType": "MAX_NUM_ORDERS"
+            },
+            {
+                "limit": "20",
+                "filterType": "MAX_NUM_ALGO_ORDERS"
+            },
+            {
+                "multiplierDown": "0.9500",
+                "multiplierUp": "1.0500",
+                "multiplierDecimal": "4",
+                "filterType": "PERCENT_PRICE"
+            }
+        ],
+        "orderTypes": [
+            "LIMIT",
+            "MARKET",
+            "STOP",
+            "STOP_MARKET",
+            "TAKE_PROFIT",
+            "TAKE_PROFIT_MARKET",
+            "TRAILING_STOP_MARKET"
+        ],
+        "timeInForce": [
+            "GTC",
+            "IOC",
+            "FOK",
+            "GTX"
+        ],
+        "liquidationFee": "0.010000",
+        "marketTakeBound": "0.05"
+    },
+    "percentage": true,
+    "feeSide": "get",
+    "tierBased": false
+}

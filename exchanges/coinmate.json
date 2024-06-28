@@ -1,0 +1,2504 @@
+{
+    "BTC/EUR": {
+        "id": "BTC_EUR",
+        "lowercaseId": null,
+        "symbol": "BTC/EUR",
+        "base": "BTC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 2.5e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "BTC_EUR",
+            "firstCurrency": "BTC",
+            "secondCurrency": "EUR",
+            "priceDecimals": "1",
+            "lotDecimals": "8",
+            "minAmount": "0.000025",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "BTC/CZK": {
+        "id": "BTC_CZK",
+        "lowercaseId": null,
+        "symbol": "BTC/CZK",
+        "base": "BTC",
+        "quote": "CZK",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "CZK",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 2.5e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "BTC_CZK",
+            "firstCurrency": "BTC",
+            "secondCurrency": "CZK",
+            "priceDecimals": "0",
+            "lotDecimals": "8",
+            "minAmount": "0.000025",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "USDT/CZK": {
+        "id": "USDT_CZK",
+        "lowercaseId": null,
+        "symbol": "USDT/CZK",
+        "base": "USDT",
+        "quote": "CZK",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "CZK",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USDT_CZK",
+            "firstCurrency": "USDT",
+            "secondCurrency": "CZK",
+            "priceDecimals": "3",
+            "lotDecimals": "2",
+            "minAmount": "1",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "USDT/EUR": {
+        "id": "USDT_EUR",
+        "lowercaseId": null,
+        "symbol": "USDT/EUR",
+        "base": "USDT",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USDT_EUR",
+            "firstCurrency": "USDT",
+            "secondCurrency": "EUR",
+            "priceDecimals": "4",
+            "lotDecimals": "2",
+            "minAmount": "1",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "BTC/USDT": {
+        "id": "BTC_USDT",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 2.5e-05,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "BTC_USDT",
+            "firstCurrency": "BTC",
+            "secondCurrency": "USDT",
+            "priceDecimals": "1",
+            "lotDecimals": "8",
+            "minAmount": "0.000025",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ETH/EUR": {
+        "id": "ETH_EUR",
+        "lowercaseId": null,
+        "symbol": "ETH/EUR",
+        "base": "ETH",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0006,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ETH_EUR",
+            "firstCurrency": "ETH",
+            "secondCurrency": "EUR",
+            "priceDecimals": "2",
+            "lotDecimals": "8",
+            "minAmount": "0.0006",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ETH/CZK": {
+        "id": "ETH_CZK",
+        "lowercaseId": null,
+        "symbol": "ETH/CZK",
+        "base": "ETH",
+        "quote": "CZK",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "CZK",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0006,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ETH_CZK",
+            "firstCurrency": "ETH",
+            "secondCurrency": "CZK",
+            "priceDecimals": "1",
+            "lotDecimals": "8",
+            "minAmount": "0.0006",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ETH/BTC": {
+        "id": "ETH_BTC",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0006,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ETH_BTC",
+            "firstCurrency": "ETH",
+            "secondCurrency": "BTC",
+            "priceDecimals": "5",
+            "lotDecimals": "8",
+            "minAmount": "0.0006",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ADA/EUR": {
+        "id": "ADA_EUR",
+        "lowercaseId": null,
+        "symbol": "ADA/EUR",
+        "base": "ADA",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ADA_EUR",
+            "firstCurrency": "ADA",
+            "secondCurrency": "EUR",
+            "priceDecimals": "5",
+            "lotDecimals": "6",
+            "minAmount": "1",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "ADA/CZK": {
+        "id": "ADA_CZK",
+        "lowercaseId": null,
+        "symbol": "ADA/CZK",
+        "base": "ADA",
+        "quote": "CZK",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "CZK",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ADA_CZK",
+            "firstCurrency": "ADA",
+            "secondCurrency": "CZK",
+            "priceDecimals": "4",
+            "lotDecimals": "6",
+            "minAmount": "1",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "SOL/EUR": {
+        "id": "SOL_EUR",
+        "lowercaseId": null,
+        "symbol": "SOL/EUR",
+        "base": "SOL",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "SOL_EUR",
+            "firstCurrency": "SOL",
+            "secondCurrency": "EUR",
+            "priceDecimals": "5",
+            "lotDecimals": "8",
+            "minAmount": "0.01",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "SOL/CZK": {
+        "id": "SOL_CZK",
+        "lowercaseId": null,
+        "symbol": "SOL/CZK",
+        "base": "SOL",
+        "quote": "CZK",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "CZK",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "SOL_CZK",
+            "firstCurrency": "SOL",
+            "secondCurrency": "CZK",
+            "priceDecimals": "4",
+            "lotDecimals": "8",
+            "minAmount": "0.01",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "LTC/BTC": {
+        "id": "LTC_BTC",
+        "lowercaseId": null,
+        "symbol": "LTC/BTC",
+        "base": "LTC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "LTC_BTC",
+            "firstCurrency": "LTC",
+            "secondCurrency": "BTC",
+            "priceDecimals": "6",
+            "lotDecimals": "8",
+            "minAmount": "0.01",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "LTC/EUR": {
+        "id": "LTC_EUR",
+        "lowercaseId": null,
+        "symbol": "LTC/EUR",
+        "base": "LTC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "LTC_EUR",
+            "firstCurrency": "LTC",
+            "secondCurrency": "EUR",
+            "priceDecimals": "2",
+            "lotDecimals": "8",
+            "minAmount": "0.01",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "LTC/CZK": {
+        "id": "LTC_CZK",
+        "lowercaseId": null,
+        "symbol": "LTC/CZK",
+        "base": "LTC",
+        "quote": "CZK",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "CZK",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "LTC_CZK",
+            "firstCurrency": "LTC",
+            "secondCurrency": "CZK",
+            "priceDecimals": "1",
+            "lotDecimals": "8",
+            "minAmount": "0.01",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "XRP/EUR": {
+        "id": "XRP_EUR",
+        "lowercaseId": null,
+        "symbol": "XRP/EUR",
+        "base": "XRP",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "XRP_EUR",
+            "firstCurrency": "XRP",
+            "secondCurrency": "EUR",
+            "priceDecimals": "5",
+            "lotDecimals": "8",
+            "minAmount": "1",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "XRP/CZK": {
+        "id": "XRP_CZK",
+        "lowercaseId": null,
+        "symbol": "XRP/CZK",
+        "base": "XRP",
+        "quote": "CZK",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "CZK",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "XRP_CZK",
+            "firstCurrency": "XRP",
+            "secondCurrency": "CZK",
+            "priceDecimals": "4",
+            "lotDecimals": "8",
+            "minAmount": "1",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    "XRP/BTC": {
+        "id": "XRP_BTC",
+        "lowercaseId": null,
+        "symbol": "XRP/BTC",
+        "base": "XRP",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0025,
+        "maker": 0.0012,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "XRP_BTC",
+            "firstCurrency": "XRP",
+            "secondCurrency": "BTC",
+            "priceDecimals": "8",
+            "lotDecimals": "8",
+            "minAmount": "1",
+            "tradesWebSocketChannelId": null,
+            "orderBookWebSocketChannelId": null,
+            "tradeStatisticsWebSocketChannelId": null
+        },
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.0035
+                ],
+                [
+                    10000.0,
+                    0.0023
+                ],
+                [
+                    100000.0,
+                    0.0021
+                ],
+                [
+                    250000.0,
+                    0.002
+                ],
+                [
+                    500000.0,
+                    0.0015
+                ],
+                [
+                    1000000.0,
+                    0.0013
+                ],
+                [
+                    3000000.0,
+                    0.001
+                ],
+                [
+                    15000000.0,
+                    0.0005
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.003
+                ],
+                [
+                    10000.0,
+                    0.0011
+                ],
+                [
+                    100000.0,
+                    0.001
+                ],
+                [
+                    250000.0,
+                    0.0008
+                ],
+                [
+                    500000.0,
+                    0.0005
+                ],
+                [
+                    1000000.0,
+                    0.0003
+                ],
+                [
+                    3000000.0,
+                    0.0002
+                ],
+                [
+                    15000000.0,
+                    0.0
+                ]
+            ]
+        }
+    }
+}

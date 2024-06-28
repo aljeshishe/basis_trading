@@ -1,0 +1,4242 @@
+{
+    "BTC/JPY": {
+        "id": "btc_jpy",
+        "lowercaseId": null,
+        "symbol": "BTC/JPY",
+        "base": "BTC",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "btc",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "btc_jpy",
+            "base_asset": "btc",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "1000",
+            "market_max_amount": "10",
+            "market_allowance_rate": "0.2",
+            "price_digits": "0",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "XRP/JPY": {
+        "id": "xrp_jpy",
+        "lowercaseId": null,
+        "symbol": "XRP/JPY",
+        "base": "XRP",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "xrp",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 40000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "xrp_jpy",
+            "base_asset": "xrp",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "40000000",
+            "market_max_amount": "400000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "ETH/JPY": {
+        "id": "eth_jpy",
+        "lowercaseId": null,
+        "symbol": "ETH/JPY",
+        "base": "ETH",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "eth",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "eth_jpy",
+            "base_asset": "eth",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "10000",
+            "market_max_amount": "100",
+            "market_allowance_rate": "0.3",
+            "price_digits": "0",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "MATIC/JPY": {
+        "id": "matic_jpy",
+        "lowercaseId": null,
+        "symbol": "MATIC/JPY",
+        "base": "MATIC",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "matic",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 3000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "matic_jpy",
+            "base_asset": "matic",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "3000000",
+            "market_max_amount": "30000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "DOT/JPY": {
+        "id": "dot_jpy",
+        "lowercaseId": null,
+        "symbol": "DOT/JPY",
+        "base": "DOT",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "dot",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 200000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "dot_jpy",
+            "base_asset": "dot",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "200000",
+            "market_max_amount": "2000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "DOGE/JPY": {
+        "id": "doge_jpy",
+        "lowercaseId": null,
+        "symbol": "DOGE/JPY",
+        "base": "DOGE",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "doge",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 20000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "doge_jpy",
+            "base_asset": "doge",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "20000000",
+            "market_max_amount": "200000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "LTC/JPY": {
+        "id": "ltc_jpy",
+        "lowercaseId": null,
+        "symbol": "LTC/JPY",
+        "base": "LTC",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "ltc",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 20000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ltc_jpy",
+            "base_asset": "ltc",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "20000",
+            "market_max_amount": "200",
+            "market_allowance_rate": "0.3",
+            "price_digits": "1",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "BCH/JPY": {
+        "id": "bcc_jpy",
+        "lowercaseId": null,
+        "symbol": "BCH/JPY",
+        "base": "BCH",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "bcc",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 3000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "bcc_jpy",
+            "base_asset": "bcc",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "3000",
+            "market_max_amount": "30",
+            "market_allowance_rate": "0.3",
+            "price_digits": "0",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "MONA/JPY": {
+        "id": "mona_jpy",
+        "lowercaseId": null,
+        "symbol": "MONA/JPY",
+        "base": "MONA",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "mona",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 200000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "mona_jpy",
+            "base_asset": "mona",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "200000",
+            "market_max_amount": "2000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "XLM/JPY": {
+        "id": "xlm_jpy",
+        "lowercaseId": null,
+        "symbol": "XLM/JPY",
+        "base": "XLM",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "xlm",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 30000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "xlm_jpy",
+            "base_asset": "xlm",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "30000000",
+            "market_max_amount": "300000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "QTUM/JPY": {
+        "id": "qtum_jpy",
+        "lowercaseId": null,
+        "symbol": "QTUM/JPY",
+        "base": "QTUM",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "qtum",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 900000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "qtum_jpy",
+            "base_asset": "qtum",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "900000",
+            "market_max_amount": "9000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "BAT/JPY": {
+        "id": "bat_jpy",
+        "lowercaseId": null,
+        "symbol": "BAT/JPY",
+        "base": "BAT",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "bat",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 7000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "bat_jpy",
+            "base_asset": "bat",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "7000000",
+            "market_max_amount": "70000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "OMG/JPY": {
+        "id": "omg_jpy",
+        "lowercaseId": null,
+        "symbol": "OMG/JPY",
+        "base": "OMG",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "omg",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 2000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "omg_jpy",
+            "base_asset": "omg",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "2000000",
+            "market_max_amount": "20000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "XYM/JPY": {
+        "id": "xym_jpy",
+        "lowercaseId": null,
+        "symbol": "XYM/JPY",
+        "base": "XYM",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "xym",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 7000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "xym_jpy",
+            "base_asset": "xym",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "7000000",
+            "market_max_amount": "70000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "LINK/JPY": {
+        "id": "link_jpy",
+        "lowercaseId": null,
+        "symbol": "LINK/JPY",
+        "base": "LINK",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "link",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 300000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "link_jpy",
+            "base_asset": "link",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "300000",
+            "market_max_amount": "3000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "MKR/JPY": {
+        "id": "mkr_jpy",
+        "lowercaseId": null,
+        "symbol": "MKR/JPY",
+        "base": "MKR",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "mkr",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "mkr_jpy",
+            "base_asset": "mkr",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "1000",
+            "market_max_amount": "10",
+            "market_allowance_rate": "0.3",
+            "price_digits": "0",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "BOBA/JPY": {
+        "id": "boba_jpy",
+        "lowercaseId": null,
+        "symbol": "BOBA/JPY",
+        "base": "BOBA",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "boba",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 900000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "boba_jpy",
+            "base_asset": "boba",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "900000",
+            "market_max_amount": "9000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "ENJ/JPY": {
+        "id": "enj_jpy",
+        "lowercaseId": null,
+        "symbol": "ENJ/JPY",
+        "base": "ENJ",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "enj",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 4000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "enj_jpy",
+            "base_asset": "enj",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "4000000",
+            "market_max_amount": "40000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "ASTR/JPY": {
+        "id": "astr_jpy",
+        "lowercaseId": null,
+        "symbol": "ASTR/JPY",
+        "base": "ASTR",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "astr",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 6000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "astr_jpy",
+            "base_asset": "astr",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "6000000",
+            "market_max_amount": "60000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "ADA/JPY": {
+        "id": "ada_jpy",
+        "lowercaseId": null,
+        "symbol": "ADA/JPY",
+        "base": "ADA",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "ada",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 2000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ada_jpy",
+            "base_asset": "ada",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "2000000",
+            "market_max_amount": "20000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "AVAX/JPY": {
+        "id": "avax_jpy",
+        "lowercaseId": null,
+        "symbol": "AVAX/JPY",
+        "base": "AVAX",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "avax",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 9000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "avax_jpy",
+            "base_asset": "avax",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "9000",
+            "market_max_amount": "90",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "AXS/JPY": {
+        "id": "axs_jpy",
+        "lowercaseId": null,
+        "symbol": "AXS/JPY",
+        "base": "AXS",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "axs",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 9000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "axs_jpy",
+            "base_asset": "axs",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "9000",
+            "market_max_amount": "90",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "FLR/JPY": {
+        "id": "flr_jpy",
+        "lowercaseId": null,
+        "symbol": "FLR/JPY",
+        "base": "FLR",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "flr",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 20000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "flr_jpy",
+            "base_asset": "flr",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "20000000",
+            "market_max_amount": "200000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "SAND/JPY": {
+        "id": "sand_jpy",
+        "lowercaseId": null,
+        "symbol": "SAND/JPY",
+        "base": "SAND",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "sand",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "sand_jpy",
+            "base_asset": "sand",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "1000000",
+            "market_max_amount": "10000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "GALA/JPY": {
+        "id": "gala_jpy",
+        "lowercaseId": null,
+        "symbol": "GALA/JPY",
+        "base": "GALA",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "gala",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 9000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "gala_jpy",
+            "base_asset": "gala",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "9000000",
+            "market_max_amount": "90000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "CHZ/JPY": {
+        "id": "chz_jpy",
+        "lowercaseId": null,
+        "symbol": "CHZ/JPY",
+        "base": "CHZ",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "chz",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 3000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "chz_jpy",
+            "base_asset": "chz",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "3000000",
+            "market_max_amount": "30000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "APE/JPY": {
+        "id": "ape_jpy",
+        "lowercaseId": null,
+        "symbol": "APE/JPY",
+        "base": "APE",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "ape",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 90000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ape_jpy",
+            "base_asset": "ape",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "90000",
+            "market_max_amount": "900",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "OAS/JPY": {
+        "id": "oas_jpy",
+        "lowercaseId": null,
+        "symbol": "OAS/JPY",
+        "base": "OAS",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "oas",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 3000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "oas_jpy",
+            "base_asset": "oas",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "3000000",
+            "market_max_amount": "30000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "MANA/JPY": {
+        "id": "mana_jpy",
+        "lowercaseId": null,
+        "symbol": "MANA/JPY",
+        "base": "MANA",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "mana",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 600000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "mana_jpy",
+            "base_asset": "mana",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "600000",
+            "market_max_amount": "6000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "GRT/JPY": {
+        "id": "grt_jpy",
+        "lowercaseId": null,
+        "symbol": "GRT/JPY",
+        "base": "GRT",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "grt",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 3000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "grt_jpy",
+            "base_asset": "grt",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "3000000",
+            "market_max_amount": "30000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "RNDR/JPY": {
+        "id": "rndr_jpy",
+        "lowercaseId": null,
+        "symbol": "RNDR/JPY",
+        "base": "RNDR",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "rndr",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 200000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "rndr_jpy",
+            "base_asset": "rndr",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "200000",
+            "market_max_amount": "2000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "BNB/JPY": {
+        "id": "bnb_jpy",
+        "lowercaseId": null,
+        "symbol": "BNB/JPY",
+        "base": "BNB",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "bnb",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 2000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "bnb_jpy",
+            "base_asset": "bnb",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "2000",
+            "market_max_amount": "20",
+            "market_allowance_rate": "0.3",
+            "price_digits": "0",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "DAI/JPY": {
+        "id": "dai_jpy",
+        "lowercaseId": null,
+        "symbol": "DAI/JPY",
+        "base": "DAI",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "dai",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 300000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "dai_jpy",
+            "base_asset": "dai",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "300000",
+            "market_max_amount": "3000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "OP/JPY": {
+        "id": "op_jpy",
+        "lowercaseId": null,
+        "symbol": "OP/JPY",
+        "base": "OP",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "op",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 200000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "op_jpy",
+            "base_asset": "op",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "200000",
+            "market_max_amount": "2000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "ARB/JPY": {
+        "id": "arb_jpy",
+        "lowercaseId": null,
+        "symbol": "ARB/JPY",
+        "base": "ARB",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "arb",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 300000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "arb_jpy",
+            "base_asset": "arb",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "300000",
+            "market_max_amount": "3000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "KLAY/JPY": {
+        "id": "klay_jpy",
+        "lowercaseId": null,
+        "symbol": "KLAY/JPY",
+        "base": "KLAY",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "klay",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "klay_jpy",
+            "base_asset": "klay",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "1000000",
+            "market_max_amount": "10000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "4",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "IMX/JPY": {
+        "id": "imx_jpy",
+        "lowercaseId": null,
+        "symbol": "IMX/JPY",
+        "base": "IMX",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "imx",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 200000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "imx_jpy",
+            "base_asset": "imx",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "200000",
+            "market_max_amount": "2000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "MASK/JPY": {
+        "id": "mask_jpy",
+        "lowercaseId": null,
+        "symbol": "MASK/JPY",
+        "base": "MASK",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "mask",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 90000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "mask_jpy",
+            "base_asset": "mask",
+            "quote_asset": "jpy",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "90000",
+            "market_max_amount": "900",
+            "market_allowance_rate": "0.3",
+            "price_digits": "3",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": false,
+            "stop_order_and_cancel": false,
+            "stop_market_order": false,
+            "stop_stop_order": false,
+            "stop_stop_limit_order": false,
+            "stop_buy_order": false,
+            "stop_sell_order": false
+        },
+        "percentage": true
+    },
+    "XRP/BTC": {
+        "id": "xrp_btc",
+        "lowercaseId": null,
+        "symbol": "XRP/BTC",
+        "base": "XRP",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "xrp",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 5000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "xrp_btc",
+            "base_asset": "xrp",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "5000000",
+            "market_max_amount": "10000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "ETH/BTC": {
+        "id": "eth_btc",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "eth",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "eth_btc",
+            "base_asset": "eth",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "1000",
+            "market_max_amount": "20",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "LTC/BTC": {
+        "id": "ltc_btc",
+        "lowercaseId": null,
+        "symbol": "LTC/BTC",
+        "base": "LTC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ltc",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ltc_btc",
+            "base_asset": "ltc",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "1000",
+            "market_max_amount": "50",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "BCH/BTC": {
+        "id": "bcc_btc",
+        "lowercaseId": null,
+        "symbol": "BCH/BTC",
+        "base": "BCH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "bcc",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "bcc_btc",
+            "base_asset": "bcc",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "1000",
+            "market_max_amount": "10",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "MONA/BTC": {
+        "id": "mona_btc",
+        "lowercaseId": null,
+        "symbol": "MONA/BTC",
+        "base": "MONA",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "mona",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "mona_btc",
+            "base_asset": "mona",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.001",
+            "limit_max_amount": "1000000",
+            "market_max_amount": "20",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "XLM/BTC": {
+        "id": "xlm_btc",
+        "lowercaseId": null,
+        "symbol": "XLM/BTC",
+        "base": "XLM",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "xlm",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "xlm_btc",
+            "base_asset": "xlm",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "1000000",
+            "market_max_amount": "10000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "QTUM/BTC": {
+        "id": "qtum_btc",
+        "lowercaseId": null,
+        "symbol": "QTUM/BTC",
+        "base": "QTUM",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "qtum",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "qtum_btc",
+            "base_asset": "qtum",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "100000",
+            "market_max_amount": "5000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "BAT/BTC": {
+        "id": "bat_btc",
+        "lowercaseId": null,
+        "symbol": "BAT/BTC",
+        "base": "BAT",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "bat",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "bat_btc",
+            "base_asset": "bat",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "100000",
+            "market_max_amount": "10000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "OMG/BTC": {
+        "id": "omg_btc",
+        "lowercaseId": null,
+        "symbol": "OMG/BTC",
+        "base": "OMG",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "omg",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "omg_btc",
+            "base_asset": "omg",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "100000",
+            "market_max_amount": "1000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "XYM/BTC": {
+        "id": "xym_btc",
+        "lowercaseId": null,
+        "symbol": "XYM/BTC",
+        "base": "XYM",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "xym",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "xym_btc",
+            "base_asset": "xym",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "100000",
+            "market_max_amount": "10000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "LINK/BTC": {
+        "id": "link_btc",
+        "lowercaseId": null,
+        "symbol": "LINK/BTC",
+        "base": "LINK",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "link",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "link_btc",
+            "base_asset": "link",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "10000",
+            "market_max_amount": "100",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "MKR/BTC": {
+        "id": "mkr_btc",
+        "lowercaseId": null,
+        "symbol": "MKR/BTC",
+        "base": "MKR",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "mkr",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 300.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "mkr_btc",
+            "base_asset": "mkr",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "300",
+            "market_max_amount": "1",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "BOBA/BTC": {
+        "id": "boba_btc",
+        "lowercaseId": null,
+        "symbol": "BOBA/BTC",
+        "base": "BOBA",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "boba",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 60000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "boba_btc",
+            "base_asset": "boba",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "60000",
+            "market_max_amount": "600",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "ENJ/BTC": {
+        "id": "enj_btc",
+        "lowercaseId": null,
+        "symbol": "ENJ/BTC",
+        "base": "ENJ",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "enj",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 40000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "enj_btc",
+            "base_asset": "enj",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "40000",
+            "market_max_amount": "400",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    },
+    "MATIC/BTC": {
+        "id": "matic_btc",
+        "lowercaseId": null,
+        "symbol": "MATIC/BTC",
+        "base": "MATIC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "matic",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.0012,
+        "maker": -0.0002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "matic_btc",
+            "base_asset": "matic",
+            "quote_asset": "btc",
+            "maker_fee_rate_base": "0",
+            "taker_fee_rate_base": "0",
+            "maker_fee_rate_quote": "-0.0002",
+            "taker_fee_rate_quote": "0.0012",
+            "unit_amount": "0.0001",
+            "limit_max_amount": "100000",
+            "market_max_amount": "1000",
+            "market_allowance_rate": "0.3",
+            "price_digits": "8",
+            "amount_digits": "4",
+            "is_enabled": true,
+            "stop_order": true,
+            "stop_order_and_cancel": false,
+            "stop_market_order": true,
+            "stop_stop_order": true,
+            "stop_stop_limit_order": true,
+            "stop_buy_order": true,
+            "stop_sell_order": true
+        },
+        "percentage": true
+    }
+}

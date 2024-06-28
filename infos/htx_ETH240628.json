@@ -1,0 +1,72 @@
+{
+    "id": "ETH240628",
+    "lowercaseId": "eth240628",
+    "symbol": "ETH/USD:ETH-240628",
+    "base": "ETH",
+    "quote": "USD",
+    "settle": "ETH",
+    "baseId": "eth",
+    "quoteId": "USD",
+    "settleId": "eth",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0002,
+    "contractSize": 10.0,
+    "expiry": 1719561600000,
+    "expiryDatetime": "2024-06-28T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.001,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": 1.0,
+            "max": 1.0,
+            "superMax": 1.0
+        },
+        "amount": {
+            "min": null,
+            "max": null
+        },
+        "price": {
+            "min": null,
+            "max": null
+        },
+        "cost": {
+            "min": 10.0,
+            "max": null
+        }
+    },
+    "created": 1710460800000,
+    "info": {
+        "symbol": "ETH",
+        "contract_code": "ETH240628",
+        "contract_type": "this_week",
+        "contract_size": "10.000000000000000000",
+        "price_tick": "0.001000000000000000",
+        "delivery_date": "20240628",
+        "delivery_time": "1719561600000",
+        "create_date": "20240315",
+        "contract_status": "1",
+        "settlement_time": "1719475200000"
+    },
+    "percentage": true,
+    "feeSide": "get",
+    "tierBased": false
+}

@@ -1,0 +1,2767 @@
+{
+    "XHT/USDT": {
+        "id": "xht-usdt",
+        "lowercaseId": null,
+        "symbol": "XHT/USDT",
+        "base": "XHT",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "xht",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1565347543353,
+        "info": {
+            "id": "1",
+            "name": "xht-usdt",
+            "pair_base": "xht",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "10000000",
+            "min_price": "0.1",
+            "max_price": "1",
+            "increment_size": "0.1",
+            "increment_price": "0.0001",
+            "active": true,
+            "verified": true,
+            "code": "xht-usdt",
+            "is_public": true,
+            "estimated_price": "0.1",
+            "circuit_breaker": true,
+            "created_at": "2019-08-09T10:45:43.353Z",
+            "updated_at": "2019-08-09T10:45:43.353Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/USDT": {
+        "id": "btc-usdt",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "btc",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 20000.0,
+                "max": 500000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1611216662736,
+        "info": {
+            "id": "2",
+            "name": "btc-usdt",
+            "pair_base": "btc",
+            "pair_2": "usdt",
+            "min_size": "0.00001",
+            "max_size": "1000",
+            "min_price": "20000",
+            "max_price": "500000",
+            "increment_size": "0.00001",
+            "increment_price": "0.01",
+            "active": true,
+            "verified": true,
+            "code": "btc-usdt",
+            "is_public": true,
+            "estimated_price": "21000",
+            "circuit_breaker": true,
+            "created_at": "2021-01-21T08:11:02.736Z",
+            "updated_at": "2022-06-16T10:59:02.940Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/USDT": {
+        "id": "eth-usdt",
+        "lowercaseId": null,
+        "symbol": "ETH/USDT",
+        "base": "ETH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "eth",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 500.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1611216687380,
+        "info": {
+            "id": "3",
+            "name": "eth-usdt",
+            "pair_base": "eth",
+            "pair_2": "usdt",
+            "min_size": "0.001",
+            "max_size": "100000",
+            "min_price": "500",
+            "max_price": "10000",
+            "increment_size": "0.0001",
+            "increment_price": "0.01",
+            "active": true,
+            "verified": true,
+            "code": "eth-usdt",
+            "is_public": true,
+            "estimated_price": "1000",
+            "circuit_breaker": true,
+            "created_at": "2021-01-21T08:11:27.380Z",
+            "updated_at": "2022-06-16T11:03:09.095Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XMR/USDT": {
+        "id": "xmr-usdt",
+        "lowercaseId": null,
+        "symbol": "XMR/USDT",
+        "base": "XMR",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "xmr",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1612729607000,
+        "info": {
+            "id": "98",
+            "name": "xmr-usdt",
+            "pair_base": "xmr",
+            "pair_2": "usdt",
+            "min_size": "0.001",
+            "max_size": "10000",
+            "min_price": "1",
+            "max_price": "10000",
+            "increment_size": "0.001",
+            "increment_price": "0.01",
+            "active": true,
+            "verified": true,
+            "code": "xmr-usdt",
+            "is_public": true,
+            "estimated_price": "150",
+            "circuit_breaker": true,
+            "created_at": "2021-02-07T20:26:47.000Z",
+            "updated_at": "2021-02-08T06:01:17.371Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XRP/USDT": {
+        "id": "xrp-usdt",
+        "lowercaseId": null,
+        "symbol": "XRP/USDT",
+        "base": "XRP",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "xrp",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 10.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1611218775429,
+        "info": {
+            "id": "4",
+            "name": "xrp-usdt",
+            "pair_base": "xrp",
+            "pair_2": "usdt",
+            "min_size": "1",
+            "max_size": "1000000",
+            "min_price": "0.1",
+            "max_price": "10",
+            "increment_size": "0.1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "xrp-usdt",
+            "is_public": true,
+            "estimated_price": "0.8",
+            "circuit_breaker": true,
+            "created_at": "2021-01-21T08:46:15.429Z",
+            "updated_at": "2021-01-22T05:40:39.196Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XLM/USDT": {
+        "id": "xlm-usdt",
+        "lowercaseId": null,
+        "symbol": "XLM/USDT",
+        "base": "XLM",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "xlm",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1612729607000,
+        "info": {
+            "id": "97",
+            "name": "xlm-usdt",
+            "pair_base": "xlm",
+            "pair_2": "usdt",
+            "min_size": "1",
+            "max_size": "10000000",
+            "min_price": "0.001",
+            "max_price": "1000",
+            "increment_size": "1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "xlm-usdt",
+            "is_public": true,
+            "estimated_price": "0.3",
+            "circuit_breaker": true,
+            "created_at": "2021-02-07T20:26:47.000Z",
+            "updated_at": "2021-02-08T05:58:11.876Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AMA/USDT": {
+        "id": "ama-usdt",
+        "lowercaseId": null,
+        "symbol": "AMA/USDT",
+        "base": "AMA",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ama",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1616558443000,
+        "info": {
+            "id": "261",
+            "name": "ama-usdt",
+            "pair_base": "ama",
+            "pair_2": "usdt",
+            "min_size": "1",
+            "max_size": "10000000",
+            "min_price": "0.01",
+            "max_price": "100",
+            "increment_size": "1",
+            "increment_price": "0.0001",
+            "active": true,
+            "verified": true,
+            "code": "ama-usdt",
+            "is_public": true,
+            "estimated_price": "0.1",
+            "circuit_breaker": false,
+            "created_at": "2021-03-24T04:00:43.000Z",
+            "updated_at": "2021-03-24T04:25:52.278Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BCH/USDT": {
+        "id": "bch-usdt",
+        "lowercaseId": null,
+        "symbol": "BCH/USDT",
+        "base": "BCH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "bch",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1611493699262,
+        "info": {
+            "id": "15",
+            "name": "bch-usdt",
+            "pair_base": "bch",
+            "pair_2": "usdt",
+            "min_size": "0.0001",
+            "max_size": "10000",
+            "min_price": "10",
+            "max_price": "10000",
+            "increment_size": "0.0001",
+            "increment_price": "0.1",
+            "active": true,
+            "verified": true,
+            "code": "bch-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-01-24T13:08:19.262Z",
+            "updated_at": "2021-03-24T05:09:44.396Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/BTC": {
+        "id": "eth-btc",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "eth",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 0.001,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1611747667629,
+        "info": {
+            "id": "26",
+            "name": "eth-btc",
+            "pair_base": "eth",
+            "pair_2": "btc",
+            "min_size": "0.0001",
+            "max_size": "100000",
+            "min_price": "0.001",
+            "max_price": "1",
+            "increment_size": "0.0001",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "eth-btc",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-01-27T11:41:07.629Z",
+            "updated_at": "2021-04-09T03:52:13.391Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "TRX/USDT": {
+        "id": "trx-usdt",
+        "lowercaseId": null,
+        "symbol": "TRX/USDT",
+        "base": "TRX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "trx",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1615999918053,
+        "info": {
+            "id": "220",
+            "name": "trx-usdt",
+            "pair_base": "trx",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "1000000",
+            "min_price": "0.01",
+            "max_price": "1",
+            "increment_size": "0.1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "trx-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-03-17T16:51:58.053Z",
+            "updated_at": "2021-03-18T06:25:18.794Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/USDT": {
+        "id": "ada-usdt",
+        "lowercaseId": null,
+        "symbol": "ADA/USDT",
+        "base": "ADA",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ada",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 10.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1616000178464,
+        "info": {
+            "id": "221",
+            "name": "ada-usdt",
+            "pair_base": "ada",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "1000000",
+            "min_price": "0.1",
+            "max_price": "10",
+            "increment_size": "0.1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "ada-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-03-17T16:56:18.464Z",
+            "updated_at": "2021-03-18T06:26:52.399Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XTZ/USDT": {
+        "id": "xtz-usdt",
+        "lowercaseId": null,
+        "symbol": "XTZ/USDT",
+        "base": "XTZ",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "xtz",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 0.5,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1617937875855,
+        "info": {
+            "id": "398",
+            "name": "xtz-usdt",
+            "pair_base": "xtz",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "100000",
+            "min_price": "0.5",
+            "max_price": "100",
+            "increment_size": "0.1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "xtz-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-04-09T03:11:15.855Z",
+            "updated_at": "2021-04-09T03:53:46.596Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "DOGE/USDT": {
+        "id": "doge-usdt",
+        "lowercaseId": null,
+        "symbol": "DOGE/USDT",
+        "base": "DOGE",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "doge",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1617937475782,
+        "info": {
+            "id": "394",
+            "name": "doge-usdt",
+            "pair_base": "doge",
+            "pair_2": "usdt",
+            "min_size": "1",
+            "max_size": "10000000",
+            "min_price": "0.01",
+            "max_price": "1",
+            "increment_size": "1",
+            "increment_price": "0.000001",
+            "active": true,
+            "verified": true,
+            "code": "doge-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-04-09T03:04:35.782Z",
+            "updated_at": "2021-04-09T03:57:20.584Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LTC/USDT": {
+        "id": "ltc-usdt",
+        "lowercaseId": null,
+        "symbol": "LTC/USDT",
+        "base": "LTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ltc",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1617937624642,
+        "info": {
+            "id": "396",
+            "name": "ltc-usdt",
+            "pair_base": "ltc",
+            "pair_2": "usdt",
+            "min_size": "0.0001",
+            "max_size": "1000",
+            "min_price": "10",
+            "max_price": "10000",
+            "increment_size": "0.0001",
+            "increment_price": "0.01",
+            "active": true,
+            "verified": true,
+            "code": "ltc-usdt",
+            "is_public": true,
+            "estimated_price": "75",
+            "circuit_breaker": true,
+            "created_at": "2021-04-09T03:07:04.642Z",
+            "updated_at": "2022-06-30T02:29:58.491Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "UNI/USDT": {
+        "id": "uni-usdt",
+        "lowercaseId": null,
+        "symbol": "UNI/USDT",
+        "base": "UNI",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "uni",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1617937718485,
+        "info": {
+            "id": "397",
+            "name": "uni-usdt",
+            "pair_base": "uni",
+            "pair_2": "usdt",
+            "min_size": "0.01",
+            "max_size": "100000",
+            "min_price": "1",
+            "max_price": "1000",
+            "increment_size": "0.01",
+            "increment_price": "0.001",
+            "active": true,
+            "verified": true,
+            "code": "uni-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-04-09T03:08:38.485Z",
+            "updated_at": "2021-04-09T03:59:57.285Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "DOT/USDT": {
+        "id": "dot-usdt",
+        "lowercaseId": null,
+        "symbol": "DOT/USDT",
+        "base": "DOT",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "dot",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1617937875953,
+        "info": {
+            "id": "399",
+            "name": "dot-usdt",
+            "pair_base": "dot",
+            "pair_2": "usdt",
+            "min_size": "0.01",
+            "max_size": "100000",
+            "min_price": "1",
+            "max_price": "1000",
+            "increment_size": "0.01",
+            "increment_price": "0.001",
+            "active": true,
+            "verified": true,
+            "code": "dot-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-04-09T03:11:15.953Z",
+            "updated_at": "2021-04-09T03:55:19.104Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BNB/USDT": {
+        "id": "bnb-usdt",
+        "lowercaseId": null,
+        "symbol": "BNB/USDT",
+        "base": "BNB",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "bnb",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 50.0,
+                "max": 5000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1618095234778,
+        "info": {
+            "id": "405",
+            "name": "bnb-usdt",
+            "pair_base": "bnb",
+            "pair_2": "usdt",
+            "min_size": "0.001",
+            "max_size": "100000000",
+            "min_price": "50",
+            "max_price": "5000",
+            "increment_size": "0.001",
+            "increment_price": "0.01",
+            "active": true,
+            "verified": true,
+            "code": "bnb-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2021-04-10T22:53:54.778Z",
+            "updated_at": "2021-07-12T04:19:57.706Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/USDT": {
+        "id": "sol-usdt",
+        "lowercaseId": null,
+        "symbol": "SOL/USDT",
+        "base": "SOL",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "sol",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1630657258862,
+        "info": {
+            "id": "855",
+            "name": "sol-usdt",
+            "pair_base": "sol",
+            "pair_2": "usdt",
+            "min_size": "0.001",
+            "max_size": "1000000",
+            "min_price": "1",
+            "max_price": "1000",
+            "increment_size": "0.001",
+            "increment_price": "0.001",
+            "active": true,
+            "verified": true,
+            "code": "sol-usdt",
+            "is_public": true,
+            "estimated_price": "100",
+            "circuit_breaker": true,
+            "created_at": "2021-09-03T08:20:58.862Z",
+            "updated_at": "2022-11-15T14:06:05.922Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LINK/USDT": {
+        "id": "link-usdt",
+        "lowercaseId": null,
+        "symbol": "LINK/USDT",
+        "base": "LINK",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "link",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1612033790398,
+        "info": {
+            "id": "35",
+            "name": "link-usdt",
+            "pair_base": "link",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "10000000",
+            "min_price": "0.1",
+            "max_price": "100",
+            "increment_size": "0.1",
+            "increment_price": "0.0001",
+            "active": true,
+            "verified": true,
+            "code": "link-usdt",
+            "is_public": true,
+            "estimated_price": "15",
+            "circuit_breaker": true,
+            "created_at": "2021-01-30T19:09:50.398Z",
+            "updated_at": "2021-02-03T03:56:17.169Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AXS/USDT": {
+        "id": "axs-usdt",
+        "lowercaseId": null,
+        "symbol": "AXS/USDT",
+        "base": "AXS",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "axs",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1629730528815,
+        "info": {
+            "id": "835",
+            "name": "axs-usdt",
+            "pair_base": "axs",
+            "pair_2": "usdt",
+            "min_size": "0.01",
+            "max_size": "1000000",
+            "min_price": "1",
+            "max_price": "1000",
+            "increment_size": "0.001",
+            "increment_price": "0.01",
+            "active": true,
+            "verified": true,
+            "code": "axs-usdt",
+            "is_public": true,
+            "estimated_price": "1",
+            "circuit_breaker": true,
+            "created_at": "2021-08-23T14:55:28.815Z",
+            "updated_at": "2021-08-30T06:58:50.957Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/USDT": {
+        "id": "avax-usdt",
+        "lowercaseId": null,
+        "symbol": "AVAX/USDT",
+        "base": "AVAX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "avax",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1630657377378,
+        "info": {
+            "id": "856",
+            "name": "avax-usdt",
+            "pair_base": "avax",
+            "pair_2": "usdt",
+            "min_size": "0.001",
+            "max_size": "1000000",
+            "min_price": "1",
+            "max_price": "1000",
+            "increment_size": "0.001",
+            "increment_price": "0.001",
+            "active": true,
+            "verified": true,
+            "code": "avax-usdt",
+            "is_public": true,
+            "estimated_price": "50",
+            "circuit_breaker": true,
+            "created_at": "2021-09-03T08:22:57.378Z",
+            "updated_at": "2021-09-06T07:11:06.473Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "KLAY/USDT": {
+        "id": "klay-usdt",
+        "lowercaseId": null,
+        "symbol": "KLAY/USDT",
+        "base": "KLAY",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "klay",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 0.05,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1652019576583,
+        "info": {
+            "id": "1858",
+            "name": "klay-usdt",
+            "pair_base": "klay",
+            "pair_2": "usdt",
+            "min_size": "1",
+            "max_size": "100000000",
+            "min_price": "0.05",
+            "max_price": "100",
+            "increment_size": "0.1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "klay-usdt",
+            "is_public": true,
+            "estimated_price": "0.6",
+            "circuit_breaker": true,
+            "created_at": "2022-05-08T14:19:36.583Z",
+            "updated_at": "2022-05-09T03:06:05.305Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "PAXG/USDT": {
+        "id": "paxg-usdt",
+        "lowercaseId": null,
+        "symbol": "PAXG/USDT",
+        "base": "PAXG",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "paxg",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1652628511125,
+        "info": {
+            "id": "1886",
+            "name": "paxg-usdt",
+            "pair_base": "paxg",
+            "pair_2": "usdt",
+            "min_size": "0.0001",
+            "max_size": "10000",
+            "min_price": "100",
+            "max_price": "10000",
+            "increment_size": "0.0001",
+            "increment_price": "1",
+            "active": true,
+            "verified": true,
+            "code": "paxg-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2022-05-15T15:28:31.125Z",
+            "updated_at": "2022-05-16T03:29:01.614Z",
+            "created_by": "168"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SAND/USDT": {
+        "id": "sand-usdt",
+        "lowercaseId": null,
+        "symbol": "SAND/USDT",
+        "base": "SAND",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "sand",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1648576749505,
+        "info": {
+            "id": "1632",
+            "name": "sand-usdt",
+            "pair_base": "sand",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "10000000",
+            "min_price": "0.1",
+            "max_price": "100",
+            "increment_size": "0.1",
+            "increment_price": "0.0001",
+            "active": true,
+            "verified": true,
+            "code": "sand-usdt",
+            "is_public": true,
+            "estimated_price": "1",
+            "circuit_breaker": true,
+            "created_at": "2022-03-29T17:59:09.505Z",
+            "updated_at": "2022-05-18T03:54:43.752Z",
+            "created_by": "168"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MANA/USDT": {
+        "id": "mana-usdt",
+        "lowercaseId": null,
+        "symbol": "MANA/USDT",
+        "base": "MANA",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "mana",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1652628557440,
+        "info": {
+            "id": "1887",
+            "name": "mana-usdt",
+            "pair_base": "mana",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "10000000",
+            "min_price": "0.1",
+            "max_price": "100",
+            "increment_size": "1",
+            "increment_price": "0.0001",
+            "active": true,
+            "verified": true,
+            "code": "mana-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2022-05-15T15:29:17.440Z",
+            "updated_at": "2022-05-16T03:18:45.011Z",
+            "created_by": "168"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "FIL/USDT": {
+        "id": "fil-usdt",
+        "lowercaseId": null,
+        "symbol": "FIL/USDT",
+        "base": "FIL",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "fil",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1652630545242,
+        "info": {
+            "id": "1888",
+            "name": "fil-usdt",
+            "pair_base": "fil",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "10000000",
+            "min_price": "0.1",
+            "max_price": "100",
+            "increment_size": "0.1",
+            "increment_price": "0.0001",
+            "active": true,
+            "verified": true,
+            "code": "fil-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2022-05-15T16:02:25.242Z",
+            "updated_at": "2022-05-16T03:16:41.407Z",
+            "created_by": "168"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SUSHI/USDT": {
+        "id": "sushi-usdt",
+        "lowercaseId": null,
+        "symbol": "SUSHI/USDT",
+        "base": "SUSHI",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "sushi",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1652853805225,
+        "info": {
+            "id": "1896",
+            "name": "sushi-usdt",
+            "pair_base": "sushi",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "10000000",
+            "min_price": "0.1",
+            "max_price": "100",
+            "increment_size": "0.1",
+            "increment_price": "0.0001",
+            "active": true,
+            "verified": true,
+            "code": "sushi-usdt",
+            "is_public": true,
+            "estimated_price": "1.5",
+            "circuit_breaker": true,
+            "created_at": "2022-05-18T06:03:25.225Z",
+            "updated_at": "2022-05-31T03:24:24.400Z",
+            "created_by": "168"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/USDT": {
+        "id": "matic-usdt",
+        "lowercaseId": null,
+        "symbol": "MATIC/USDT",
+        "base": "MATIC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "matic",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 10.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1643577987231,
+        "info": {
+            "id": "1384",
+            "name": "matic-usdt",
+            "pair_base": "matic",
+            "pair_2": "usdt",
+            "min_size": "1",
+            "max_size": "100000000",
+            "min_price": "0.01",
+            "max_price": "10",
+            "increment_size": "1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "matic-usdt",
+            "is_public": true,
+            "estimated_price": "0.7",
+            "circuit_breaker": false,
+            "created_at": "2022-01-30T21:26:27.231Z",
+            "updated_at": "2022-05-31T03:23:39.480Z",
+            "created_by": "168"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ATOM/USDT": {
+        "id": "atom-usdt",
+        "lowercaseId": null,
+        "symbol": "ATOM/USDT",
+        "base": "ATOM",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "atom",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1659869996058,
+        "info": {
+            "id": "2039",
+            "name": "atom-usdt",
+            "pair_base": "atom",
+            "pair_2": "usdt",
+            "min_size": "0.01",
+            "max_size": "100000",
+            "min_price": "1",
+            "max_price": "1000",
+            "increment_size": "0.01",
+            "increment_price": "0.001",
+            "active": true,
+            "verified": true,
+            "code": "atom-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2022-08-07T10:59:56.058Z",
+            "updated_at": "2022-08-08T03:10:23.230Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "CAKE/USDT": {
+        "id": "cake-usdt",
+        "lowercaseId": null,
+        "symbol": "CAKE/USDT",
+        "base": "CAKE",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "cake",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 10.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1645534634584,
+        "info": {
+            "id": "1472",
+            "name": "cake-usdt",
+            "pair_base": "cake",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "100000000",
+            "min_price": "0.1",
+            "max_price": "10",
+            "increment_size": "0.1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "cake-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2022-02-22T12:57:14.584Z",
+            "updated_at": "2022-09-05T03:10:37.505Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "EOS/USDT": {
+        "id": "eos-usdt",
+        "lowercaseId": null,
+        "symbol": "EOS/USDT",
+        "base": "EOS",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "eos",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1667735089719,
+        "info": {
+            "id": "2174",
+            "name": "eos-usdt",
+            "pair_base": "eos",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "10000000",
+            "min_price": "0.1",
+            "max_price": "100",
+            "increment_size": "0.1",
+            "increment_price": "0.0001",
+            "active": true,
+            "verified": true,
+            "code": "eos-usdt",
+            "is_public": true,
+            "estimated_price": "1.2",
+            "circuit_breaker": true,
+            "created_at": "2022-11-06T11:44:49.719Z",
+            "updated_at": "2022-11-07T03:14:54.084Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "DASH/USDT": {
+        "id": "dash-usdt",
+        "lowercaseId": null,
+        "symbol": "DASH/USDT",
+        "base": "DASH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "dash",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1673184865579,
+        "info": {
+            "id": "2232",
+            "name": "dash-usdt",
+            "pair_base": "dash",
+            "pair_2": "usdt",
+            "min_size": "0.0001",
+            "max_size": "1000",
+            "min_price": "1",
+            "max_price": "10000",
+            "increment_size": "0.0001",
+            "increment_price": "0.001",
+            "active": true,
+            "verified": true,
+            "code": "dash-usdt",
+            "is_public": true,
+            "estimated_price": "50",
+            "circuit_breaker": true,
+            "created_at": "2023-01-08T13:34:25.579Z",
+            "updated_at": "2023-01-09T03:06:45.395Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETC/USDT": {
+        "id": "etc-usdt",
+        "lowercaseId": null,
+        "symbol": "ETC/USDT",
+        "base": "ETC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "etc",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 5.0,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1681659813597,
+        "info": {
+            "id": "2297",
+            "name": "etc-usdt",
+            "pair_base": "etc",
+            "pair_2": "usdt",
+            "min_size": "0.001",
+            "max_size": "100000",
+            "min_price": "5",
+            "max_price": "100",
+            "increment_size": "0.001",
+            "increment_price": "0.01",
+            "active": true,
+            "verified": true,
+            "code": "etc-usdt",
+            "is_public": true,
+            "estimated_price": "22",
+            "circuit_breaker": true,
+            "created_at": "2023-04-16T15:43:33.597Z",
+            "updated_at": "2023-04-17T03:06:29.542Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ALGO/USDT": {
+        "id": "algo-usdt",
+        "lowercaseId": null,
+        "symbol": "ALGO/USDT",
+        "base": "ALGO",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "algo",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.05,
+                "max": 10.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1681046077772,
+        "info": {
+            "id": "2286",
+            "name": "algo-usdt",
+            "pair_base": "algo",
+            "pair_2": "usdt",
+            "min_size": "1",
+            "max_size": "1000000",
+            "min_price": "0.05",
+            "max_price": "10",
+            "increment_size": "1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "algo-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2023-04-09T13:14:37.772Z",
+            "updated_at": "2023-04-10T03:12:59.298Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ARB/USDT": {
+        "id": "arb-usdt",
+        "lowercaseId": null,
+        "symbol": "ARB/USDT",
+        "base": "ARB",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "arb",
+        "quoteId": "usdt",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.001,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.05,
+                "max": 5.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": 1681046077659,
+        "info": {
+            "id": "2285",
+            "name": "arb-usdt",
+            "pair_base": "arb",
+            "pair_2": "usdt",
+            "min_size": "0.1",
+            "max_size": "1000000",
+            "min_price": "0.05",
+            "max_price": "5",
+            "increment_size": "0.1",
+            "increment_price": "0.00001",
+            "active": true,
+            "verified": true,
+            "code": "arb-usdt",
+            "is_public": true,
+            "estimated_price": null,
+            "circuit_breaker": true,
+            "created_at": "2023-04-09T13:14:37.659Z",
+            "updated_at": "2023-04-10T03:10:52.090Z",
+            "created_by": "1"
+        },
+        "percentage": true,
+        "tierBased": true
+    }
+}

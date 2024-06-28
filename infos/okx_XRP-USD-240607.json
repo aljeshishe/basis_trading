@@ -1,0 +1,89 @@
+{
+    "id": "XRP-USD-240607",
+    "lowercaseId": null,
+    "symbol": "XRP/USD:XRP-240607",
+    "base": "XRP",
+    "quote": "USD",
+    "settle": "XRP",
+    "baseId": "XRP",
+    "quoteId": "USD",
+    "settleId": "XRP",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0005,
+    "maker": 0.0002,
+    "contractSize": 10.0,
+    "expiry": 1717747200000,
+    "expiryDatetime": "2024-06-07T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.0001,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": 1.0,
+            "max": 50.0
+        },
+        "amount": {
+            "min": 1.0,
+            "max": null
+        },
+        "price": {
+            "min": null,
+            "max": null
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        }
+    },
+    "created": 1716538200926,
+    "info": {
+        "alias": "this_week",
+        "baseCcy": "",
+        "category": "1",
+        "ctMult": "1",
+        "ctType": "inverse",
+        "ctVal": "10",
+        "ctValCcy": "USD",
+        "expTime": "1717747200000",
+        "instFamily": "XRP-USD",
+        "instId": "XRP-USD-240607",
+        "instType": "FUTURES",
+        "lever": "50",
+        "listTime": "1716538200926",
+        "lotSz": "1",
+        "maxIcebergSz": "1000000.0000000000000000",
+        "maxLmtAmt": "20000000",
+        "maxLmtSz": "1000000",
+        "maxMktAmt": "",
+        "maxMktSz": "40000",
+        "maxStopSz": "40000",
+        "maxTriggerSz": "1000000.0000000000000000",
+        "maxTwapSz": "1000000.0000000000000000",
+        "minSz": "1",
+        "optType": "",
+        "quoteCcy": "",
+        "settleCcy": "XRP",
+        "state": "live",
+        "stk": "",
+        "tickSz": "0.0001",
+        "uly": "XRP-USD"
+    },
+    "percentage": true
+}

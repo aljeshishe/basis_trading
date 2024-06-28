@@ -1,0 +1,3383 @@
+{
+    "ADA/TWD": {
+        "id": "ADA/TWD",
+        "lowercaseId": null,
+        "symbol": "ADA/TWD",
+        "base": "ADA",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 150000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "ADA/TWD",
+            "base": "ADA",
+            "baseCurrencyId": "122",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "150000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "APE/TWD": {
+        "id": "APE/TWD",
+        "lowercaseId": null,
+        "symbol": "APE/TWD",
+        "base": "APE",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "APE",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 15000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "APE/TWD",
+            "base": "APE",
+            "baseCurrencyId": "135",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "15000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "ARB/TWD": {
+        "id": "ARB/TWD",
+        "lowercaseId": null,
+        "symbol": "ARB/TWD",
+        "base": "ARB",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "ARB",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 125000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "ARB/TWD",
+            "base": "ARB",
+            "baseCurrencyId": "148",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "0.1",
+            "maxLimitBaseAmount": "125000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "BNB/TWD": {
+        "id": "BNB/TWD",
+        "lowercaseId": null,
+        "symbol": "BNB/TWD",
+        "base": "BNB",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "BNB",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "BNB/TWD",
+            "base": "BNB",
+            "baseCurrencyId": "17",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "3",
+            "quotePrecision": "1",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "1000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "BONK/TWD": {
+        "id": "BONK/TWD",
+        "lowercaseId": null,
+        "symbol": "BONK/TWD",
+        "base": "BONK",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "BONK",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 200000.0,
+                "max": 50000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "BONK/TWD",
+            "base": "BONK",
+            "baseCurrencyId": "151",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "0",
+            "quotePrecision": "8",
+            "minLimitBaseAmount": "200000.0",
+            "maxLimitBaseAmount": "50000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "BTC/TWD": {
+        "id": "BTC/TWD",
+        "lowercaseId": null,
+        "symbol": "BTC/TWD",
+        "base": "BTC",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 3.3e-05,
+                "max": 100.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "BTC/TWD",
+            "base": "BTC",
+            "baseCurrencyId": "2",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "6",
+            "quotePrecision": "1",
+            "minLimitBaseAmount": "3.3e-05",
+            "maxLimitBaseAmount": "100.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "DOGE/TWD": {
+        "id": "DOGE/TWD",
+        "lowercaseId": null,
+        "symbol": "DOGE/TWD",
+        "base": "DOGE",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 500000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "DOGE/TWD",
+            "base": "DOGE",
+            "baseCurrencyId": "116",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "500000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "DOT/TWD": {
+        "id": "DOT/TWD",
+        "lowercaseId": null,
+        "symbol": "DOT/TWD",
+        "base": "DOT",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "DOT",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "DOT/TWD",
+            "base": "DOT",
+            "baseCurrencyId": "112",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.1",
+            "maxLimitBaseAmount": "10000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "ETH/TWD": {
+        "id": "ETH/TWD",
+        "lowercaseId": null,
+        "symbol": "ETH/TWD",
+        "base": "ETH",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 400000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "ETH/TWD",
+            "base": "ETH",
+            "baseCurrencyId": "4",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "3",
+            "quotePrecision": "1",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "400000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "FTM/TWD": {
+        "id": "FTM/TWD",
+        "lowercaseId": null,
+        "symbol": "FTM/TWD",
+        "base": "FTM",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "FTM",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "FTM/TWD",
+            "base": "FTM",
+            "baseCurrencyId": "124",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "100000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "GALA/TWD": {
+        "id": "GALA/TWD",
+        "lowercaseId": null,
+        "symbol": "GALA/TWD",
+        "base": "GALA",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "GALA",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": 2000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "GALA/TWD",
+            "base": "GALA",
+            "baseCurrencyId": "127",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "1",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "10.0",
+            "maxLimitBaseAmount": "2000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "LTC/TWD": {
+        "id": "LTC/TWD",
+        "lowercaseId": null,
+        "symbol": "LTC/TWD",
+        "base": "LTC",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 15000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "LTC/TWD",
+            "base": "LTC",
+            "baseCurrencyId": "7",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "3",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "15000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "MATIC/TWD": {
+        "id": "MATIC/TWD",
+        "lowercaseId": null,
+        "symbol": "MATIC/TWD",
+        "base": "MATIC",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.5,
+                "max": 50000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "MATIC/TWD",
+            "base": "MATIC",
+            "baseCurrencyId": "117",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "0.5",
+            "maxLimitBaseAmount": "50000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "SAND/TWD": {
+        "id": "SAND/TWD",
+        "lowercaseId": null,
+        "symbol": "SAND/TWD",
+        "base": "SAND",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "SAND",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "SAND/TWD",
+            "base": "SAND",
+            "baseCurrencyId": "131",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "100000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "SHIB/TWD": {
+        "id": "SHIB/TWD",
+        "lowercaseId": null,
+        "symbol": "SHIB/TWD",
+        "base": "SHIB",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "SHIB",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 200000.0,
+                "max": 2000000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "SHIB/TWD",
+            "base": "SHIB",
+            "baseCurrencyId": "115",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "0",
+            "quotePrecision": "8",
+            "minLimitBaseAmount": "200000.0",
+            "maxLimitBaseAmount": "2000000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "SOL/TWD": {
+        "id": "SOL/TWD",
+        "lowercaseId": null,
+        "symbol": "SOL/TWD",
+        "base": "SOL",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.02,
+                "max": 3000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "SOL/TWD",
+            "base": "SOL",
+            "baseCurrencyId": "130",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.02",
+            "maxLimitBaseAmount": "3000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "SSV/TWD": {
+        "id": "SSV/TWD",
+        "lowercaseId": null,
+        "symbol": "SSV/TWD",
+        "base": "SSV",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "SSV",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 12500.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "SSV/TWD",
+            "base": "SSV",
+            "baseCurrencyId": "144",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "12500.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "TRX/TWD": {
+        "id": "TRX/TWD",
+        "lowercaseId": null,
+        "symbol": "TRX/TWD",
+        "base": "TRX",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "TRX",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 5.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "TRX/TWD",
+            "base": "TRX",
+            "baseCurrencyId": "13",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "1",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "5.0",
+            "maxLimitBaseAmount": "1000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "USDC/TWD": {
+        "id": "USDC/TWD",
+        "lowercaseId": null,
+        "symbol": "USDC/TWD",
+        "base": "USDC",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 3.0,
+                "max": 300000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "USDC/TWD",
+            "base": "USDC",
+            "baseCurrencyId": "57",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "3.0",
+            "maxLimitBaseAmount": "300000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "USDT/TWD": {
+        "id": "USDT/TWD",
+        "lowercaseId": null,
+        "symbol": "USDT/TWD",
+        "base": "USDT",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 15.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "USDT/TWD",
+            "base": "USDT",
+            "baseCurrencyId": "14",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "15.0",
+            "maxLimitBaseAmount": "1000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "WOO/TWD": {
+        "id": "WOO/TWD",
+        "lowercaseId": null,
+        "symbol": "WOO/TWD",
+        "base": "WOO",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "WOO",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 50000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "WOO/TWD",
+            "base": "WOO",
+            "baseCurrencyId": "119",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "50000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "XRP/TWD": {
+        "id": "XRP/TWD",
+        "lowercaseId": null,
+        "symbol": "XRP/TWD",
+        "base": "XRP",
+        "quote": "TWD",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "TWD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "XRP/TWD",
+            "base": "XRP",
+            "baseCurrencyId": "10",
+            "quote": "TWD",
+            "quoteCurrencyId": "1",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "1000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "ACEX/USDT": {
+        "id": "ACEX/USDT",
+        "lowercaseId": null,
+        "symbol": "ACEX/USDT",
+        "base": "ACEX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ACEX",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "ACEX/USDT",
+            "base": "ACEX",
+            "baseCurrencyId": "88",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "1",
+            "quotePrecision": "5",
+            "minLimitBaseAmount": "100.0",
+            "maxLimitBaseAmount": "1000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "ADA/USDT": {
+        "id": "ADA/USDT",
+        "lowercaseId": null,
+        "symbol": "ADA/USDT",
+        "base": "ADA",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 150000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "ADA/USDT",
+            "base": "ADA",
+            "baseCurrencyId": "122",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "1",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "150000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "ANKR/USDT": {
+        "id": "ANKR/USDT",
+        "lowercaseId": null,
+        "symbol": "ANKR/USDT",
+        "base": "ANKR",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ANKR",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.5,
+                "max": 750000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "ANKR/USDT",
+            "base": "ANKR",
+            "baseCurrencyId": "108",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "1",
+            "quotePrecision": "5",
+            "minLimitBaseAmount": "0.5",
+            "maxLimitBaseAmount": "750000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "APE/USDT": {
+        "id": "APE/USDT",
+        "lowercaseId": null,
+        "symbol": "APE/USDT",
+        "base": "APE",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "APE",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 15000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "APE/USDT",
+            "base": "APE",
+            "baseCurrencyId": "135",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "15000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "AVAX/USDT": {
+        "id": "AVAX/USDT",
+        "lowercaseId": null,
+        "symbol": "AVAX/USDT",
+        "base": "AVAX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1500.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "AVAX/USDT",
+            "base": "AVAX",
+            "baseCurrencyId": "132",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.01",
+            "maxLimitBaseAmount": "1500.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "AXS/USDT": {
+        "id": "AXS/USDT",
+        "lowercaseId": null,
+        "symbol": "AXS/USDT",
+        "base": "AXS",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "AXS",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.05,
+                "max": 7000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "AXS/USDT",
+            "base": "AXS",
+            "baseCurrencyId": "121",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.05",
+            "maxLimitBaseAmount": "7000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "BNB/USDT": {
+        "id": "BNB/USDT",
+        "lowercaseId": null,
+        "symbol": "BNB/USDT",
+        "base": "BNB",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BNB",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "BNB/USDT",
+            "base": "BNB",
+            "baseCurrencyId": "17",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "3",
+            "quotePrecision": "1",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "1000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "BTC/USDT": {
+        "id": "BTC/USDT",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 3.3e-05,
+                "max": 100.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "BTC/USDT",
+            "base": "BTC",
+            "baseCurrencyId": "2",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "4",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "3.3e-05",
+            "maxLimitBaseAmount": "100.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "CHZ/USDT": {
+        "id": "CHZ/USDT",
+        "lowercaseId": null,
+        "symbol": "CHZ/USDT",
+        "base": "CHZ",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "CHZ",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 5.0,
+                "max": 300000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "CHZ/USDT",
+            "base": "CHZ",
+            "baseCurrencyId": "111",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "0",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "5.0",
+            "maxLimitBaseAmount": "300000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "DOGE/USDT": {
+        "id": "DOGE/USDT",
+        "lowercaseId": null,
+        "symbol": "DOGE/USDT",
+        "base": "DOGE",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 500000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "DOGE/USDT",
+            "base": "DOGE",
+            "baseCurrencyId": "116",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "0",
+            "quotePrecision": "5",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "500000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "DOT/USDT": {
+        "id": "DOT/USDT",
+        "lowercaseId": null,
+        "symbol": "DOT/USDT",
+        "base": "DOT",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "DOT",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "DOT/USDT",
+            "base": "DOT",
+            "baseCurrencyId": "112",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "0.1",
+            "maxLimitBaseAmount": "10000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "DYDX/USDT": {
+        "id": "DYDX/USDT",
+        "lowercaseId": null,
+        "symbol": "DYDX/USDT",
+        "base": "DYDX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "DYDX",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.2,
+                "max": 8500.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "DYDX/USDT",
+            "base": "DYDX",
+            "baseCurrencyId": "129",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "0.2",
+            "maxLimitBaseAmount": "8500.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "ETH/USDT": {
+        "id": "ETH/USDT",
+        "lowercaseId": null,
+        "symbol": "ETH/USDT",
+        "base": "ETH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 400000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "ETH/USDT",
+            "base": "ETH",
+            "baseCurrencyId": "4",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "3",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "400000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "FTM/USDT": {
+        "id": "FTM/USDT",
+        "lowercaseId": null,
+        "symbol": "FTM/USDT",
+        "base": "FTM",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "FTM",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "FTM/USDT",
+            "base": "FTM",
+            "baseCurrencyId": "124",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "0",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "100000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "GALA/USDT": {
+        "id": "GALA/USDT",
+        "lowercaseId": null,
+        "symbol": "GALA/USDT",
+        "base": "GALA",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "GALA",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 10.0,
+                "max": 2000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "GALA/USDT",
+            "base": "GALA",
+            "baseCurrencyId": "127",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "0",
+            "quotePrecision": "5",
+            "minLimitBaseAmount": "10.0",
+            "maxLimitBaseAmount": "2000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "LINK/USDT": {
+        "id": "LINK/USDT",
+        "lowercaseId": null,
+        "symbol": "LINK/USDT",
+        "base": "LINK",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.05,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "LINK/USDT",
+            "base": "LINK",
+            "baseCurrencyId": "89",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "0.05",
+            "maxLimitBaseAmount": "100000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "LTC/USDT": {
+        "id": "LTC/USDT",
+        "lowercaseId": null,
+        "symbol": "LTC/USDT",
+        "base": "LTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 15000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "LTC/USDT",
+            "base": "LTC",
+            "baseCurrencyId": "7",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "3",
+            "quotePrecision": "2",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "15000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "MATIC/USDT": {
+        "id": "MATIC/USDT",
+        "lowercaseId": null,
+        "symbol": "MATIC/USDT",
+        "base": "MATIC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.5,
+                "max": 50000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "MATIC/USDT",
+            "base": "MATIC",
+            "baseCurrencyId": "117",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "1",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "0.5",
+            "maxLimitBaseAmount": "50000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "SAND/USDT": {
+        "id": "SAND/USDT",
+        "lowercaseId": null,
+        "symbol": "SAND/USDT",
+        "base": "SAND",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SAND",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "SAND/USDT",
+            "base": "SAND",
+            "baseCurrencyId": "131",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "0",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "100000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "SHIB/USDT": {
+        "id": "SHIB/USDT",
+        "lowercaseId": null,
+        "symbol": "SHIB/USDT",
+        "base": "SHIB",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SHIB",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 200000.0,
+                "max": 2000000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "SHIB/USDT",
+            "base": "SHIB",
+            "baseCurrencyId": "115",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "0",
+            "quotePrecision": "8",
+            "minLimitBaseAmount": "200000.0",
+            "maxLimitBaseAmount": "2000000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "SOL/USDT": {
+        "id": "SOL/USDT",
+        "lowercaseId": null,
+        "symbol": "SOL/USDT",
+        "base": "SOL",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.02,
+                "max": 3000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "SOL/USDT",
+            "base": "SOL",
+            "baseCurrencyId": "130",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "3",
+            "minLimitBaseAmount": "0.02",
+            "maxLimitBaseAmount": "3000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "TRX/USDT": {
+        "id": "TRX/USDT",
+        "lowercaseId": null,
+        "symbol": "TRX/USDT",
+        "base": "TRX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "TRX",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 5.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "TRX/USDT",
+            "base": "TRX",
+            "baseCurrencyId": "13",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "1",
+            "quotePrecision": "5",
+            "minLimitBaseAmount": "5.0",
+            "maxLimitBaseAmount": "1000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "VSC/USDT": {
+        "id": "VSC/USDT",
+        "lowercaseId": null,
+        "symbol": "VSC/USDT",
+        "base": "VSC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "VSC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "VSC/USDT",
+            "base": "VSC",
+            "baseCurrencyId": "150",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "5",
+            "minLimitBaseAmount": "100.0",
+            "maxLimitBaseAmount": "1000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "WOO/USDT": {
+        "id": "WOO/USDT",
+        "lowercaseId": null,
+        "symbol": "WOO/USDT",
+        "base": "WOO",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "WOO",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 50000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "WOO/USDT",
+            "base": "WOO",
+            "baseCurrencyId": "119",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "2",
+            "quotePrecision": "5",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "50000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "XRP/USDT": {
+        "id": "XRP/USDT",
+        "lowercaseId": null,
+        "symbol": "XRP/USDT",
+        "base": "XRP",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "XRP/USDT",
+            "base": "XRP",
+            "baseCurrencyId": "10",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "0",
+            "quotePrecision": "4",
+            "minLimitBaseAmount": "1.0",
+            "maxLimitBaseAmount": "1000000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "YFI/USDT": {
+        "id": "YFI/USDT",
+        "lowercaseId": null,
+        "symbol": "YFI/USDT",
+        "base": "YFI",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "YFI",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 10.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "YFI/USDT",
+            "base": "YFI",
+            "baseCurrencyId": "102",
+            "quote": "USDT",
+            "quoteCurrencyId": "14",
+            "basePrecision": "5",
+            "quotePrecision": "0",
+            "minLimitBaseAmount": "0.0001",
+            "maxLimitBaseAmount": "10.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    },
+    "ETH/BTC": {
+        "id": "ETH/BTC",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0005,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 400000.0
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "symbol": "ETH/BTC",
+            "base": "ETH",
+            "baseCurrencyId": "4",
+            "quote": "BTC",
+            "quoteCurrencyId": "2",
+            "basePrecision": "3",
+            "quotePrecision": "6",
+            "minLimitBaseAmount": "0.001",
+            "maxLimitBaseAmount": "400000.0"
+        },
+        "percentage": true,
+        "uppercaseId": null
+    }
+}

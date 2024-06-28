@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "basis-trading"
+version = "0.1.0"
+description = ""
+authors = ["Alekei Grachev <aleksei.grachev@alberblanc.com>"]
+readme = "README.md"
+packages = [{include = "basis_trading"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ccxt = "^4.2.86"
+jupyter = "^1.0.0"
+pandas = "2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

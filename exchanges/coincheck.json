@@ -1,0 +1,297 @@
+{
+    "BTC/JPY": {
+        "id": "btc_jpy",
+        "lowercaseId": null,
+        "symbol": "BTC/JPY",
+        "base": "BTC",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "btc",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETC/JPY": {
+        "id": "etc_jpy",
+        "lowercaseId": null,
+        "symbol": "ETC/JPY",
+        "base": "ETC",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "etc",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": false
+    },
+    "FCT/JPY": {
+        "id": "fct_jpy",
+        "lowercaseId": null,
+        "symbol": "FCT/JPY",
+        "base": "FCT",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "fct",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": false
+    },
+    "MONA/JPY": {
+        "id": "mona_jpy",
+        "lowercaseId": null,
+        "symbol": "MONA/JPY",
+        "base": "MONA",
+        "quote": "JPY",
+        "settle": null,
+        "baseId": "mona",
+        "quoteId": "jpy",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": false
+    },
+    "ETC/BTC": {
+        "id": "etc_btc",
+        "lowercaseId": null,
+        "symbol": "ETC/BTC",
+        "base": "ETC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "etc",
+        "quoteId": "btc",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": false
+    }
+}

@@ -1,0 +1,6960 @@
+{
+    "XLM/BTC": {
+        "id": "XLMXBT",
+        "lowercaseId": null,
+        "symbol": "XLM/BTC",
+        "base": "XLM",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "XLM",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": 0.01
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XLMXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "XLM",
+            "counter_currency": "XBT",
+            "min_volume": "1.00",
+            "max_volume": "100000.00",
+            "volume_scale": "1",
+            "min_price": "0.000001",
+            "max_price": "0.01",
+            "price_scale": "7",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XLM/NGN": {
+        "id": "XLMNGN",
+        "lowercaseId": null,
+        "symbol": "XLM/NGN",
+        "base": "XLM",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "XLM",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XLMNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "XLM",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XLM/ZAR": {
+        "id": "XLMZAR",
+        "lowercaseId": null,
+        "symbol": "XLM/ZAR",
+        "base": "XLM",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "XLM",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XLMZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "XLM",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.10",
+            "max_price": "1000.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ALGO/BTC": {
+        "id": "ALGOXBT",
+        "lowercaseId": null,
+        "symbol": "ALGO/BTC",
+        "base": "ALGO",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ALGO",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": 0.01
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ALGOXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "ALGO",
+            "counter_currency": "XBT",
+            "min_volume": "1.00",
+            "max_volume": "100000.00",
+            "volume_scale": "1",
+            "min_price": "0.000001",
+            "max_price": "0.01",
+            "price_scale": "7",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ALGO/NGN": {
+        "id": "ALGONGN",
+        "lowercaseId": null,
+        "symbol": "ALGO/NGN",
+        "base": "ALGO",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "ALGO",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ALGONGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "ALGO",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ALGO/ZAR": {
+        "id": "ALGOZAR",
+        "lowercaseId": null,
+        "symbol": "ALGO/ZAR",
+        "base": "ALGO",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "ALGO",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ALGOZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ALGO",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.10",
+            "max_price": "1000.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "USDT/IDR": {
+        "id": "USDTIDR",
+        "lowercaseId": null,
+        "symbol": "USDT/IDR",
+        "base": "USDT",
+        "quote": "IDR",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "IDR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 500000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "USDTIDR",
+            "trading_status": "ACTIVE",
+            "base_currency": "USDT",
+            "counter_currency": "IDR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "500000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "USDT/ZAR": {
+        "id": "USDTZAR",
+        "lowercaseId": null,
+        "symbol": "USDT/ZAR",
+        "base": "USDT",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "USDTZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "USDT",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "USDC/USDT": {
+        "id": "USDCUSDT",
+        "lowercaseId": null,
+        "symbol": "USDC/USDT",
+        "base": "USDC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "USDCUSDT",
+            "trading_status": "ACTIVE",
+            "base_currency": "USDC",
+            "counter_currency": "USDT",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.10",
+            "max_price": "1000.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "USDC/ZAR": {
+        "id": "USDCZAR",
+        "lowercaseId": null,
+        "symbol": "USDC/ZAR",
+        "base": "USDC",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "USDCZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "USDC",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BCH/BTC": {
+        "id": "BCHXBT",
+        "lowercaseId": null,
+        "symbol": "BCH/BTC",
+        "base": "BCH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 100.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "BCHXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "BCH",
+            "counter_currency": "XBT",
+            "min_volume": "0.01",
+            "max_volume": "100.00",
+            "volume_scale": "2",
+            "min_price": "0.0001",
+            "max_price": "1.00",
+            "price_scale": "6",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BCH/MYR": {
+        "id": "BCHMYR",
+        "lowercaseId": null,
+        "symbol": "BCH/MYR",
+        "base": "BCH",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "BCH",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "BCHMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "BCH",
+            "counter_currency": "MYR",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LTC/BTC": {
+        "id": "LTCXBT",
+        "lowercaseId": null,
+        "symbol": "LTC/BTC",
+        "base": "LTC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": 0.1
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "LTCXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "LTC",
+            "counter_currency": "XBT",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "2",
+            "min_price": "0.000001",
+            "max_price": "0.10",
+            "price_scale": "6",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LTC/MYR": {
+        "id": "LTCMYR",
+        "lowercaseId": null,
+        "symbol": "LTC/MYR",
+        "base": "LTC",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "LTCMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "LTC",
+            "counter_currency": "MYR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "10000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LTC/NGN": {
+        "id": "LTCNGN",
+        "lowercaseId": null,
+        "symbol": "LTC/NGN",
+        "base": "LTC",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1000.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "LTCNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "LTC",
+            "counter_currency": "NGN",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1000.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LTC/ZAR": {
+        "id": "LTCZAR",
+        "lowercaseId": null,
+        "symbol": "LTC/ZAR",
+        "base": "LTC",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "LTCZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "LTC",
+            "counter_currency": "ZAR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "UNI/MYR": {
+        "id": "UNIMYR",
+        "lowercaseId": null,
+        "symbol": "UNI/MYR",
+        "base": "UNI",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "UNI",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "UNIMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "UNI",
+            "counter_currency": "MYR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "UNI/NGN": {
+        "id": "UNINGN",
+        "lowercaseId": null,
+        "symbol": "UNI/NGN",
+        "base": "UNI",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "UNI",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "UNINGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "UNI",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "10000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "UNI/ZAR": {
+        "id": "UNIZAR",
+        "lowercaseId": null,
+        "symbol": "UNI/ZAR",
+        "base": "UNI",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "UNI",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "UNIZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "UNI",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LINK/MYR": {
+        "id": "LINKMYR",
+        "lowercaseId": null,
+        "symbol": "LINK/MYR",
+        "base": "LINK",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "LINKMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "LINK",
+            "counter_currency": "MYR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LINK/NGN": {
+        "id": "LINKNGN",
+        "lowercaseId": null,
+        "symbol": "LINK/NGN",
+        "base": "LINK",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "LINKNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "LINK",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "10000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "LINK/ZAR": {
+        "id": "LINKZAR",
+        "lowercaseId": null,
+        "symbol": "LINK/ZAR",
+        "base": "LINK",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "LINK",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "LINKZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "LINK",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/BTC": {
+        "id": "ADAXBT",
+        "lowercaseId": null,
+        "symbol": "ADA/BTC",
+        "base": "ADA",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": 0.01
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ADAXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "ADA",
+            "counter_currency": "XBT",
+            "min_volume": "1.00",
+            "max_volume": "1000000.00",
+            "volume_scale": "1",
+            "min_price": "0.000001",
+            "max_price": "0.01",
+            "price_scale": "7",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/EUR": {
+        "id": "ADAEUR",
+        "lowercaseId": null,
+        "symbol": "ADA/EUR",
+        "base": "ADA",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ADAEUR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ADA",
+            "counter_currency": "EUR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.01",
+            "max_price": "100.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/AUD": {
+        "id": "ADAAUD",
+        "lowercaseId": null,
+        "symbol": "ADA/AUD",
+        "base": "ADA",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ADAAUD",
+            "trading_status": "ACTIVE",
+            "base_currency": "ADA",
+            "counter_currency": "AUD",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.01",
+            "max_price": "100.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/IDR": {
+        "id": "ADAIDR",
+        "lowercaseId": null,
+        "symbol": "ADA/IDR",
+        "base": "ADA",
+        "quote": "IDR",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "IDR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 500000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ADAIDR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ADA",
+            "counter_currency": "IDR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "500000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/MYR": {
+        "id": "ADAMYR",
+        "lowercaseId": null,
+        "symbol": "ADA/MYR",
+        "base": "ADA",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ADAMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ADA",
+            "counter_currency": "MYR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.10",
+            "max_price": "1000.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/NGN": {
+        "id": "ADANGN",
+        "lowercaseId": null,
+        "symbol": "ADA/NGN",
+        "base": "ADA",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 500000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ADANGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "ADA",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "500000.00",
+            "volume_scale": "2",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/UGX": {
+        "id": "ADAUGX",
+        "lowercaseId": null,
+        "symbol": "ADA/UGX",
+        "base": "ADA",
+        "quote": "UGX",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "UGX",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 500000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ADAUGX",
+            "trading_status": "ACTIVE",
+            "base_currency": "ADA",
+            "counter_currency": "UGX",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "500000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ADA/ZAR": {
+        "id": "ADAZAR",
+        "lowercaseId": null,
+        "symbol": "ADA/ZAR",
+        "base": "ADA",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ADAZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ADA",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.10",
+            "max_price": "1000.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/BTC": {
+        "id": "AVAXXBT",
+        "lowercaseId": null,
+        "symbol": "AVAX/BTC",
+        "base": "AVAX",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AVAXXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "AVAX",
+            "counter_currency": "XBT",
+            "min_volume": "0.01",
+            "max_volume": "10000.00",
+            "volume_scale": "3",
+            "min_price": "0.0001",
+            "max_price": "1.00",
+            "price_scale": "5",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/EUR": {
+        "id": "AVAXEUR",
+        "lowercaseId": null,
+        "symbol": "AVAX/EUR",
+        "base": "AVAX",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AVAXEUR",
+            "trading_status": "ACTIVE",
+            "base_currency": "AVAX",
+            "counter_currency": "EUR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/AUD": {
+        "id": "AVAXAUD",
+        "lowercaseId": null,
+        "symbol": "AVAX/AUD",
+        "base": "AVAX",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AVAXAUD",
+            "trading_status": "ACTIVE",
+            "base_currency": "AVAX",
+            "counter_currency": "AUD",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/IDR": {
+        "id": "AVAXIDR",
+        "lowercaseId": null,
+        "symbol": "AVAX/IDR",
+        "base": "AVAX",
+        "quote": "IDR",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "IDR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AVAXIDR",
+            "trading_status": "ACTIVE",
+            "base_currency": "AVAX",
+            "counter_currency": "IDR",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "10000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/MYR": {
+        "id": "AVAXMYR",
+        "lowercaseId": null,
+        "symbol": "AVAX/MYR",
+        "base": "AVAX",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AVAXMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "AVAX",
+            "counter_currency": "MYR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/NGN": {
+        "id": "AVAXNGN",
+        "lowercaseId": null,
+        "symbol": "AVAX/NGN",
+        "base": "AVAX",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 1000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AVAXNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "AVAX",
+            "counter_currency": "NGN",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "1000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/UGX": {
+        "id": "AVAXUGX",
+        "lowercaseId": null,
+        "symbol": "AVAX/UGX",
+        "base": "AVAX",
+        "quote": "UGX",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "UGX",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AVAXUGX",
+            "trading_status": "ACTIVE",
+            "base_currency": "AVAX",
+            "counter_currency": "UGX",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "10000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AVAX/ZAR": {
+        "id": "AVAXZAR",
+        "lowercaseId": null,
+        "symbol": "AVAX/ZAR",
+        "base": "AVAX",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "AVAX",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AVAXZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "AVAX",
+            "counter_currency": "ZAR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/BTC": {
+        "id": "MATICXBT",
+        "lowercaseId": null,
+        "symbol": "MATIC/BTC",
+        "base": "MATIC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": 0.01
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MATICXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "MATIC",
+            "counter_currency": "XBT",
+            "min_volume": "1.00",
+            "max_volume": "1000000.00",
+            "volume_scale": "1",
+            "min_price": "0.000001",
+            "max_price": "0.01",
+            "price_scale": "7",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/EUR": {
+        "id": "MATICEUR",
+        "lowercaseId": null,
+        "symbol": "MATIC/EUR",
+        "base": "MATIC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MATICEUR",
+            "trading_status": "ACTIVE",
+            "base_currency": "MATIC",
+            "counter_currency": "EUR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.01",
+            "max_price": "100.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/AUD": {
+        "id": "MATICAUD",
+        "lowercaseId": null,
+        "symbol": "MATIC/AUD",
+        "base": "MATIC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MATICAUD",
+            "trading_status": "ACTIVE",
+            "base_currency": "MATIC",
+            "counter_currency": "AUD",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.01",
+            "max_price": "100.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/IDR": {
+        "id": "MATICIDR",
+        "lowercaseId": null,
+        "symbol": "MATIC/IDR",
+        "base": "MATIC",
+        "quote": "IDR",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "IDR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 500000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MATICIDR",
+            "trading_status": "ACTIVE",
+            "base_currency": "MATIC",
+            "counter_currency": "IDR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "500000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/MYR": {
+        "id": "MATICMYR",
+        "lowercaseId": null,
+        "symbol": "MATIC/MYR",
+        "base": "MATIC",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MATICMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "MATIC",
+            "counter_currency": "MYR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.10",
+            "max_price": "1000.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/NGN": {
+        "id": "MATICNGN",
+        "lowercaseId": null,
+        "symbol": "MATIC/NGN",
+        "base": "MATIC",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 500000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MATICNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "MATIC",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "500000.00",
+            "volume_scale": "2",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/UGX": {
+        "id": "MATICUGX",
+        "lowercaseId": null,
+        "symbol": "MATIC/UGX",
+        "base": "MATIC",
+        "quote": "UGX",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "UGX",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 500000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MATICUGX",
+            "trading_status": "ACTIVE",
+            "base_currency": "MATIC",
+            "counter_currency": "UGX",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "500000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MATIC/ZAR": {
+        "id": "MATICZAR",
+        "lowercaseId": null,
+        "symbol": "MATIC/ZAR",
+        "base": "MATIC",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "MATIC",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MATICZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "MATIC",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.10",
+            "max_price": "1000.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "DOT/BTC": {
+        "id": "DOTXBT",
+        "lowercaseId": null,
+        "symbol": "DOT/BTC",
+        "base": "DOT",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "DOT",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1e-05,
+                "max": 0.1
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "DOTXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "DOT",
+            "counter_currency": "XBT",
+            "min_volume": "1.00",
+            "max_volume": "100000.00",
+            "volume_scale": "1",
+            "min_price": "0.00001",
+            "max_price": "0.10",
+            "price_scale": "7",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "DOT/IDR": {
+        "id": "DOTIDR",
+        "lowercaseId": null,
+        "symbol": "DOT/IDR",
+        "base": "DOT",
+        "quote": "IDR",
+        "settle": null,
+        "baseId": "DOT",
+        "quoteId": "IDR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 1000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "DOTIDR",
+            "trading_status": "ACTIVE",
+            "base_currency": "DOT",
+            "counter_currency": "IDR",
+            "min_volume": "0.10",
+            "max_volume": "1000.00",
+            "volume_scale": "2",
+            "min_price": "1000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "DOT/NGN": {
+        "id": "DOTNGN",
+        "lowercaseId": null,
+        "symbol": "DOT/NGN",
+        "base": "DOT",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "DOT",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "DOTNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "DOT",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "1000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "DOT/ZAR": {
+        "id": "DOTZAR",
+        "lowercaseId": null,
+        "symbol": "DOT/ZAR",
+        "base": "DOT",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "DOT",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "DOTZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "DOT",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ATOM/BTC": {
+        "id": "ATOMXBT",
+        "lowercaseId": null,
+        "symbol": "ATOM/BTC",
+        "base": "ATOM",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ATOM",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1e-05,
+                "max": 0.1
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ATOMXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "ATOM",
+            "counter_currency": "XBT",
+            "min_volume": "1.00",
+            "max_volume": "100000.00",
+            "volume_scale": "1",
+            "min_price": "0.00001",
+            "max_price": "0.10",
+            "price_scale": "7",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ATOM/NGN": {
+        "id": "ATOMNGN",
+        "lowercaseId": null,
+        "symbol": "ATOM/NGN",
+        "base": "ATOM",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "ATOM",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ATOMNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "ATOM",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "1000.00",
+            "volume_scale": "2",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ATOM/ZAR": {
+        "id": "ATOMZAR",
+        "lowercaseId": null,
+        "symbol": "ATOM/ZAR",
+        "base": "ATOM",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "ATOM",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ATOMZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ATOM",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "CRV/BTC": {
+        "id": "CRVXBT",
+        "lowercaseId": null,
+        "symbol": "CRV/BTC",
+        "base": "CRV",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "CRV",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.1,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": 0.01
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "CRVXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "CRV",
+            "counter_currency": "XBT",
+            "min_volume": "1.00",
+            "max_volume": "1000000.00",
+            "volume_scale": "1",
+            "min_price": "0.000001",
+            "max_price": "0.01",
+            "price_scale": "7",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "CRV/NGN": {
+        "id": "CRVNGN",
+        "lowercaseId": null,
+        "symbol": "CRV/NGN",
+        "base": "CRV",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "CRV",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "CRVNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "CRV",
+            "counter_currency": "NGN",
+            "min_volume": "0.10",
+            "max_volume": "100000.00",
+            "volume_scale": "2",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "CRV/ZAR": {
+        "id": "CRVZAR",
+        "lowercaseId": null,
+        "symbol": "CRV/ZAR",
+        "base": "CRV",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "CRV",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 1000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "CRVZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "CRV",
+            "counter_currency": "ZAR",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.10",
+            "max_price": "1000.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AAVE/BTC": {
+        "id": "AAVEXBT",
+        "lowercaseId": null,
+        "symbol": "AAVE/BTC",
+        "base": "AAVE",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "AAVE",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AAVEXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "AAVE",
+            "counter_currency": "XBT",
+            "min_volume": "0.01",
+            "max_volume": "10000.00",
+            "volume_scale": "3",
+            "min_price": "0.0001",
+            "max_price": "1.00",
+            "price_scale": "5",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AAVE/NGN": {
+        "id": "AAVENGN",
+        "lowercaseId": null,
+        "symbol": "AAVE/NGN",
+        "base": "AAVE",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "AAVE",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1000.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AAVENGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "AAVE",
+            "counter_currency": "NGN",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1000.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "AAVE/ZAR": {
+        "id": "AAVEZAR",
+        "lowercaseId": null,
+        "symbol": "AAVE/ZAR",
+        "base": "AAVE",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "AAVE",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "AAVEZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "AAVE",
+            "counter_currency": "ZAR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MKR/BTC": {
+        "id": "MKRXBT",
+        "lowercaseId": null,
+        "symbol": "MKR/BTC",
+        "base": "MKR",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "MKR",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100.0
+            },
+            "price": {
+                "min": 0.001,
+                "max": 10.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MKRXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "MKR",
+            "counter_currency": "XBT",
+            "min_volume": "0.001",
+            "max_volume": "100.00",
+            "volume_scale": "4",
+            "min_price": "0.001",
+            "max_price": "10.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MKR/NGN": {
+        "id": "MKRNGN",
+        "lowercaseId": null,
+        "symbol": "MKR/NGN",
+        "base": "MKR",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "MKR",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100.0
+            },
+            "price": {
+                "min": 100000.0,
+                "max": 100000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MKRNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "MKR",
+            "counter_currency": "NGN",
+            "min_volume": "0.0001",
+            "max_volume": "100.00",
+            "volume_scale": "6",
+            "min_price": "100000.00",
+            "max_price": "100000000.00",
+            "price_scale": "-3",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "MKR/ZAR": {
+        "id": "MKRZAR",
+        "lowercaseId": null,
+        "symbol": "MKR/ZAR",
+        "base": "MKR",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "MKR",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100.0
+            },
+            "price": {
+                "min": 1000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "MKRZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "MKR",
+            "counter_currency": "ZAR",
+            "min_volume": "0.0001",
+            "max_volume": "100.00",
+            "volume_scale": "6",
+            "min_price": "1000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/USDT": {
+        "id": "SOLUSDT",
+        "lowercaseId": null,
+        "symbol": "SOL/USDT",
+        "base": "SOL",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLUSDT",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "USDT",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/ADA": {
+        "id": "SOLADA",
+        "lowercaseId": null,
+        "symbol": "SOL/ADA",
+        "base": "SOL",
+        "quote": "ADA",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "ADA",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLADA",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "ADA",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/XRP": {
+        "id": "SOLXRP",
+        "lowercaseId": null,
+        "symbol": "SOL/XRP",
+        "base": "SOL",
+        "quote": "XRP",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "XRP",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLXRP",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "XRP",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/BTC": {
+        "id": "SOLXBT",
+        "lowercaseId": null,
+        "symbol": "SOL/BTC",
+        "base": "SOL",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "XBT",
+            "min_volume": "0.01",
+            "max_volume": "10000.00",
+            "volume_scale": "3",
+            "min_price": "0.0001",
+            "max_price": "1.00",
+            "price_scale": "5",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/EUR": {
+        "id": "SOLEUR",
+        "lowercaseId": null,
+        "symbol": "SOL/EUR",
+        "base": "SOL",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLEUR",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "EUR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/AUD": {
+        "id": "SOLAUD",
+        "lowercaseId": null,
+        "symbol": "SOL/AUD",
+        "base": "SOL",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLAUD",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "AUD",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/IDR": {
+        "id": "SOLIDR",
+        "lowercaseId": null,
+        "symbol": "SOL/IDR",
+        "base": "SOL",
+        "quote": "IDR",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "IDR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLIDR",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "IDR",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "10000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/MYR": {
+        "id": "SOLMYR",
+        "lowercaseId": null,
+        "symbol": "SOL/MYR",
+        "base": "SOL",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "MYR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/NGN": {
+        "id": "SOLNGN",
+        "lowercaseId": null,
+        "symbol": "SOL/NGN",
+        "base": "SOL",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 1000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "NGN",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "1000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/UGX": {
+        "id": "SOLUGX",
+        "lowercaseId": null,
+        "symbol": "SOL/UGX",
+        "base": "SOL",
+        "quote": "UGX",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "UGX",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLUGX",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "UGX",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "10000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "SOL/ZAR": {
+        "id": "SOLZAR",
+        "lowercaseId": null,
+        "symbol": "SOL/ZAR",
+        "base": "SOL",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "SOLZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "SOL",
+            "counter_currency": "ZAR",
+            "min_volume": "0.001",
+            "max_volume": "10000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XRP/USDT": {
+        "id": "XRPUSDT",
+        "lowercaseId": null,
+        "symbol": "XRP/USDT",
+        "base": "XRP",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.1,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XRPUSDT",
+            "trading_status": "ACTIVE",
+            "base_currency": "XRP",
+            "counter_currency": "USDT",
+            "min_volume": "0.10",
+            "max_volume": "1000000.00",
+            "volume_scale": "2",
+            "min_price": "0.01",
+            "max_price": "100.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XRP/BTC": {
+        "id": "XRPXBT",
+        "lowercaseId": null,
+        "symbol": "XRP/BTC",
+        "base": "XRP",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": 0.0001
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XRPXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "XRP",
+            "counter_currency": "XBT",
+            "min_volume": "1.00",
+            "max_volume": "100000.00",
+            "volume_scale": "0",
+            "min_price": "0.000001",
+            "max_price": "0.0001",
+            "price_scale": "8",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XRP/MYR": {
+        "id": "XRPMYR",
+        "lowercaseId": null,
+        "symbol": "XRP/MYR",
+        "base": "XRP",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XRPMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "XRP",
+            "counter_currency": "MYR",
+            "min_volume": "1.00",
+            "max_volume": "100000.00",
+            "volume_scale": "0",
+            "min_price": "0.10",
+            "max_price": "100.00",
+            "price_scale": "4",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XRP/NGN": {
+        "id": "XRPNGN",
+        "lowercaseId": null,
+        "symbol": "XRP/NGN",
+        "base": "XRP",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 1.0,
+                "max": 10000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XRPNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "XRP",
+            "counter_currency": "NGN",
+            "min_volume": "1.00",
+            "max_volume": "100000.00",
+            "volume_scale": "0",
+            "min_price": "1.00",
+            "max_price": "10000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "XRP/ZAR": {
+        "id": "XRPZAR",
+        "lowercaseId": null,
+        "symbol": "XRP/ZAR",
+        "base": "XRP",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 0.1,
+                "max": 100.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XRPZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "XRP",
+            "counter_currency": "ZAR",
+            "min_volume": "1.00",
+            "max_volume": "100000.00",
+            "volume_scale": "0",
+            "min_price": "0.10",
+            "max_price": "100.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/USDT": {
+        "id": "ETHUSDT",
+        "lowercaseId": null,
+        "symbol": "ETH/USDT",
+        "base": "ETH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 7e-05,
+                "max": 100.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHUSDT",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "USDT",
+            "min_volume": "0.00007",
+            "max_volume": "100.00",
+            "volume_scale": "6",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/USDC": {
+        "id": "ETHUSDC",
+        "lowercaseId": null,
+        "symbol": "ETH/USDC",
+        "base": "ETH",
+        "quote": "USDC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHUSDC",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "USDC",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "1000000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/BTC": {
+        "id": "ETHXBT",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "XBT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": 1.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHXBT",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "XBT",
+            "min_volume": "0.01",
+            "max_volume": "1000.00",
+            "volume_scale": "2",
+            "min_price": "0.0001",
+            "max_price": "1.00",
+            "price_scale": "6",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/EUR": {
+        "id": "ETHEUR",
+        "lowercaseId": null,
+        "symbol": "ETH/EUR",
+        "base": "ETH",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHEUR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "EUR",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/GBP": {
+        "id": "ETHGBP",
+        "lowercaseId": null,
+        "symbol": "ETH/GBP",
+        "base": "ETH",
+        "quote": "GBP",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "GBP",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHGBP",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "GBP",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/AUD": {
+        "id": "ETHAUD",
+        "lowercaseId": null,
+        "symbol": "ETH/AUD",
+        "base": "ETH",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHAUD",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "AUD",
+            "min_volume": "0.001",
+            "max_volume": "1000.00",
+            "volume_scale": "4",
+            "min_price": "10.00",
+            "max_price": "100000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/IDR": {
+        "id": "ETHIDR",
+        "lowercaseId": null,
+        "symbol": "ETH/IDR",
+        "base": "ETH",
+        "quote": "IDR",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "IDR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 400.0
+            },
+            "price": {
+                "min": 100000.0,
+                "max": 200000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHIDR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "IDR",
+            "min_volume": "0.001",
+            "max_volume": "400.00",
+            "volume_scale": "4",
+            "min_price": "100000.00",
+            "max_price": "200000000.00",
+            "price_scale": "-3",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/MYR": {
+        "id": "ETHMYR",
+        "lowercaseId": null,
+        "symbol": "ETH/MYR",
+        "base": "ETH",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 100.0
+            },
+            "price": {
+                "min": 5.0,
+                "max": 100000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "MYR",
+            "min_volume": "0.001",
+            "max_volume": "100.00",
+            "volume_scale": "4",
+            "min_price": "5.00",
+            "max_price": "100000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/NGN": {
+        "id": "ETHNGN",
+        "lowercaseId": null,
+        "symbol": "ETH/NGN",
+        "base": "ETH",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 200.0
+            },
+            "price": {
+                "min": 5000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "NGN",
+            "min_volume": "0.001",
+            "max_volume": "200.00",
+            "volume_scale": "6",
+            "min_price": "5000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "ETH/ZAR": {
+        "id": "ETHZAR",
+        "lowercaseId": null,
+        "symbol": "ETH/ZAR",
+        "base": "ETH",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0005,
+                "max": 100.0
+            },
+            "price": {
+                "min": 1000.0,
+                "max": 2000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "ETHZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "ETH",
+            "counter_currency": "ZAR",
+            "min_volume": "0.0005",
+            "max_volume": "100.00",
+            "volume_scale": "6",
+            "min_price": "1000.00",
+            "max_price": "2000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/USDT": {
+        "id": "XBTUSDT",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0005,
+                "max": 100.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTUSDT",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "USDT",
+            "min_volume": "0.0005",
+            "max_volume": "100.00",
+            "volume_scale": "4",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/USDC": {
+        "id": "XBTUSDC",
+        "lowercaseId": null,
+        "symbol": "BTC/USDC",
+        "base": "BTC",
+        "quote": "USDC",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "USDC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0005,
+                "max": 100.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTUSDC",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "USDC",
+            "min_volume": "0.0005",
+            "max_volume": "100.00",
+            "volume_scale": "4",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/EUR": {
+        "id": "XBTEUR",
+        "lowercaseId": null,
+        "symbol": "BTC/EUR",
+        "base": "BTC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0002,
+                "max": 100.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTEUR",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "EUR",
+            "min_volume": "0.0002",
+            "max_volume": "100.00",
+            "volume_scale": "4",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/GBP": {
+        "id": "XBTGBP",
+        "lowercaseId": null,
+        "symbol": "BTC/GBP",
+        "base": "BTC",
+        "quote": "GBP",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "GBP",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0002,
+                "max": 100.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTGBP",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "GBP",
+            "min_volume": "0.0002",
+            "max_volume": "100.00",
+            "volume_scale": "4",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/AUD": {
+        "id": "XBTAUD",
+        "lowercaseId": null,
+        "symbol": "BTC/AUD",
+        "base": "BTC",
+        "quote": "AUD",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "AUD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0002,
+                "max": 100.0
+            },
+            "price": {
+                "min": 100.0,
+                "max": 1000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTAUD",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "AUD",
+            "min_volume": "0.0002",
+            "max_volume": "100.00",
+            "volume_scale": "4",
+            "min_price": "100.00",
+            "max_price": "1000000.00",
+            "price_scale": "2",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/IDR": {
+        "id": "XBTIDR",
+        "lowercaseId": null,
+        "symbol": "BTC/IDR",
+        "base": "BTC",
+        "quote": "IDR",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "IDR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0002,
+                "max": 60.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 1500000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTIDR",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "IDR",
+            "min_volume": "0.0002",
+            "max_volume": "60.00",
+            "volume_scale": "6",
+            "min_price": "10.00",
+            "max_price": "1500000000.00",
+            "price_scale": "-3",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/MYR": {
+        "id": "XBTMYR",
+        "lowercaseId": null,
+        "symbol": "BTC/MYR",
+        "base": "BTC",
+        "quote": "MYR",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "MYR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0002,
+                "max": 100.0
+            },
+            "price": {
+                "min": 10000.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTMYR",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "MYR",
+            "min_volume": "0.0002",
+            "max_volume": "100.00",
+            "volume_scale": "6",
+            "min_price": "10000.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/NGN": {
+        "id": "XBTNGN",
+        "lowercaseId": null,
+        "symbol": "BTC/NGN",
+        "base": "BTC",
+        "quote": "NGN",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "NGN",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 90.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 1000000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTNGN",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "NGN",
+            "min_volume": "0.0001",
+            "max_volume": "90.00",
+            "volume_scale": "6",
+            "min_price": "10.00",
+            "max_price": "1000000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/UGX": {
+        "id": "XBTUGX",
+        "lowercaseId": null,
+        "symbol": "BTC/UGX",
+        "base": "BTC",
+        "quote": "UGX",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "UGX",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.1,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0002,
+                "max": 90.0
+            },
+            "price": {
+                "min": 1000.0,
+                "max": 1000000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTUGX",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "UGX",
+            "min_volume": "0.0002",
+            "max_volume": "90.00",
+            "volume_scale": "6",
+            "min_price": "1000.00",
+            "max_price": "1000000000.00",
+            "price_scale": "-3",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    },
+    "BTC/ZAR": {
+        "id": "XBTZAR",
+        "lowercaseId": null,
+        "symbol": "BTC/ZAR",
+        "base": "BTC",
+        "quote": "ZAR",
+        "settle": null,
+        "baseId": "XBT",
+        "quoteId": "ZAR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.001,
+        "maker": 0.0,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 1.0,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0002,
+                "max": 100.0
+            },
+            "price": {
+                "min": 10.0,
+                "max": 10000000.0
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "market_id": "XBTZAR",
+            "trading_status": "ACTIVE",
+            "base_currency": "XBT",
+            "counter_currency": "ZAR",
+            "min_volume": "0.0002",
+            "max_volume": "100.00",
+            "volume_scale": "6",
+            "min_price": "10.00",
+            "max_price": "10000000.00",
+            "price_scale": "0",
+            "fee_scale": "8"
+        },
+        "percentage": true,
+        "tierBased": true
+    }
+}

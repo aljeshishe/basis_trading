@@ -1,0 +1,2722 @@
+{
+    "ADA/USDT": {
+        "id": "ADA_USDT",
+        "lowercaseId": null,
+        "symbol": "ADA/USDT",
+        "base": "ADA",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ADA",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-11,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ADA_USDT",
+            "currency1": "ADA",
+            "currency2": "USDT",
+            "price_precision": "6",
+            "amount_precision": "4",
+            "minimum_order_size": "0.00001000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "ALP/USDT": {
+        "id": "ALP_USDT",
+        "lowercaseId": null,
+        "symbol": "ALP/USDT",
+        "base": "ALP",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ALP",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 1e-05,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-08,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ALP_USDT",
+            "currency1": "ALP",
+            "currency2": "USDT",
+            "price_precision": "5",
+            "amount_precision": "3",
+            "minimum_order_size": "0.00100000",
+            "maximum_order_size": "10000000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "ASH/USDT": {
+        "id": "ASH_USDT",
+        "lowercaseId": null,
+        "symbol": "ASH/USDT",
+        "base": "ASH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ASH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-13,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ASH_USDT",
+            "currency1": "ASH",
+            "currency2": "USDT",
+            "price_precision": "8",
+            "amount_precision": "8",
+            "minimum_order_size": "0.00001000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "3.50000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "BDX/BTC": {
+        "id": "BDX_BTC",
+        "lowercaseId": null,
+        "symbol": "BDX/BTC",
+        "base": "BDX",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "BDX",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "BDX_BTC",
+            "currency1": "BDX",
+            "currency2": "BTC",
+            "price_precision": "8",
+            "amount_precision": "0",
+            "minimum_order_size": "0.00000000",
+            "maximum_order_size": "100000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "BDX/USDT": {
+        "id": "BDX_USDT",
+        "lowercaseId": null,
+        "symbol": "BDX/USDT",
+        "base": "BDX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BDX",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-08,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "BDX_USDT",
+            "currency1": "BDX",
+            "currency2": "USDT",
+            "price_precision": "4",
+            "amount_precision": "4",
+            "minimum_order_size": "0.00010000",
+            "maximum_order_size": "100000000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "BTC/EUR": {
+        "id": "BTC_EUR",
+        "lowercaseId": null,
+        "symbol": "BTC/EUR",
+        "base": "BTC",
+        "quote": "EUR",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "EUR",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0005,
+                "max": 1000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 5e-06,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "BTC_EUR",
+            "currency1": "BTC",
+            "currency2": "EUR",
+            "price_precision": "2",
+            "amount_precision": "5",
+            "minimum_order_size": "0.00050000",
+            "maximum_order_size": "1000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "BTC/USDT": {
+        "id": "BTC_USDT",
+        "lowercaseId": null,
+        "symbol": "BTC/USDT",
+        "base": "BTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "BTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-06,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 10000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-07,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "BTC_USDT",
+            "currency1": "BTC",
+            "currency2": "USDT",
+            "price_precision": "2",
+            "amount_precision": "6",
+            "minimum_order_size": "0.00001000",
+            "maximum_order_size": "10000.00000000",
+            "minimum_order_value": "3.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "CGT/USDT": {
+        "id": "CGT_USDT",
+        "lowercaseId": null,
+        "symbol": "CGT/USDT",
+        "base": "CGT",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "CGT",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-09,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "CGT_USDT",
+            "currency1": "CGT",
+            "currency2": "USDT",
+            "price_precision": "4",
+            "amount_precision": "4",
+            "minimum_order_size": "0.00001000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "DASH/USDT": {
+        "id": "DASH_USDT",
+        "lowercaseId": null,
+        "symbol": "DASH/USDT",
+        "base": "DASH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "DASH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-07,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "DASH_USDT",
+            "currency1": "DASH",
+            "currency2": "USDT",
+            "price_precision": "2",
+            "amount_precision": "8",
+            "minimum_order_size": "0.00001000",
+            "maximum_order_size": "100000000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "20"
+        },
+        "percentage": true
+    },
+    "DCY/BTC": {
+        "id": "DCY_BTC",
+        "lowercaseId": null,
+        "symbol": "DCY/BTC",
+        "base": "DCY",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "DCY",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "DCY_BTC",
+            "currency1": "DCY",
+            "currency2": "BTC",
+            "price_precision": "8",
+            "amount_precision": "0",
+            "minimum_order_size": "0.00000000",
+            "maximum_order_size": "100000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "20"
+        },
+        "percentage": true
+    },
+    "DOGE/BTC": {
+        "id": "DOGE_BTC",
+        "lowercaseId": null,
+        "symbol": "DOGE/BTC",
+        "base": "DOGE",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "DOGE_BTC",
+            "currency1": "DOGE",
+            "currency2": "BTC",
+            "price_precision": "8",
+            "amount_precision": "0",
+            "minimum_order_size": "0.00000000",
+            "maximum_order_size": "100000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "DOGE/USDT": {
+        "id": "DOGE_USDT",
+        "lowercaseId": null,
+        "symbol": "DOGE/USDT",
+        "base": "DOGE",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "DOGE",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-06,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "DOGE_USDT",
+            "currency1": "DOGE",
+            "currency2": "USDT",
+            "price_precision": "6",
+            "amount_precision": "2",
+            "minimum_order_size": "1.00000000",
+            "maximum_order_size": "10000000.00000000",
+            "minimum_order_value": "3.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "ETC/BTC": {
+        "id": "ETC_BTC",
+        "lowercaseId": null,
+        "symbol": "ETC/BTC",
+        "base": "ETC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETC",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-08,
+            "price": 1e-07,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1e-07,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-10,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ETC_BTC",
+            "currency1": "ETC",
+            "currency2": "BTC",
+            "price_precision": "7",
+            "amount_precision": "8",
+            "minimum_order_size": "0.00100000",
+            "maximum_order_size": "1000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "20"
+        },
+        "percentage": true
+    },
+    "ETH/BTC": {
+        "id": "ETH_BTC",
+        "lowercaseId": null,
+        "symbol": "ETH/BTC",
+        "base": "ETH",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-09,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ETH_BTC",
+            "currency1": "ETH",
+            "currency2": "BTC",
+            "price_precision": "6",
+            "amount_precision": "3",
+            "minimum_order_size": "0.00100000",
+            "maximum_order_size": "1000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "ETH/USDT": {
+        "id": "ETH_USDT",
+        "lowercaseId": null,
+        "symbol": "ETH/USDT",
+        "base": "ETH",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "ETH",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-06,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "ETH_USDT",
+            "currency1": "ETH",
+            "currency2": "USDT",
+            "price_precision": "2",
+            "amount_precision": "4",
+            "minimum_order_size": "0.00010000",
+            "maximum_order_size": "100000.00000000",
+            "minimum_order_value": "3.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "FLOKI/USDT": {
+        "id": "FLOKI_USDT",
+        "lowercaseId": null,
+        "symbol": "FLOKI/USDT",
+        "base": "FLOKI",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "FLOKI",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-13,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "FLOKI_USDT",
+            "currency1": "FLOKI",
+            "currency2": "USDT",
+            "price_precision": "8",
+            "amount_precision": "2",
+            "minimum_order_size": "0.00001000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "GDDR/USDT": {
+        "id": "GDDR_USDT",
+        "lowercaseId": null,
+        "symbol": "GDDR/USDT",
+        "base": "GDDR",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "GDDR",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0001,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "GDDR_USDT",
+            "currency1": "GDDR",
+            "currency2": "USDT",
+            "price_precision": "2",
+            "amount_precision": "5",
+            "minimum_order_size": "0.01000000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "0"
+        },
+        "percentage": true
+    },
+    "GERA/USDT": {
+        "id": "GERA_USDT",
+        "lowercaseId": null,
+        "symbol": "GERA/USDT",
+        "base": "GERA",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "GERA",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-08,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "GERA_USDT",
+            "currency1": "GERA",
+            "currency2": "USDT",
+            "price_precision": "4",
+            "amount_precision": "4",
+            "minimum_order_size": "0.00010000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "GRDR/USDT": {
+        "id": "GRDR_USDT",
+        "lowercaseId": null,
+        "symbol": "GRDR/USDT",
+        "base": "GRDR",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "GRDR",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0001,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "GRDR_USDT",
+            "currency1": "GRDR",
+            "currency2": "USDT",
+            "price_precision": "2",
+            "amount_precision": "5",
+            "minimum_order_size": "0.01000000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "0"
+        },
+        "percentage": true
+    },
+    "HMR/USDT": {
+        "id": "HMR_USDT",
+        "lowercaseId": null,
+        "symbol": "HMR/USDT",
+        "base": "HMR",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "HMR",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.001,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 1e-05,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-08,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "HMR_USDT",
+            "currency1": "HMR",
+            "currency2": "USDT",
+            "price_precision": "5",
+            "amount_precision": "3",
+            "minimum_order_size": "0.00100000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "LTC/BTC": {
+        "id": "LTC_BTC",
+        "lowercaseId": null,
+        "symbol": "LTC/BTC",
+        "base": "LTC",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-08,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "LTC_BTC",
+            "currency1": "LTC",
+            "currency2": "BTC",
+            "price_precision": "6",
+            "amount_precision": "2",
+            "minimum_order_size": "0.01000000",
+            "maximum_order_size": "1000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "LTC/USDT": {
+        "id": "LTC_USDT",
+        "lowercaseId": null,
+        "symbol": "LTC/USDT",
+        "base": "LTC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "LTC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0001,
+                "max": 100000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-06,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "LTC_USDT",
+            "currency1": "LTC",
+            "currency2": "USDT",
+            "price_precision": "2",
+            "amount_precision": "4",
+            "minimum_order_size": "0.00010000",
+            "maximum_order_size": "100000.00000000",
+            "minimum_order_value": "3.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "REV/USDT": {
+        "id": "REV_USDT",
+        "lowercaseId": null,
+        "symbol": "REV/USDT",
+        "base": "REV",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "REV",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-06,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 1e-06,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-08,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "REV_USDT",
+            "currency1": "REV",
+            "currency2": "USDT",
+            "price_precision": "6",
+            "amount_precision": "2",
+            "minimum_order_size": "0.01000000",
+            "maximum_order_size": "10000000.00000000",
+            "minimum_order_value": "1.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "SHIB/USDT": {
+        "id": "SHIB_USDT",
+        "lowercaseId": null,
+        "symbol": "SHIB/USDT",
+        "base": "SHIB",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SHIB",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-13,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "SHIB_USDT",
+            "currency1": "SHIB",
+            "currency2": "USDT",
+            "price_precision": "8",
+            "amount_precision": "2",
+            "minimum_order_size": "0.00001000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "SOL/USDT": {
+        "id": "SOL_USDT",
+        "lowercaseId": null,
+        "symbol": "SOL/USDT",
+        "base": "SOL",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "SOL",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1e-05,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-09,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "SOL_USDT",
+            "currency1": "SOL",
+            "currency2": "USDT",
+            "price_precision": "4",
+            "amount_precision": "2",
+            "minimum_order_size": "0.00001000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "3.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "NOT USE/NOPE": {
+        "id": "spot",
+        "lowercaseId": null,
+        "symbol": "NOT USE/NOPE",
+        "base": "NOT USE",
+        "quote": "NOPE",
+        "settle": null,
+        "baseId": "not use",
+        "quoteId": "nope",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 999.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0001,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "spot",
+            "currency1": "not use",
+            "currency2": "nope",
+            "price_precision": "2",
+            "amount_precision": "2",
+            "minimum_order_size": "0.01000000",
+            "maximum_order_size": "999.00000000",
+            "minimum_order_value": "1.00000000",
+            "liquidity_type": "1"
+        },
+        "percentage": true
+    },
+    "STRM/USDT": {
+        "id": "STRM_USDT",
+        "lowercaseId": null,
+        "symbol": "STRM/USDT",
+        "base": "STRM",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "STRM",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-06,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "STRM_USDT",
+            "currency1": "STRM",
+            "currency2": "USDT",
+            "price_precision": "4",
+            "amount_precision": "2",
+            "minimum_order_size": "0.01000000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "TFT/BTC": {
+        "id": "TFT_BTC",
+        "lowercaseId": null,
+        "symbol": "TFT/BTC",
+        "base": "TFT",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "TFT",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "TFT_BTC",
+            "currency1": "TFT",
+            "currency2": "BTC",
+            "price_precision": "8",
+            "amount_precision": "0",
+            "minimum_order_size": "0.00000000",
+            "maximum_order_size": "100000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "TRX/BTC": {
+        "id": "TRX_BTC",
+        "lowercaseId": null,
+        "symbol": "TRX/BTC",
+        "base": "TRX",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "TRX",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.0,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "TRX_BTC",
+            "currency1": "TRX",
+            "currency2": "BTC",
+            "price_precision": "8",
+            "amount_precision": "0",
+            "minimum_order_size": "0.00000000",
+            "maximum_order_size": "10000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "TRX/USDT": {
+        "id": "TRX_USDT",
+        "lowercaseId": null,
+        "symbol": "TRX/USDT",
+        "base": "TRX",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "TRX",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 1e-05,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 10000000.0
+            },
+            "price": {
+                "min": 1e-05,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-05,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "TRX_USDT",
+            "currency1": "TRX",
+            "currency2": "USDT",
+            "price_precision": "5",
+            "amount_precision": "2",
+            "minimum_order_size": "1.00000000",
+            "maximum_order_size": "10000000.00000000",
+            "minimum_order_value": "3.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "USDC/USDA": {
+        "id": "USDC_USDA",
+        "lowercaseId": null,
+        "symbol": "USDC/USDA",
+        "base": "USDC",
+        "quote": "USDA",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "USDA",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 5.0,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0005,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USDC_USDA",
+            "currency1": "USDC",
+            "currency2": "USDA",
+            "price_precision": "4",
+            "amount_precision": "2",
+            "minimum_order_size": "5.00000000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "USDC/USDT": {
+        "id": "USDC_USDT",
+        "lowercaseId": null,
+        "symbol": "USDC/USDT",
+        "base": "USDC",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "USDC",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 5.0,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0005,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USDC_USDT",
+            "currency1": "USDC",
+            "currency2": "USDT",
+            "price_precision": "4",
+            "amount_precision": "2",
+            "minimum_order_size": "5.00000000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "3.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "USDT/TRY": {
+        "id": "USDT_TRY",
+        "lowercaseId": null,
+        "symbol": "USDT/TRY",
+        "base": "USDT",
+        "quote": "TRY",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "TRY",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 900000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0001,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USDT_TRY",
+            "currency1": "USDT",
+            "currency2": "TRY",
+            "price_precision": "2",
+            "amount_precision": "2",
+            "minimum_order_size": "0.01000000",
+            "maximum_order_size": "900000.00000000",
+            "minimum_order_value": "10.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "USDT/UAH": {
+        "id": "USDT_UAH",
+        "lowercaseId": null,
+        "symbol": "USDT/UAH",
+        "base": "USDT",
+        "quote": "UAH",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "UAH",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.01,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 3.0,
+                "max": 100000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0003,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USDT_UAH",
+            "currency1": "USDT",
+            "currency2": "UAH",
+            "price_precision": "4",
+            "amount_precision": "2",
+            "minimum_order_size": "3.00000000",
+            "maximum_order_size": "100000000.00000000",
+            "minimum_order_value": "100.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "USDT/USD": {
+        "id": "USDT_USD",
+        "lowercaseId": null,
+        "symbol": "USDT/USD",
+        "base": "USDT",
+        "quote": "USD",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "USD",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 5.0,
+                "max": 200000.0
+            },
+            "price": {
+                "min": 0.001,
+                "max": null
+            },
+            "cost": {
+                "min": 0.005,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USDT_USD",
+            "currency1": "USDT",
+            "currency2": "USD",
+            "price_precision": "3",
+            "amount_precision": "4",
+            "minimum_order_size": "5.00000000",
+            "maximum_order_size": "200000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "USDT/USDA": {
+        "id": "USDT_USDA",
+        "lowercaseId": null,
+        "symbol": "USDT/USDA",
+        "base": "USDT",
+        "quote": "USDA",
+        "settle": null,
+        "baseId": "USDT",
+        "quoteId": "USDA",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 5.0,
+                "max": 200000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0005,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USDT_USDA",
+            "currency1": "USDT",
+            "currency2": "USDA",
+            "price_precision": "4",
+            "amount_precision": "3",
+            "minimum_order_size": "5.00000000",
+            "maximum_order_size": "200000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "USD/USDA": {
+        "id": "USD_USDA",
+        "lowercaseId": null,
+        "symbol": "USD/USDA",
+        "base": "USD",
+        "quote": "USDA",
+        "settle": null,
+        "baseId": "USD",
+        "quoteId": "USDA",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 0.0001,
+            "price": 0.0001,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 5.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.0001,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0005,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "USD_USDA",
+            "currency1": "USD",
+            "currency2": "USDA",
+            "price_precision": "4",
+            "amount_precision": "4",
+            "minimum_order_size": "5.00000000",
+            "maximum_order_size": "1000000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "VOLT/USDT": {
+        "id": "VOLT_USDT",
+        "lowercaseId": null,
+        "symbol": "VOLT/USDT",
+        "base": "VOLT",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "VOLT",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 200000.0,
+                "max": 1000000000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 0.002,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "VOLT_USDT",
+            "currency1": "VOLT",
+            "currency2": "USDT",
+            "price_precision": "8",
+            "amount_precision": "0",
+            "minimum_order_size": "200000.00000000",
+            "maximum_order_size": "1000000000.00000000",
+            "minimum_order_value": "5.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "XRP/BTC": {
+        "id": "XRP_BTC",
+        "lowercaseId": null,
+        "symbol": "XRP/BTC",
+        "base": "XRP",
+        "quote": "BTC",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "BTC",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1.0,
+            "price": 1e-08,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 1.0,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 1e-08,
+                "max": null
+            },
+            "cost": {
+                "min": 1e-08,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "XRP_BTC",
+            "currency1": "XRP",
+            "currency2": "BTC",
+            "price_precision": "8",
+            "amount_precision": "0",
+            "minimum_order_size": "1.00000000",
+            "maximum_order_size": "1000000.00000000",
+            "minimum_order_value": "0.00020000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    },
+    "XRP/USDT": {
+        "id": "XRP_USDT",
+        "lowercaseId": null,
+        "symbol": "XRP/USDT",
+        "base": "XRP",
+        "quote": "USDT",
+        "settle": null,
+        "baseId": "XRP",
+        "quoteId": "USDT",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": false,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": null,
+        "active": true,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": 0.002,
+        "maker": 0.002,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": 1e-05,
+            "price": 0.01,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": 0.01,
+                "max": 1000000.0
+            },
+            "price": {
+                "min": 0.01,
+                "max": null
+            },
+            "cost": {
+                "min": 0.0001,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": {
+            "name": "XRP_USDT",
+            "currency1": "XRP",
+            "currency2": "USDT",
+            "price_precision": "2",
+            "amount_precision": "5",
+            "minimum_order_size": "0.01000000",
+            "maximum_order_size": "1000000.00000000",
+            "minimum_order_value": "3.00000000",
+            "liquidity_type": "10"
+        },
+        "percentage": true
+    }
+}

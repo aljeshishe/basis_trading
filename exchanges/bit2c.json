@@ -1,0 +1,646 @@
+{
+    "BTC/NIS": {
+        "id": "BtcNis",
+        "lowercaseId": null,
+        "symbol": "BTC/NIS",
+        "base": "BTC",
+        "quote": "NIS",
+        "settle": null,
+        "baseId": "Btc",
+        "quoteId": "Nis",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.03
+                ],
+                [
+                    20000.0,
+                    0.0275
+                ],
+                [
+                    50000.0,
+                    0.025
+                ],
+                [
+                    75000.0,
+                    0.0225
+                ],
+                [
+                    100000.0,
+                    0.02
+                ],
+                [
+                    250000.0,
+                    0.015
+                ],
+                [
+                    500000.0,
+                    0.0125
+                ],
+                [
+                    750000.0,
+                    0.01
+                ],
+                [
+                    1000000.0,
+                    0.008
+                ],
+                [
+                    2000000.0,
+                    0.006
+                ],
+                [
+                    3000000.0,
+                    0.004
+                ],
+                [
+                    4000000.0,
+                    0.002
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.025
+                ],
+                [
+                    20000.0,
+                    0.0225
+                ],
+                [
+                    50000.0,
+                    0.02
+                ],
+                [
+                    75000.0,
+                    0.0175
+                ],
+                [
+                    100000.0,
+                    0.015
+                ],
+                [
+                    250000.0,
+                    0.01
+                ],
+                [
+                    500000.0,
+                    0.0075
+                ],
+                [
+                    750000.0,
+                    0.005
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    2000000.0,
+                    0.003
+                ],
+                [
+                    3000000.0,
+                    0.002
+                ],
+                [
+                    4000000.0,
+                    0.001
+                ]
+            ]
+        }
+    },
+    "ETH/NIS": {
+        "id": "EthNis",
+        "lowercaseId": null,
+        "symbol": "ETH/NIS",
+        "base": "ETH",
+        "quote": "NIS",
+        "settle": null,
+        "baseId": "Eth",
+        "quoteId": "Nis",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.03
+                ],
+                [
+                    20000.0,
+                    0.0275
+                ],
+                [
+                    50000.0,
+                    0.025
+                ],
+                [
+                    75000.0,
+                    0.0225
+                ],
+                [
+                    100000.0,
+                    0.02
+                ],
+                [
+                    250000.0,
+                    0.015
+                ],
+                [
+                    500000.0,
+                    0.0125
+                ],
+                [
+                    750000.0,
+                    0.01
+                ],
+                [
+                    1000000.0,
+                    0.008
+                ],
+                [
+                    2000000.0,
+                    0.006
+                ],
+                [
+                    3000000.0,
+                    0.004
+                ],
+                [
+                    4000000.0,
+                    0.002
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.025
+                ],
+                [
+                    20000.0,
+                    0.0225
+                ],
+                [
+                    50000.0,
+                    0.02
+                ],
+                [
+                    75000.0,
+                    0.0175
+                ],
+                [
+                    100000.0,
+                    0.015
+                ],
+                [
+                    250000.0,
+                    0.01
+                ],
+                [
+                    500000.0,
+                    0.0075
+                ],
+                [
+                    750000.0,
+                    0.005
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    2000000.0,
+                    0.003
+                ],
+                [
+                    3000000.0,
+                    0.002
+                ],
+                [
+                    4000000.0,
+                    0.001
+                ]
+            ]
+        }
+    },
+    "LTC/NIS": {
+        "id": "LtcNis",
+        "lowercaseId": null,
+        "symbol": "LTC/NIS",
+        "base": "LTC",
+        "quote": "NIS",
+        "settle": null,
+        "baseId": "Ltc",
+        "quoteId": "Nis",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.03
+                ],
+                [
+                    20000.0,
+                    0.0275
+                ],
+                [
+                    50000.0,
+                    0.025
+                ],
+                [
+                    75000.0,
+                    0.0225
+                ],
+                [
+                    100000.0,
+                    0.02
+                ],
+                [
+                    250000.0,
+                    0.015
+                ],
+                [
+                    500000.0,
+                    0.0125
+                ],
+                [
+                    750000.0,
+                    0.01
+                ],
+                [
+                    1000000.0,
+                    0.008
+                ],
+                [
+                    2000000.0,
+                    0.006
+                ],
+                [
+                    3000000.0,
+                    0.004
+                ],
+                [
+                    4000000.0,
+                    0.002
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.025
+                ],
+                [
+                    20000.0,
+                    0.0225
+                ],
+                [
+                    50000.0,
+                    0.02
+                ],
+                [
+                    75000.0,
+                    0.0175
+                ],
+                [
+                    100000.0,
+                    0.015
+                ],
+                [
+                    250000.0,
+                    0.01
+                ],
+                [
+                    500000.0,
+                    0.0075
+                ],
+                [
+                    750000.0,
+                    0.005
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    2000000.0,
+                    0.003
+                ],
+                [
+                    3000000.0,
+                    0.002
+                ],
+                [
+                    4000000.0,
+                    0.001
+                ]
+            ]
+        }
+    },
+    "USDC/NIS": {
+        "id": "UsdcNis",
+        "lowercaseId": null,
+        "symbol": "USDC/NIS",
+        "base": "USDC",
+        "quote": "NIS",
+        "settle": null,
+        "baseId": "Usdc",
+        "quoteId": "Nis",
+        "settleId": null,
+        "type": "spot",
+        "spot": true,
+        "margin": null,
+        "swap": false,
+        "future": false,
+        "option": false,
+        "index": false,
+        "active": null,
+        "contract": false,
+        "linear": null,
+        "inverse": null,
+        "subType": null,
+        "taker": null,
+        "maker": null,
+        "contractSize": null,
+        "expiry": null,
+        "expiryDatetime": null,
+        "strike": null,
+        "optionType": null,
+        "precision": {
+            "amount": null,
+            "price": null,
+            "cost": null,
+            "base": null,
+            "quote": null
+        },
+        "limits": {
+            "leverage": {
+                "min": null,
+                "max": null
+            },
+            "amount": {
+                "min": null,
+                "max": null
+            },
+            "price": {
+                "min": null,
+                "max": null
+            },
+            "cost": {
+                "min": null,
+                "max": null
+            }
+        },
+        "created": null,
+        "info": null,
+        "percentage": true,
+        "tierBased": true,
+        "tiers": {
+            "taker": [
+                [
+                    0.0,
+                    0.03
+                ],
+                [
+                    20000.0,
+                    0.0275
+                ],
+                [
+                    50000.0,
+                    0.025
+                ],
+                [
+                    75000.0,
+                    0.0225
+                ],
+                [
+                    100000.0,
+                    0.02
+                ],
+                [
+                    250000.0,
+                    0.015
+                ],
+                [
+                    500000.0,
+                    0.0125
+                ],
+                [
+                    750000.0,
+                    0.01
+                ],
+                [
+                    1000000.0,
+                    0.008
+                ],
+                [
+                    2000000.0,
+                    0.006
+                ],
+                [
+                    3000000.0,
+                    0.004
+                ],
+                [
+                    4000000.0,
+                    0.002
+                ]
+            ],
+            "maker": [
+                [
+                    0.0,
+                    0.025
+                ],
+                [
+                    20000.0,
+                    0.0225
+                ],
+                [
+                    50000.0,
+                    0.02
+                ],
+                [
+                    75000.0,
+                    0.0175
+                ],
+                [
+                    100000.0,
+                    0.015
+                ],
+                [
+                    250000.0,
+                    0.01
+                ],
+                [
+                    500000.0,
+                    0.0075
+                ],
+                [
+                    750000.0,
+                    0.005
+                ],
+                [
+                    1000000.0,
+                    0.004
+                ],
+                [
+                    2000000.0,
+                    0.003
+                ],
+                [
+                    3000000.0,
+                    0.002
+                ],
+                [
+                    4000000.0,
+                    0.001
+                ]
+            ]
+        }
+    }
+}

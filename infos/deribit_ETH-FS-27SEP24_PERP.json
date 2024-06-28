@@ -1,0 +1,79 @@
+{
+    "id": "ETH-FS-27SEP24_PERP",
+    "lowercaseId": null,
+    "symbol": "ETH-FS-27SEP24_PERP",
+    "base": "ETH",
+    "quote": "USD",
+    "settle": "ETH",
+    "baseId": "ETH",
+    "quoteId": "USD",
+    "settleId": "ETH",
+    "type": "future",
+    "spot": false,
+    "margin": false,
+    "swap": false,
+    "future": true,
+    "option": false,
+    "index": null,
+    "active": true,
+    "contract": true,
+    "linear": false,
+    "inverse": true,
+    "subType": "inverse",
+    "taker": 0.0,
+    "maker": 0.0,
+    "contractSize": 1.0,
+    "expiry": 1727424000000,
+    "expiryDatetime": "2024-09-27T08:00:00.000Z",
+    "strike": null,
+    "optionType": null,
+    "precision": {
+        "amount": 1.0,
+        "price": 0.05,
+        "cost": null,
+        "base": null,
+        "quote": null
+    },
+    "limits": {
+        "leverage": {
+            "min": null,
+            "max": null
+        },
+        "amount": {
+            "min": 1.0,
+            "max": null
+        },
+        "price": {
+            "min": 0.05,
+            "max": null
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        }
+    },
+    "created": 1695977343000,
+    "info": {
+        "tick_size_steps": [],
+        "quote_currency": "USD",
+        "min_trade_amount": "1",
+        "counter_currency": "USD",
+        "settlement_period": "month",
+        "settlement_currency": "ETH",
+        "creation_timestamp": "1695977343000",
+        "instrument_id": "270420",
+        "base_currency": "ETH",
+        "tick_size": "0.05",
+        "contract_size": "1",
+        "is_active": true,
+        "expiration_timestamp": "1727424000000",
+        "instrument_type": "reversed",
+        "instrument_name": "ETH-FS-27SEP24_PERP",
+        "taker_commission": "0",
+        "maker_commission": "0",
+        "kind": "future_combo",
+        "rfq": false,
+        "price_index": "eth_usd"
+    },
+    "percentage": true
+}
