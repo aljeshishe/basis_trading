@@ -1,7 +1,11 @@
 from contextlib import contextmanager
+import csv
+import os
 
 from datetime import datetime
 from loguru import logger
+import requests
+
 
 def dt2ts(dt):
     return int(dt.timestamp() * 1000)
@@ -22,16 +26,23 @@ def supress(exchange_id):
     except Exception as e:
         logger.exception(f"{exchange_id} failed with {e}")
         return
-import csv
-import os
+
+
 def write_to_csv(file_path, data):
-    with file_path.open('a+', newline='') as file:
-        # file.seek(0, os.SEEK_END)  # Move the cursor to the end of the file
+    is_empty = not file_path.exists() 
+    with file_path.open("a") as file:
         writer = csv.writer(file)
-        is_empty = file.tell() == 0
         if is_empty:
-            header = data[0].keys()
+            header = data.keys()
             writer.writerow(header)
 
-        for row in data:
-            writer.writerow(row.values())
+        writer.writerow(data.values())
+        
+        
+def message(msg):
+    apiToken = '5803765903:AAH2ayWpVcook4JpoiHvMzgOvJCjsLItcmw'
+    chatID = '99044115'
+    apiURL = f'https://api.telegram.org/bot{apiToken}/sendMessage'
+
+    response = requests.post(apiURL, json={'chat_id': chatID, 'text': msg})
+    response.raise_for_status()
