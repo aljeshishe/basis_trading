@@ -1,16 +1,19 @@
 from datetime import datetime, timedelta, timezone
+import json
+from pathlib import Path
+import sys
 import ccxt
 import plotly.express as px
-import logging
+from loguru import logger
 import pandas as pd
-logging.basicConfig(level=logging.INFO, format='%(asctime)s|%(levelname)s|%(message)s')
-log = logging.getLogger(__name__)
+
+from utils import supress, write_to_csv
 
 
     
-def print_futures(api, binance_api, results):
+def get_data(api, binance_api, results):
     for key, info in api.load_markets().items():
-        with supress():
+        with supress(exchange_id=api.id):
             if not info["future"] or not info["inverse"] or not info["active"]:
                 continue
             if api.id == "deribit" and info["info"]["kind"] != "future":
@@ -20,7 +23,7 @@ def print_futures(api, binance_api, results):
             future_id = info["id"]
             future_price = api.fetch_ticker(future_id)["last"]
             if future_price is None:
-                print(f"{future_id=} Last price is none")
+                logger.info(f"{future_id=} Last price is none")
                 continue
             
             base_symbol = info["settle"] + "USDT"
@@ -41,13 +44,13 @@ def print_futures(api, binance_api, results):
                 year_yield=year_yield
             )
             results.append(result)
-            print(result)
+            logger.info(result)
+            
 def main():
     logger.remove()
-    logger.add(sys.stderr,  level=main_cfg.log_level, format=main_cfg.log_format)
-    logs_file_path = main_cfg.outputs_dir / "pipeline.log"
-    logger.add(logs_file_path, level='DEBUG', format=main_cfg.log_format)
-    logger.info(f"Writing logs to: {logs_file_path}")
+    format = "{time:YYYY-MM-DD HH:mm:ss}|{process}|{name:25.25s}|{function:15.15s}|{level:4.4s}| {message}"
+    logger.add(sys.stdout,  level='DEBUG', format=format)
+    logger.add("log.log", level='DEBUG', format=format)
     logger.enable("")
 
     # alpaca" # ccxt.base.errors.PermissionDenied: alpaca {"message": "forbidden."}
@@ -62,9 +65,12 @@ def main():
     binance_api = ccxt.binance()
     results = []
     for exchange_id in EXCHANGE_IDS:
-        with supress():
+        with supress(exchange_id=exchange_id):
             api = getattr(ccxt, exchange_id)()
-            print_futures(api=api, binance_api=binance_api, results=results)
-
+            get_data(api=api, binance_api=binance_api, results=results)
+            for result in results:
+                write_to_csv(Path(f"{result.id}.csv", result))
+                # pd.DataFrame(results).sort_values(["days_till_expiry", "period_yield"])
+                
 if __name__ == "__main__":
     main()
